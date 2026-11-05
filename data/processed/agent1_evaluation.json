@@ -1,0 +1,689 @@
+{
+  "benchmark_id": "best-life-agent1-paracetamol-v1",
+  "scope": "retrieval and evidence traceability only; not scientific accuracy or clinical safety",
+  "evaluated_at": "2026-11-01T08:44:17.107162+00:00",
+  "metrics": {
+    "present_case_relevance_at_5": 1.0,
+    "expected_source_recall_at_5": 1.0,
+    "gold_source_page_recall_at_5": 1.0,
+    "traceability_rate": 1.0,
+    "absent_cases_marked_insufficient": 1.0,
+    "absent_cases_with_direct_candidates": 0
+  },
+  "scientific_accuracy_assessed": false,
+  "cases": [
+    {
+      "case_id": "MECH-01",
+      "topic": "mechanism_of_action",
+      "answer_present": true,
+      "expected_page": null,
+      "expected_source_rank": 1,
+      "expected_source_page_rank": null,
+      "retrieval_relevant": true,
+      "matched_expected_terms": [
+        "mechanism",
+        "cyclooxygenase"
+      ],
+      "traceability_complete": true,
+      "assessment_status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+      "direct_candidate_count": 4,
+      "results": [
+        {
+          "source_path": "data/research/paracetamol/text_file/abstract_only.txt",
+          "source_id": "PARA-TXT-001",
+          "page": null,
+          "section": "plain text document",
+          "evidence_id": "02f0352b263db1380045",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 12.472153058890077,
+          "semantic_score": 0.6918126344680786
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+          "source_id": "PARA-PDF-001",
+          "page": 1,
+          "section": "",
+          "evidence_id": "7b1e6355c05ec06ef6c3",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 17.85912769586864,
+          "semantic_score": 0.5614085793495178
+        },
+        {
+          "source_path": "data/research/paracetamol/text_file/abstract_only.txt",
+          "source_id": "PARA-TXT-001",
+          "page": null,
+          "section": "plain text document",
+          "evidence_id": "72fd203e953ef4982f22",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 7.693700352422668,
+          "semantic_score": 0.6341516375541687
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+          "source_id": "PARA-PDF-010",
+          "page": 39,
+          "section": "",
+          "evidence_id": "f19830c7d77344441f0d",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 8.824241551137455,
+          "semantic_score": 0.2822657823562622
+        },
+        {
+          "source_path": "data/research/paracetamol/text_file/abstract_only.txt",
+          "source_id": "PARA-TXT-001",
+          "page": null,
+          "section": "plain text document",
+          "evidence_id": "ed7b5f1542b54c5b2fbb",
+          "evidence_type": "DRUG_SPECIFIC_CONTEXT",
+          "keyword_score": 4.873249352895856,
+          "semantic_score": 0.5083702802658081
+        }
+      ]
+    },
+    {
+      "case_id": "PHARM-01",
+      "topic": "pharmacology",
+      "answer_present": true,
+      "expected_page": null,
+      "expected_source_rank": 4,
+      "expected_source_page_rank": null,
+      "retrieval_relevant": true,
+      "matched_expected_terms": [
+        "analgesic",
+        "antipyretic"
+      ],
+      "traceability_complete": true,
+      "assessment_status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+      "direct_candidate_count": 5,
+      "results": [
+        {
+          "source_path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+          "source_id": "PARA-PDF-001",
+          "page": 1,
+          "section": "",
+          "evidence_id": "7b1e6355c05ec06ef6c3",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 10.700995550638936,
+          "semantic_score": 0.7570004463195801
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/Over-the-counter pain relievers_ MedlinePlus Medical Encyclopedia_doc6.pdf",
+          "source_id": "PARA-PDF-007",
+          "page": 2,
+          "section": "",
+          "evidence_id": "9561dc4f47cb25faa33a",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 7.905532301365083,
+          "semantic_score": 0.5788649916648865
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+          "source_id": "PARA-PDF-010",
+          "page": 3,
+          "section": "",
+          "evidence_id": "8309eecf8280fe069975",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 4.750357380481461,
+          "semantic_score": 0.586014986038208
+        },
+        {
+          "source_path": "data/research/paracetamol/text_file/abstract_only.txt",
+          "source_id": "PARA-TXT-001",
+          "page": null,
+          "section": "plain text document",
+          "evidence_id": "ed7b5f1542b54c5b2fbb",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 12.262700723345114,
+          "semantic_score": 0.5337177515029907
+        },
+        {
+          "source_path": "data/research/paracetamol/text_file/abstract_only.txt",
+          "source_id": "PARA-TXT-001",
+          "page": null,
+          "section": "plain text document",
+          "evidence_id": "72fd203e953ef4982f22",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 4.845207006799692,
+          "semantic_score": 0.5687640309333801
+        }
+      ]
+    },
+    {
+      "case_id": "PK-01",
+      "topic": "pharmacokinetics",
+      "answer_present": true,
+      "expected_page": null,
+      "expected_source_rank": 5,
+      "expected_source_page_rank": null,
+      "retrieval_relevant": true,
+      "matched_expected_terms": [
+        "absorption"
+      ],
+      "traceability_complete": true,
+      "assessment_status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+      "direct_candidate_count": 5,
+      "results": [
+        {
+          "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+          "source_id": "PARA-PDF-010",
+          "page": 4,
+          "section": "",
+          "evidence_id": "5226e9bbaf5763d8d194",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 6.769532348768663,
+          "semantic_score": 0.6130294799804688
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+          "source_id": "PARA-PDF-010",
+          "page": 3,
+          "section": "",
+          "evidence_id": "8309eecf8280fe069975",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 3.591943591235216,
+          "semantic_score": 0.6136159896850586
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+          "source_id": "PARA-PDF-010",
+          "page": 31,
+          "section": "",
+          "evidence_id": "19f0778a1204664fbbc3",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 3.1914539855824335,
+          "semantic_score": 0.6344046592712402
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+          "source_id": "PARA-PDF-010",
+          "page": 17,
+          "section": "",
+          "evidence_id": "0b0153da05097e00ca89",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 3.173019066903489,
+          "semantic_score": 0.6009657979011536
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+          "source_id": "PARA-PDF-001",
+          "page": 7,
+          "section": "",
+          "evidence_id": "06e1657d3d3bda2c004d",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 5.974939227834199,
+          "semantic_score": 0.534091055393219
+        }
+      ]
+    },
+    {
+      "case_id": "MET-01",
+      "topic": "metabolism_napqi",
+      "answer_present": true,
+      "expected_page": null,
+      "expected_source_rank": 1,
+      "expected_source_page_rank": null,
+      "retrieval_relevant": true,
+      "matched_expected_terms": [
+        "napqi",
+        "metabolism"
+      ],
+      "traceability_complete": true,
+      "assessment_status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+      "direct_candidate_count": 5,
+      "results": [
+        {
+          "source_path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+          "source_id": "PARA-PDF-001",
+          "page": 3,
+          "section": "",
+          "evidence_id": "7862c07aa1ba1779390d",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 11.020046978864393,
+          "semantic_score": 0.7339299321174622
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+          "source_id": "PARA-PDF-001",
+          "page": 4,
+          "section": "",
+          "evidence_id": "5ff1251ac12ee5a75585",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 8.682386661103534,
+          "semantic_score": 0.6482985019683838
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+          "source_id": "PARA-PDF-010",
+          "page": 18,
+          "section": "",
+          "evidence_id": "1a85211ce659bbb99263",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 6.1639062754072995,
+          "semantic_score": 0.6293352246284485
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+          "source_id": "PARA-PDF-001",
+          "page": 8,
+          "section": "",
+          "evidence_id": "ce5c969bd233d02bdd99",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 11.110366027795338,
+          "semantic_score": 0.5861746072769165
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+          "source_id": "PARA-PDF-001",
+          "page": 3,
+          "section": "",
+          "evidence_id": "2cefb31306089890c725",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 5.297821840688046,
+          "semantic_score": 0.5931397676467896
+        }
+      ]
+    },
+    {
+      "case_id": "TOX-01",
+      "topic": "toxicology_safety",
+      "answer_present": true,
+      "expected_page": null,
+      "expected_source_rank": 1,
+      "expected_source_page_rank": null,
+      "retrieval_relevant": true,
+      "matched_expected_terms": [
+        "liver",
+        "overdose"
+      ],
+      "traceability_complete": true,
+      "assessment_status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+      "direct_candidate_count": 5,
+      "results": [
+        {
+          "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+          "source_id": "PARA-PDF-010",
+          "page": 17,
+          "section": "",
+          "evidence_id": "85ad3c9b3e1f9713c87c",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 6.103113773347247,
+          "semantic_score": 0.8080537915229797
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+          "source_id": "PARA-PDF-010",
+          "page": 3,
+          "section": "",
+          "evidence_id": "8309eecf8280fe069975",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 5.826111774630521,
+          "semantic_score": 0.7924193143844604
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+          "source_id": "PARA-PDF-001",
+          "page": 1,
+          "section": "",
+          "evidence_id": "a3a92e288c2b53ad2230",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 7.7362541000905,
+          "semantic_score": 0.7151893973350525
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+          "source_id": "PARA-PDF-001",
+          "page": 1,
+          "section": "",
+          "evidence_id": "37e4c3b4ef9a83665498",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 6.409888503434754,
+          "semantic_score": 0.693814218044281
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+          "source_id": "PARA-PDF-010",
+          "page": 32,
+          "section": "",
+          "evidence_id": "54b8d97b9596cb1341f8",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 4.786014557020465,
+          "semantic_score": 0.7193824052810669
+        }
+      ]
+    },
+    {
+      "case_id": "CHEM-01",
+      "topic": "chemical_properties",
+      "answer_present": true,
+      "expected_page": null,
+      "expected_source_rank": 1,
+      "expected_source_page_rank": null,
+      "retrieval_relevant": true,
+      "matched_expected_terms": [
+        "C8H9NO2",
+        "151.16"
+      ],
+      "traceability_complete": true,
+      "assessment_status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+      "direct_candidate_count": 5,
+      "results": [
+        {
+          "source_path": "data/research/paracetamol/chemical_data/Structure2D_COMPOUND_CID_1983.json",
+          "source_id": "PARA-CHEM-001",
+          "page": null,
+          "section": "PubChem compound properties",
+          "evidence_id": "1ff1b6013cc2fa56d671",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 27.94126944493508,
+          "semantic_score": 0.6609994173049927
+        },
+        {
+          "source_path": "data/research/paracetamol/chemical_data/Structure2D_COMPOUND_CID_1983.sdf",
+          "source_id": "PARA-CHEM-002",
+          "page": null,
+          "section": "RDKit-derived molecular record",
+          "evidence_id": "b1244ff2f83f96069b1c",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 24.546517372793872,
+          "semantic_score": 0.6538723111152649
+        },
+        {
+          "source_path": "data/research/paracetamol/chemical_data/PubChem_CID_1983_20261101_2D.sdf",
+          "source_id": "PUBCHEM-2D-2026",
+          "page": null,
+          "section": "RDKit-derived molecular record",
+          "evidence_id": "64349bcca3cc62489f52",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 24.546517372793872,
+          "semantic_score": 0.6538723111152649
+        },
+        {
+          "source_path": "data/research/paracetamol/chemical_data/PubChem_CID_1983_20261101_3D.sdf",
+          "source_id": "PUBCHEM-3D-2026",
+          "page": null,
+          "section": "RDKit-derived molecular record",
+          "evidence_id": "620f9ad561e7b384721e",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 24.546517372793872,
+          "semantic_score": 0.647529125213623
+        },
+        {
+          "source_path": "data/research/paracetamol/chemical_data/Conformer3D_COMPOUND_CID_1983.sdf",
+          "source_id": "PARA-CHEM-003",
+          "page": null,
+          "section": "RDKit-derived molecular record",
+          "evidence_id": "766d8af8553f175e69f6",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 24.546517372793872,
+          "semantic_score": 0.647529125213623
+        }
+      ]
+    },
+    {
+      "case_id": "STRUCT-01",
+      "topic": "molecular_structure",
+      "answer_present": true,
+      "expected_page": null,
+      "expected_source_rank": 2,
+      "expected_source_page_rank": null,
+      "retrieval_relevant": true,
+      "matched_expected_terms": [
+        "CC(=O)Nc1ccc(O)cc1",
+        "3D"
+      ],
+      "traceability_complete": true,
+      "assessment_status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+      "direct_candidate_count": 5,
+      "results": [
+        {
+          "source_path": "data/research/paracetamol/chemical_data/Structure2D_COMPOUND_CID_1983.sdf",
+          "source_id": "PARA-CHEM-002",
+          "page": null,
+          "section": "RDKit-derived molecular record",
+          "evidence_id": "b1244ff2f83f96069b1c",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 35.82582957047953,
+          "semantic_score": 0.6810967922210693
+        },
+        {
+          "source_path": "data/research/paracetamol/chemical_data/PubChem_CID_1983_20261101_3D.sdf",
+          "source_id": "PUBCHEM-3D-2026",
+          "page": null,
+          "section": "RDKit-derived molecular record",
+          "evidence_id": "620f9ad561e7b384721e",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 42.64322238008768,
+          "semantic_score": 0.6809019446372986
+        },
+        {
+          "source_path": "data/research/paracetamol/chemical_data/Conformer3D_COMPOUND_CID_1983.sdf",
+          "source_id": "PARA-CHEM-003",
+          "page": null,
+          "section": "RDKit-derived molecular record",
+          "evidence_id": "766d8af8553f175e69f6",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 42.64322238008768,
+          "semantic_score": 0.6809019446372986
+        },
+        {
+          "source_path": "data/research/paracetamol/chemical_data/PubChem_CID_1983_20261101_2D.sdf",
+          "source_id": "PUBCHEM-2D-2026",
+          "page": null,
+          "section": "RDKit-derived molecular record",
+          "evidence_id": "64349bcca3cc62489f52",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 35.82582957047953,
+          "semantic_score": 0.6810967922210693
+        },
+        {
+          "source_path": "data/research/paracetamol/chemical_data/Structure2D_COMPOUND_CID_1983.json",
+          "source_id": "PARA-CHEM-001",
+          "page": null,
+          "section": "PubChem compound properties",
+          "evidence_id": "1ff1b6013cc2fa56d671",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 6.479795073776934,
+          "semantic_score": 0.5323503017425537
+        }
+      ]
+    },
+    {
+      "case_id": "SOURCE-01",
+      "topic": "source_page_traceability",
+      "answer_present": true,
+      "expected_page": 1,
+      "expected_source_rank": 4,
+      "expected_source_page_rank": 4,
+      "retrieval_relevant": true,
+      "matched_expected_terms": [
+        "acetaminophen",
+        "liver warning"
+      ],
+      "traceability_complete": true,
+      "assessment_status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+      "direct_candidate_count": 5,
+      "results": [
+        {
+          "source_path": "data/research/paracetamol/pdf/Acetaminophen_ MedlinePlus Drug Information_doc10.pdf",
+          "source_id": "PARA-PDF-003",
+          "page": 1,
+          "section": "",
+          "evidence_id": "688f44f9b9c97437c559",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 9.742015730986406,
+          "semantic_score": 0.5514142513275146
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+          "source_id": "PARA-PDF-001",
+          "page": 1,
+          "section": "",
+          "evidence_id": "37e4c3b4ef9a83665498",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 2.8226080221904724,
+          "semantic_score": 0.6177648305892944
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+          "source_id": "PARA-PDF-001",
+          "page": 11,
+          "section": "",
+          "evidence_id": "ac2dcb3ca0b2895a5581",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 3.179849088925045,
+          "semantic_score": 0.584839403629303
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/labels/DailyMed_Medline_500mg_20260720.pdf",
+          "source_id": "DLY-4B1D-2026",
+          "page": 1,
+          "section": "",
+          "evidence_id": "2452e4ac9eab12bcbac8",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 10.593046571055494,
+          "semantic_score": 0.5320777297019958
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+          "source_id": "PARA-PDF-001",
+          "page": 12,
+          "section": "",
+          "evidence_id": "17ed0d53d6eebe51cf1a",
+          "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+          "keyword_score": 2.918060105504769,
+          "semantic_score": 0.5913238525390625
+        }
+      ]
+    },
+    {
+      "case_id": "ABSENT-01",
+      "topic": "insufficient_evidence",
+      "answer_present": false,
+      "expected_page": null,
+      "expected_source_rank": null,
+      "expected_source_page_rank": null,
+      "retrieval_relevant": false,
+      "matched_expected_terms": [],
+      "traceability_complete": true,
+      "assessment_status": "INSUFFICIENT_EVIDENCE",
+      "direct_candidate_count": 0,
+      "results": [
+        {
+          "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+          "source_id": "PARA-PDF-010",
+          "page": 4,
+          "section": "",
+          "evidence_id": "c79ed326ffa145870d93",
+          "evidence_type": "DRUG_SPECIFIC_CONTEXT",
+          "keyword_score": 6.789714794475632,
+          "semantic_score": 0.40886789560317993
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+          "source_id": "PARA-PDF-010",
+          "page": 41,
+          "section": "",
+          "evidence_id": "3c8ff2792d73d1a13056",
+          "evidence_type": "DRUG_SPECIFIC_CONTEXT",
+          "keyword_score": 5.577158767446699,
+          "semantic_score": 0.4074309170246124
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+          "source_id": "PARA-PDF-010",
+          "page": 64,
+          "section": "",
+          "evidence_id": "a87384e1314bea219c05",
+          "evidence_type": "DRUG_SPECIFIC_CONTEXT",
+          "keyword_score": 5.332804967454773,
+          "semantic_score": 0.4107811748981476
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+          "source_id": "PARA-PDF-010",
+          "page": 3,
+          "section": "",
+          "evidence_id": "8309eecf8280fe069975",
+          "evidence_type": "DRUG_SPECIFIC_CONTEXT",
+          "keyword_score": 0.6060542201704253,
+          "semantic_score": 0.45105528831481934
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/Acetaminophen_ MedlinePlus Drug Information_doc10.pdf",
+          "source_id": "PARA-PDF-003",
+          "page": 6,
+          "section": "",
+          "evidence_id": "45ecbc12bdaebaa4616c",
+          "evidence_type": "DRUG_SPECIFIC_CONTEXT",
+          "keyword_score": 3.5248820598648787,
+          "semantic_score": 0.4256925582885742
+        }
+      ]
+    },
+    {
+      "case_id": "ABSENT-02",
+      "topic": "insufficient_evidence",
+      "answer_present": false,
+      "expected_page": null,
+      "expected_source_rank": null,
+      "expected_source_page_rank": null,
+      "retrieval_relevant": false,
+      "matched_expected_terms": [],
+      "traceability_complete": true,
+      "assessment_status": "INSUFFICIENT_EVIDENCE",
+      "direct_candidate_count": 0,
+      "results": [
+        {
+          "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+          "source_id": "PARA-PDF-010",
+          "page": 31,
+          "section": "",
+          "evidence_id": "cfbcc10ccdcab9b7890f",
+          "evidence_type": "DRUG_SPECIFIC_CONTEXT",
+          "keyword_score": 2.612283666253587,
+          "semantic_score": 0.5721877217292786
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+          "source_id": "PARA-PDF-010",
+          "page": 18,
+          "section": "",
+          "evidence_id": "25337263b11b3c74f7c4",
+          "evidence_type": "DRUG_SPECIFIC_CONTEXT",
+          "keyword_score": 4.479402334591541,
+          "semantic_score": 0.4814436137676239
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+          "source_id": "PARA-PDF-010",
+          "page": 63,
+          "section": "",
+          "evidence_id": "46b7d1ad83df89af5f1e",
+          "evidence_type": "DRUG_SPECIFIC_CONTEXT",
+          "keyword_score": 1.9858339820301625,
+          "semantic_score": 0.5371657609939575
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+          "source_id": "PARA-PDF-010",
+          "page": 39,
+          "section": "",
+          "evidence_id": "059828ccc61a108cd8bb",
+          "evidence_type": "DRUG_SPECIFIC_CONTEXT",
+          "keyword_score": 6.2381584882927195,
+          "semantic_score": 0.4441697299480438
+        },
+        {
+          "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+          "source_id": "PARA-PDF-010",
+          "page": 41,
+          "section": "",
+          "evidence_id": "3c8ff2792d73d1a13056",
+          "evidence_type": "DRUG_SPECIFIC_CONTEXT",
+          "keyword_score": 2.3637497031654653,
+          "semantic_score": 0.4922058880329132
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,534 @@
+{
+  "request_id": "ca8fa7e736324a7091d789f0917d36b9",
+  "question": "explain the side effects of the paracetamol",
+  "status": "APPROVED",
+  "answer": "Paracetamol plasma level on admission (mean (SE)) (mg/L): 305 (46).\nAmount of ingested paracetamol (g): 56 vs 34.\nGazzard 1974a/uni00A0\nInterventions for paracetamol (acetaminophen) overdose (Review)\nCopyright © 2018 The Cochrane Collabora\n\nreduced probability of having a paracetamol concentration above\n150 mg/L at the four-hour nomogram line (Duﬀull 2013 ). One\nobservational series of 200 participants ingesting greater than 40 g\nof paracetamol found paracetamol concentrations",
+  "retrieval_assessment": {
+    "status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+    "reason": "Potentially relevant passages were found. Review the original source and verify the claim before using it.",
+    "drug": "paracetamol",
+    "topic": "side_effects",
+    "direct_candidates": 5,
+    "drug_specific_context": 0
+  },
+  "evidence": [
+    {
+      "source": "Acetaminophen_ MedlinePlus Drug Information_doc10.pdf",
+      "page": 4,
+      "source_id": "PARA-PDF-003",
+      "source_path": "data/research/paracetamol/pdf/Acetaminophen_ MedlinePlus Drug Information_doc10.pdf",
+      "source_url": "",
+      "source_title": "Acetaminophen: MedlinePlus Drug Information",
+      "authors": "",
+      "doi": "",
+      "pmid": "",
+      "pmcid": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": "",
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted",
+      "evidence_id": "b90a264d91c794bcd376",
+      "semantic_score": 0.6072020530700684,
+      "keyword_score": 10.47512949218838,
+      "hybrid_score": 0.02928692699490662,
+      "adjusted_score": 0.02978692699490662,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "The requested drug and topic-related terms appear in the same passage. Manual verification is required.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "side effect",
+        "side effects"
+      ],
+      "text": "Some side effects can be serious. If you experience any of the following symptoms,\nstop taking acetaminophen and call your doctor immediately or get emergency\nmedical attention:\nred, peeling or blistering skin; rash; hives; itching; swelling of the face, throat, tongue, lips, hands,\nfeet, ankles or lower legs; hoarseness; difficulty breathing or swallowing\nyellowing of the skin or whites of the eyes; upper belly pain; dark urine; pale stools\nAcetaminophen may cause other side effects. Call your doctor if you have any unusual problems while\nyou are taking this medication.\nIf you experience a serious side effect, you or your doctor may send a report to the Food and Drug\nAdministration's (FDA) MedWatch Adverse Event Reporting program online"
+    },
+    {
+      "source": "CD003328.pdf",
+      "page": 3,
+      "source_id": "PARA-PDF-010",
+      "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "source_url": "",
+      "source_title": "CD003328",
+      "authors": "",
+      "doi": "",
+      "pmid": "",
+      "pmcid": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": "",
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted",
+      "evidence_id": "8309eecf8280fe069975",
+      "semantic_score": 0.637241542339325,
+      "keyword_score": 0.6060542201704253,
+      "hybrid_score": 0.026830135039090264,
+      "adjusted_score": 0.027330135039090264,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "The requested drug and topic-related terms appear in the same passage. Manual verification is required.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "liver injury",
+        "overdose",
+        "toxicity"
+      ],
+      "text": "Copyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.\nA B S T R A C T\nBackground\nParacetamol (acetaminophen) is the most widely used non-prescription analgesic in the world. Paracetamol is commonly taken in overdose\neither deliberately or unintentionally. In high-income countries, paracetamol toxicity is a common cause of acute liver injury. There are\nvarious interventions to treat paracetamol poisoning, depending on the clinical status of the person. These interventions include inhibiting\nthe absorption of paracetamol from the gastrointestinal tract (decontamination), removal of paracetamol from the vascular system, and\nantidotes to prevent the formation of, or to detoxify, metabolites.\nObjectives"
+    },
+    {
+      "source": "CD003328.pdf",
+      "page": 18,
+      "source_id": "PARA-PDF-010",
+      "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "source_url": "",
+      "source_title": "CD003328",
+      "authors": "",
+      "doi": "",
+      "pmid": "",
+      "pmcid": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": "",
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted",
+      "evidence_id": "74609e2c34d1fc22a7fd",
+      "semantic_score": 0.5986262559890747,
+      "keyword_score": 0.574300754759513,
+      "hybrid_score": 0.02428613482484545,
+      "adjusted_score": 0.02478613482484545,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "The requested drug and topic-related terms appear in the same passage. Manual verification is required.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "overdose"
+      ],
+      "text": "review aimed to assess the benefits and harms of interventions for\nparacetamol overdose.\nO B J E C T I V E S\nTo assess the benefits and harms of interventions for paracetamol\noverdosage irrespective of the cause of the overdose.\nInterventions for paracetamol (acetaminophen) overdose (Review)\nCopyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.\n16"
+    },
+    {
+      "source": "CD003328.pdf",
+      "page": 50,
+      "source_id": "PARA-PDF-010",
+      "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "source_url": "",
+      "source_title": "CD003328",
+      "authors": "",
+      "doi": "",
+      "pmid": "",
+      "pmcid": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": "",
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted",
+      "evidence_id": "6e5b06a900381ee12433",
+      "semantic_score": 0.6037991046905518,
+      "keyword_score": 0.5719755865596123,
+      "hybrid_score": 0.024056467876692595,
+      "adjusted_score": 0.024556467876692595,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "The requested drug and topic-related terms appear in the same passage. Manual verification is required.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "overdose"
+      ],
+      "text": "Paracetamol plasma level on admission (mean (SE)) (mg/L): 305 (46).\nAmount of ingested paracetamol (g): 56 vs 34.\nGazzard 1974a/uni00A0\nInterventions for paracetamol (acetaminophen) overdose (Review)\nCopyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.\n48"
+    },
+    {
+      "source": "CD003328.pdf",
+      "page": 17,
+      "source_id": "PARA-PDF-010",
+      "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "source_url": "",
+      "source_title": "CD003328",
+      "authors": "",
+      "doi": "",
+      "pmid": "",
+      "pmcid": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": "",
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted",
+      "evidence_id": "15183f6ff8d9062ce368",
+      "semantic_score": 0.5853064060211182,
+      "keyword_score": 0.5501349745794316,
+      "hybrid_score": 0.022431077694235586,
+      "adjusted_score": 0.022931077694235587,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "The requested drug and topic-related terms appear in the same passage. Manual verification is required.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "overdose"
+      ],
+      "text": "reduced probability of having a paracetamol concentration above\n150 mg/L at the four-hour nomogram line (Duﬀull 2013 ). One\nobservational series of 200 participants ingesting greater than 40 g\nof paracetamol found paracetamol concentrations were markedly\nreduced in those receiving activated charcoal within four hours and\na probable benefit of reducing the risk of hepatotoxicity (ALT greater\nthan 1000 U/L) (Chiew 2017). Healthy volunteer studies similarly\nInterventions for paracetamol (acetaminophen) overdose (Review)\nCopyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.\n15"
+    }
+  ],
+  "interpretation": {
+    "status": "COMPLETED",
+    "model": "hf.co/ceafgnigguh123/ChemLLM-7B-Chat-GGUF:Q4_K_M",
+    "answer": "Paracetamol plasma level on admission (mean (SE)) (mg/L): 305 (46).\nAmount of ingested paracetamol (g): 56 vs 34.\nGazzard 1974a/uni00A0\nInterventions for paracetamol (acetaminophen) overdose (Review)\nCopyright © 2018 The Cochrane Collabora\n\nreduced probability of having a paracetamol concentration above\n150 mg/L at the four-hour nomogram line (Duﬀull 2013 ). One\nobservational series of 200 participants ingesting greater than 40 g\nof paracetamol found paracetamol concentrations",
+    "claims": [
+      {
+        "claim_id": "a2-1",
+        "explanation": "",
+        "claim_type": "finding",
+        "requires_verification": false,
+        "text": "Paracetamol plasma level on admission (mean (SE)) (mg/L): 305 (46).\nAmount of ingested paracetamol (g): 56 vs 34.\nGazzard 1974a/uni00A0\nInterventions for paracetamol (acetaminophen) overdose (Review)\nCopyright © 2018 The Cochrane Collabora\n",
+        "uncertainty": "false",
+        "evidence_ids": [
+          "b90a264d91c794bcd376",
+          "8309eecf8280fe069975"
+        ]
+      },
+      {
+        "claim_id": "a2-2",
+        "explanation": "",
+        "claim_type": "finding",
+        "requires_verification": false,
+        "text": "reduced probability of having a paracetamol concentration above\n150 mg/L at the four-hour nomogram line (Duﬀull 2013 ). One\nobservational series of 200 participants ingesting greater than 40 g\nof paracetamol found paracetamol concentrations",
+        "uncertainty": "false",
+        "evidence_ids": [
+          "b90a264d91c794bcd376",
+          "8309eecf8280fe069975"
+        ]
+      }
+    ],
+    "warnings": [
+      "Agent 2 output is a draft interpretation, not scientific validation."
+    ],
+    "raw_response": {
+      "model": "hf.co/ceafgnigguh123/ChemLLM-7B-Chat-GGUF:Q4_K_M",
+      "created_at": "2026-11-01T15:36:23.7607737Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"claims\": [{\"claim_type\": \"finding\", \"evidence_refs\": [\"E1\", \"E2\"], \"requires_verification\": false, \"text\": \"Paracetamol plasma level on admission (mean (SE)) (mg/L): 305 (46).\\nAmount of ingested paracetamol (g): 56 vs 34.\\nGazzard 1974a/uni00A0\\nInterventions for paracetamol (acetaminophen) overdose (Review)\\nCopyright © 2018 The Cochrane Collabora\\n\",\"uncertainty\": \"false\"}, {\"claim_type\": \"finding\", \"evidence_refs\": [\"E1\", \"E2\"], \"requires_verification\": false, \"text\": \"reduced probability of having a paracetamol concentration above\\n150 mg/L at the four-hour nomogram line (Duﬀull 2013 ). One\\nobservational series of 200 participants ingesting greater than 40 g\\nof paracetamol found paracetamol concentrations\",\"uncertainty\": \"false\"}]}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 37603915200,
+      "load_duration": 16257884900,
+      "prompt_eval_count": 1236,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 1540846000,
+      "eval_count": 255,
+      "eval_duration": 19761031000
+    },
+    "raw_content": "{\"claims\": [{\"claim_type\": \"finding\", \"evidence_refs\": [\"E1\", \"E2\"], \"requires_verification\": false, \"text\": \"Paracetamol plasma level on admission (mean (SE)) (mg/L): 305 (46).\\nAmount of ingested paracetamol (g): 56 vs 34.\\nGazzard 1974a/uni00A0\\nInterventions for paracetamol (acetaminophen) overdose (Review)\\nCopyright © 2018 The Cochrane Collabora\\n\",\"uncertainty\": \"false\"}, {\"claim_type\": \"finding\", \"evidence_refs\": [\"E1\", \"E2\"], \"requires_verification\": false, \"text\": \"reduced probability of having a paracetamol concentration above\\n150 mg/L at the four-hour nomogram line (Duﬀull 2013 ). One\\nobservational series of 200 participants ingesting greater than 40 g\\nof paracetamol found paracetamol concentrations\",\"uncertainty\": \"false\"}]}"
+  },
+  "verification": {
+    "status": "COMPLETED",
+    "claims": [
+      {
+        "claim_id": "a2-1",
+        "status": "RECORDS_FOUND",
+        "query": "(paracetamol OR acetaminophen) AND \"plasma\" AND \"level\" AND \"admission\" AND \"mean\" AND \"amount\"",
+        "records": [
+          {
+            "provider": "Europe PMC",
+            "title": "Paracetamol (acetaminophen) or non-steroidal anti-inflammatory drugs, alone or combined, for pain relief in acute otitis media in children.",
+            "authors": [
+              "de Sévaux JLH",
+              "Damoiseaux RA",
+              "van de Pol AC",
+              "Lutje V",
+              "Hay AD",
+              "Little P",
+              "Schilder AG",
+              "Venekamp RP."
+            ],
+            "year": "2023",
+            "journal": "",
+            "doi": "10.1002/14651858.cd011534.pub3",
+            "pmid": "37594020",
+            "pmcid": "PMC10436353",
+            "abstract": "<h4>Background</h4>Acute otitis media (AOM) is one of the most common childhood infectious diseases. Pain is the key symptom of AOM and central to children's and parents' experience of the illness. Because antibiotics provide only marginal benefits, analgesic treatment including paracetamol (acetaminophen) and non-steroidal anti-inflammatory drugs (NSAIDs) is regarded as the cornerstone of AOM management. This is an update of a review first published in 2016.<h4>Objectives</h4>Our primary objective was to assess the effectiveness of paracetamol (acetaminophen) or NSAIDs, alone or combined, compared with placebo or no treatment in relieving pain in children with AOM. Our secondary objective was to assess the effectiveness of NSAIDs as compared with paracetamol in children with AOM.<h4>Search methods</h4>We searched the Cochrane Central Register of Controlled Trials (CENTRAL), Issue 5, April 2023; MEDLINE (Ovid, from 1946 to May 2023), Embase (from 1947 to May 2023), CINAHL (from 1981 to May 2023), LILACS (from 1982 to May 2023), and Web of Science Core Collection (from 1955 to May 2023). We searched the WHO ICTRP and ClinicalTrials.gov for completed and ongoing trials (23 May 2023).<h4>Selection criteria</h4>We included randomised controlled trials comparing the effectiveness of paracetamol or NSAIDs, alone or combined, for pain relief in non-hospitalised children aged six months to 16 years with AOM. We also included trials of paracetamol or NSAIDs, alone or combined, for children with fever or upper respiratory tract infections if we were able to extract subgroup data on pain relief in children with AOM either directly or after obtaining additional data from study authors. We extracted and summarised data for the following comparisons: paracetamol versus placebo, NSAIDs versus placebo, NSAIDs versus paracetamol, and NSAIDs plus paracetamol versus paracetamol alone.<h4>Data collection and analysis</h4>We used standard methodological procedures expected by Cochrane. We rated the overall certainty of evidence for each outcome of interest using the GRADE approach.<h4>Main results</h4>We included four trials (411 children) which were assessed at low to high risk of bias. Paracetamol versus placebo Data from one trial (148 children) informed this comparison. Paracetamol may be more effective than placebo in relieving pain at 48 hours (proportion of children with pain 10% versus 25%, risk ratio (RR) 0.38, 95% confidence interval (CI) 0.17 to 0.85; number needed to treat for an additional beneficial outcome (NNTB) 7; low-certainty evidence). The evidence is very uncertain about the effects of paracetamol on fever at 48 hours (RR 1.03, 95% CI 0.07 to 16.12; very low-certainty evidence) and adverse events (RR 1.03, 95% CI 0.21 to 4.93; very low-certainty evidence). No data were available for our other outcomes of interest. NSAIDs versus placebo Data from one trial (146 children) informed this comparison. Ibuprofen may be more effective than placebo in relieving pain at 48 hours (proportion of children with pain 7% versus 25%, RR 0.28, 95% CI 0.11 to 0.70; NNTB 6; low-certainty evidence). The evidence is very uncertain about the effect of ibuprofen on fever at 48 hours (RR 1.06, 95% CI 0.07 to 16.57; very low-certainty evidence) and adverse events (RR 1.76, 95% CI 0.44 to 7.10; very low-certainty evidence). No data were available for our other outcomes of interest. NSAIDs versus paracetamol Data from four trials (411 children) informed this comparison. The evidence is very uncertain about the effect of ibuprofen versus paracetamol in relieving ear pain at 24 hours (RR 0.83, 95% CI 0.59 to 1.18; 2 RCTs, 39 children; very low-certainty evidence); 48 to 72 hours (RR 0.91, 95% CI 0.54 to 1.54; 3 RCTs, 183 children; low-certainty evidence); and four to seven days (RR 0.74, 95% CI 0.17 to 3.23; 2 RCTs, 38 children; very low-certainty evidence). The evidence is very uncertain about the effect of ibuprofen versus paracetamol on mean pain score at 24 hours (0.29 lower, 95% CI 0.79 lower to 0.20 higher; 3 RCTs, 111 children; very low-certainty evidence); 48 to 72 hours (0.25 lower, 95% CI 0.66 lower to 0.16 higher; 3 RCTs, 108 children; very low-certainty evidence); and four to seven days (0.30 higher, 95% CI 1.78 lower to 2.38 higher; 2 RCTs, 31 children; very low-certainty evidence). The evidence is very uncertain about the effect of ibuprofen versus paracetamol in resolving fever at 24 hours (RR 0.69, 95% CI 0.24 to 2.00; 2 RCTs, 39 children; very low-certainty evidence); 48 to 72 hours (RR 1.18, 95% CI 0.31 to 4.44; 3 RCTs, 182 children; low-certainty evidence); and four to seven days (RR 2.75, 95% CI 0.12 to 60.70; 2 RCTs, 39 children; very low-certainty evidence). The evidence is very uncertain about the effect of ibuprofen versus paracetamol on adverse events (RR 1.71, 95% CI 0.43 to 6.90; 3 RCTs, 281 children; very low-certainty evidence); reconsultations (RR 1.13, 95% CI 0.92 to 1.40; 1 RCT, 53 children; very low-certainty evidence); and delayed antibiotic prescriptions (RR 1.32, 95% CI 0.74 to 2.35; 1 RCT, 53 children; very low-certainty evidence). No data were available on time to resolution of pain. NSAIDs plus paracetamol versus paracetamol alone Data on the effectiveness of ibuprofen plus paracetamol versus paracetamol alone came from two trials that provided crude subgroup data for 71 children with AOM. The small sample provided imprecise effect estimates, therefore we were unable to draw any firm conclusions (very low-certainty evidence).<h4>Authors' conclusions</h4>Despite explicit guideline recommendations on the use of analgesics in children with AOM, the current evidence on the effectiveness of paracetamol or NSAIDs, alone or combined, in children with AOM is limited. Paracetamol and ibuprofen as monotherapies may be more effective than placebo in relieving short-term ear pain in children with AOM. The evidence is very uncertain for the effect of ibuprofen versus paracetamol on relieving short-term ear pain in children with AOM, as well as for the effectiveness of ibuprofen plus paracetamol versus paracetamol alone, thereby preventing any firm conclusions. Further research is needed to provide insights into the role of ibuprofen as adjunct to paracetamol, and other analgesics such as anaesthetic eardrops, for children with AOM.",
+            "source_url": "https://europepmc.org/article/MED/37594020",
+            "open_access": false,
+            "license": null,
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Paracetamol (acetaminophen) for prevention or treatment of pain in newborns.",
+            "authors": [
+              "Ohlsson A",
+              "Shah PS."
+            ],
+            "year": "2020",
+            "journal": "",
+            "doi": "10.1002/14651858.cd011219.pub4",
+            "pmid": "31985830",
+            "pmcid": "PMC6984663",
+            "abstract": "<h4>Background</h4>Newborn infants have the ability to experience pain. Hospitalised infants are exposed to numerous painful procedures. Healthy newborns are exposed to pain if the birth process consists of assisted vaginal birth by vacuum extraction or by forceps and during blood sampling for newborn screening tests.<h4>Objectives</h4>To determine the efficacy and safety of paracetamol for the prevention or treatment of procedural/postoperative pain or pain associated with clinical conditions in neonates. To review the effects of various doses and routes of administration (enteral, intravenous or rectal) of paracetamol for the prevention or treatment of pain in neonates.<h4>Search methods</h4>We used the standard search strategy of the Cochrane Neonatal Review group to search the Cochrane Central Register of Controlled Trials (CENTRAL 2016, Issue 4), MEDLINE via PubMed (1966 to 9 May 2016), Embase (1980 to 9 May 2016), and CINAHL (1982 to 9 May 2016). We searched clinical trials' databases, Google Scholar, conference proceedings, and the reference lists of retrieved articles.<h4>Selection criteria</h4>We included randomised and quasi-randomised controlled trials of paracetamol for the prevention/treatment of pain in neonates (≤ 28 days of age).<h4>Data collection and analysis</h4>Two review authors independently extracted data from the articles using pre-designed forms. We used this form to decide trial inclusion/exclusion, to extract data from eligible trials and to request additional published information from authors of the original reports. We entered and cross-checked data using RevMan 5 software. When noted, we resolved differences by mutual discussion and consensus. We used the GRADE approach to assess the quality of evidence.<h4>Main results</h4>We included nine trials with low risk of bias, which assessed paracetamol for the treatment of pain in 728 infants. Painful procedures studied included heel lance, assisted vaginal birth, eye examination for retinopathy of prematurity assessment and postoperative care. Results of individual studies could not be combined in meta-analyses as the painful conditions, the use of paracetamol and comparison interventions and the outcome measures differed. Paracetamol compared with water, cherry elixir or EMLA cream (eutectic mixture of lidocaine and prilocaine) did not significantly reduce pain following heel lance. The Premature Infant Pain Profile score (PIPP) within three minutes following lancing was higher in the paracetamol group than in the oral glucose group (mean difference (MD) 2.21, 95% confidence interval (CI) 0.72 to 3.70; one study, 38 infants). Paracetamol did not reduce \"modified facies scores\" after assisted vaginal birth (one study, 119 infants). In another study (n = 123), the Échelle de Douleur et d'Inconfort du Nouveau-Né score at two hours of age was significantly higher in the group that received paracetamol suppositories than in the placebo suppositories group (MD 1.00, 95% CI 0.60 to 1.40). In that study, when infants were subjected to a heel lance at two to three days of age, Bernese Pain Scale for Neonates scores were higher in the paracetamol group than in the placebo group, and infants spent a longer time crying (MD 19 seconds, 95% CI 14 to 24). For eye examinations, no significant reduction in PIPP scores in the first or last 45 seconds of eye examination was reported, nor at five minutes after the eye examination. In one study (n = 81), the PIPP score was significantly higher in the paracetamol group than in the 24% sucrose group (MD 3.90, 95% CI 2.92 to 4.88). In one study (n = 114) the PIPP score during eye examination was significantly lower in the paracetamol group than in the water group (MD -2.70, 95% CI -3.55 to 1.85). For postoperative care following major surgery, the total amount of morphine (µg/kg) administered over 48 hours was significantly less among infants assigned to the paracetamol group than to the morphine group (MD -157 µg/kg, 95% CI -27 to -288). No adverse events were noted in any study. The quality of evidence according to GRADE was low.<h4>Authors' conclusions</h4>The paucity and low quality of existing data do not provide sufficient evidence to establish the role of paracetamol in reducing the effects of painful procedures in neonates. Paracetamol given after assisted vaginal birth may increase the response to later painful exposures. Paracetamol may reduce the total need for morphine following major surgery, and for this aspect of paracetamol use, further research is needed.",
+            "source_url": "https://europepmc.org/article/MED/31985830",
+            "open_access": false,
+            "license": null,
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Interventions for paracetamol (acetaminophen) overdose.",
+            "authors": [
+              "Chiew AL",
+              "Gluud C",
+              "Brok J",
+              "Buckley NA."
+            ],
+            "year": "2018",
+            "journal": "",
+            "doi": "10.1002/14651858.cd003328.pub3",
+            "pmid": "29473717",
+            "pmcid": "PMC6491303",
+            "abstract": "<h4>Background</h4>Paracetamol (acetaminophen) is the most widely used non-prescription analgesic in the world. Paracetamol is commonly taken in overdose either deliberately or unintentionally. In high-income countries, paracetamol toxicity is a common cause of acute liver injury. There are various interventions to treat paracetamol poisoning, depending on the clinical status of the person. These interventions include inhibiting the absorption of paracetamol from the gastrointestinal tract (decontamination), removal of paracetamol from the vascular system, and antidotes to prevent the formation of, or to detoxify, metabolites.<h4>Objectives</h4>To assess the benefits and harms of interventions for paracetamol overdosage irrespective of the cause of the overdose.<h4>Search methods</h4>We searched The Cochrane Hepato-Biliary Group Controlled Trials Register (January 2017), CENTRAL (2016, Issue 11), MEDLINE (1946 to January 2017), Embase (1974 to January 2017), and Science Citation Index Expanded (1900 to January 2017). We also searched the World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov database (US National Institute of Health) for any ongoing or completed trials (January 2017). We examined the reference lists of relevant papers identified by the search and other published reviews.<h4>Selection criteria</h4>Randomised clinical trials assessing benefits and harms of interventions in people who have ingested a paracetamol overdose. The interventions could have been gastric lavage, ipecacuanha, or activated charcoal, or various extracorporeal treatments, or antidotes. The interventions could have been compared with placebo, no intervention, or to each other in differing regimens.<h4>Data collection and analysis</h4>Two review authors independently extracted data from the included trials. We used fixed-effect and random-effects Peto odds ratios (OR) with 95% confidence intervals (CI) for analysis of the review outcomes. We used the Cochrane 'Risk of bias' tool to assess the risks of bias (i.e. systematic errors leading to overestimation of benefits and underestimation of harms). We used Trial Sequential Analysis to control risks of random errors (i.e. play of chance) and GRADE to assess the quality of the evidence and constructed 'Summary of findings' tables using GRADE software.<h4>Main results</h4>We identified 11 randomised clinical trials (of which one acetylcysteine trial was abandoned due to low numbers recruited), assessing several different interventions in 700 participants. The variety of interventions studied included decontamination, extracorporeal measures, and antidotes to detoxify paracetamol's toxic metabolite; which included methionine, cysteamine, dimercaprol, or acetylcysteine. There were no randomised clinical trials of agents that inhibit cytochrome P-450 to decrease the activation of the toxic metabolite N-acetyl-p-benzoquinone imine.Of the 11 trials, only two had two common outcomes, and hence, we could only meta-analyse two comparisons. Each of the remaining comparisons included outcome data from one trial only and hence their results are presented as described in the trials. All trial analyses lack power to access efficacy. Furthermore, all the trials were at high risk of bias. Accordingly, the quality of evidence was low or very low for all comparisons. Interventions that prevent absorption, such as gastric lavage, ipecacuanha, or activated charcoal were compared with placebo or no intervention and with each other in one four-armed randomised clinical trial involving 60 participants with an uncertain randomisation procedure and hence very low quality. The trial presented results on lowering plasma paracetamol levels. Activated charcoal seemed to reduce the absorption of paracetamol, but the clinical benefits were unclear. Activated charcoal seemed to have the best risk:benefit ratio among gastric lavage, ipecacuanha, or supportive treatment if given within four hours of ingestion. There seemed to be no difference between gastric lavage and ipecacuanha, but gastric lavage and ipecacuanha seemed more effective than no treatment (very low quality of evidence). Extracorporeal interventions included charcoal haemoperfusion compared with conventional treatment (supportive care including gastric lavage, intravenous fluids, and fresh frozen plasma) in one trial with 16 participants. The mean cumulative amount of paracetamol removed was 1.4 g. One participant from the haemoperfusion group who had ingested 135 g of paracetamol, died. There were no deaths in the conventional treatment group. Accordingly, we found no benefit of charcoal haemoperfusion (very low quality of evidence). Acetylcysteine appeared superior to placebo and had fewer adverse effects when compared with dimercaprol or cysteamine. Acetylcysteine superiority to methionine was unproven. One small trial (low quality evidence) found that acetylcysteine may reduce mortality in people with fulminant hepatic failure (Peto OR 0.29, 95% CI 0.09 to 0.94). The most recent randomised clinical trials studied different acetylcysteine regimens, with the primary outcome being adverse events. It was unclear which acetylcysteine treatment protocol offered the best efficacy, as most trials were underpowered to look at this outcome. One trial showed that a modified 12-hour acetylcysteine regimen with a two-hour acetylcysteine 100 mg/kg bodyweight loading dose was associated with significantly fewer adverse reactions compared with the traditional three-bag 20.25-hour regimen (low quality of evidence). All Trial Sequential Analyses showed lack of sufficient power. Children were not included in the majority of trials. Hence, the evidence pertains only to adults.<h4>Authors' conclusions</h4>These results highlight the paucity of randomised clinical trials comparing different interventions for paracetamol overdose and their routes of administration and the low or very low level quality of the evidence that is available. Evidence from a single trial found activated charcoal seemed the best choice to reduce absorption of paracetamol. Acetylcysteine should be given to people at risk of toxicity including people presenting with liver failure. Further randomised clinical trials with low risk of bias and adequate number of participants are required to determine which regimen results in the fewest adverse effects with the best efficacy. Current management of paracetamol poisoning worldwide involves the administration of intravenous or oral acetylcysteine which is based mainly on observational studies. Results from these observational studies indicate that treatment with acetylcysteine seems to result in a decrease in morbidity and mortality, However, further evidence from randomised clinical trials comparing different treatments are needed.",
+            "source_url": "https://europepmc.org/article/MED/29473717",
+            "open_access": false,
+            "license": null,
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Effects of acetaminophen ingestion on the torque-duration relationship and fatigability during intermittent exercise in patients with type 1 diabetes.",
+            "authors": [
+              "Fekih N",
+              "Machfer A",
+              "Ammar A",
+              "Zghal F",
+              "Bouzid MA."
+            ],
+            "year": "2026",
+            "journal": "",
+            "doi": "10.1113/ep093694",
+            "pmid": "42945539",
+            "pmcid": "PMC13713115",
+            "abstract": "This study aimed to determine the effects of acute ingestion of acetaminophen (ACT) on the magnitude of exercise-induced peripheral fatigue (ΔPtw) in patients with type 1 diabetes (T1D). In a randomized, placebo-controlled, double-blind design, 22 males (11 T1D and 11 control (CTR) completed 60 maximum voluntary contractions 60 min after ingesting 1 g of acetaminophen (ACT) or 1 g of placebo (PL) on two separate visits. Central and peripheral fatigue were assessed from pre- to post-exercise changes in quadriceps voluntary activation (ΔVA) and potentiated twitch force (ΔPtw), respectively. Critical torque (CT) was defined as the mean force produced during the final 12 contractions, and work performed (W') was computed as the impulse performed above CT. Maximal voluntary contraction (MVC), VA and Ptw decreased after exercise in both groups, with no significant difference between PL and ACT condition. Compared to PL, ACT increased root mean square/M<sub>max</sub> and CT values in the T1D (+21% and 8% respectively) and CTR groups (+40% and +19%; respectively), with significant lower effect in the T1D compared to the CTR group (P < 0.05). No significant effect of ACT was observed for W' in the T1D (+7%) and CTR groups (+4%) (P = 0.68). These findings indicate that acute ACT ingestion increased CT and muscle activation during the repeated-MVC protocol in both groups, although the magnitude of these responses was smaller in the T1D than the CTR group.",
+            "source_url": "https://europepmc.org/article/MED/42945539",
+            "open_access": true,
+            "license": "cc by",
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Population Pharmacokinetics and Pharmacodynamics of Paracetamol in Malaysian Patients With Plasmodium knowlesi Malaria.",
+            "authors": [
+              "Wattanakul T",
+              "Cooper DJ",
+              "Plewes K",
+              "Grigg MJ",
+              "Rajahram GS",
+              "William T",
+              "Dondorp AM",
+              "Edstein MD",
+              "Birrell GW",
+              "Anstey NM",
+              "Hoglund RM",
+              "Barber BE",
+              "Tarning J."
+            ],
+            "year": "2026",
+            "journal": "",
+            "doi": "10.1002/psp4.70283",
+            "pmid": "42328847",
+            "pmcid": "PMC13284899",
+            "abstract": "Paracetamol may improve renal function in patients with severe Plasmodium knowlesi malaria, particularly in those with acute kidney injury and hemolysis, via inhibition of cell-free hemoglobin mediated oxidative kidney damage. We developed a population pharmacokinetic/pharmacodynamic (PK/PD) model to assess effects of paracetamol on creatinine, hepatotoxicity, fever clearance, and parasite clearance among Malaysian patients with predominantly non-severe knowlesi malaria using data from the PACKNOW trial (Clinical Trials Registration: NCT03056391). A total of 372 patients were included in the PK/PD analyses (paracetamol: n = 183, control: n = 189). Paracetamol PK was described using a prior PK model published in patients with falciparum malaria. The PK/PD demonstrated that higher paracetamol exposures were associated with a faster decline in both creatinine and fever clearance time, supporting its renoprotective and antipyretic effects. Increased paracetamol exposure was not associated with hepatotoxicity or serious adverse events, despite a weak positive association with liver transaminases over time. No significant relationship was observed between paracetamol exposure and parasite clearance. Overall, these findings highlight an exposure-response relationship for paracetamol and a decline in creatinine, supporting its use as a renoprotective drug in treating Plasmodium knowlesi malaria.",
+            "source_url": "https://europepmc.org/article/MED/42328847",
+            "open_access": true,
+            "license": "cc by",
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "PubMed",
+            "title": "ECG abnormalities in co-proxamol (paracetamol/dextropropoxyphene) poisoning.",
+            "authors": [
+              "Afshari R",
+              "Maxwell S",
+              "Dawson A",
+              "Bateman DN"
+            ],
+            "year": "2005",
+            "journal": "Clinical toxicology (Philadelphia, Pa.)",
+            "doi": "",
+            "pmid": "16035201",
+            "pmcid": "",
+            "abstract": "",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/16035201/",
+            "open_access": null,
+            "license": null,
+            "full_text_downloaded": false
+          }
+        ],
+        "provider_errors": {}
+      },
+      {
+        "claim_id": "a2-2",
+        "status": "RECORDS_FOUND",
+        "query": "(paracetamol OR acetaminophen) AND \"reduced\" AND \"probability\" AND \"having\" AND \"concentration\" AND \"above\"",
+        "records": [
+          {
+            "provider": "Europe PMC",
+            "title": "Paracetamol (acetaminophen) for patent ductus arteriosus in preterm or low birth weight infants.",
+            "authors": [
+              "Jasani B",
+              "Mitra S",
+              "Shah PS."
+            ],
+            "year": "2022",
+            "journal": "",
+            "doi": "10.1002/14651858.cd010061.pub5",
+            "pmid": "36519620",
+            "pmcid": "PMC12045062",
+            "abstract": "<h4>Background</h4>The different management strategies for patent ductus arteriosus (PDA) in preterm infants are expectant management, surgery, or medical treatment with non-selective cyclo-oxygenase inhibitors. Randomized controlled trials (RCTs) have suggested that paracetamol may be an effective and safe agent for the closure of a PDA.<h4>Objectives</h4>To determine the efficacy and safety of paracetamol as monotherapy or as part of combination therapy via any route of administration, compared with placebo, no intervention, or another prostaglandin inhibitor, for prophylaxis or treatment of an echocardiographically-diagnosed PDA in preterm or low birth weight infants.<h4>Search methods</h4>We searched CENTRAL, MEDLINE, Embase, and three trials registers on 13 October 2021, and one other database on 1 March 2022. We also checked references and contacted study authors to identify additional studies.<h4>Selection criteria</h4>We included RCTs and quasi-RCTs in which paracetamol (single-agent or combination therapy) was compared to no intervention, placebo, or other agents used for closure of PDA, irrespective of dose, duration, and mode of administration in preterm infants. Two independent authors reviewed the search results and made a final selection of potentially eligible articles through discussion.<h4>Data collection and analysis</h4>We performed data collection and analyses in accordance with the methods of Cochrane Neonatal. We used the GRADE approach to assess the certainty of evidence for the following outcomes: failure of ductal closure after the first course of treatment; all-cause mortality during initial hospital stay; and necrotizing enterocolitis (NEC).<h4>Main results</h4>For this update, we included 27 studies enrolling 2278 infants. We considered the overall risk of bias in the 27 studies to vary from low to unclear. We identified 24 ongoing studies. Paracetamol versus ibuprofen  There was probably little to no difference between paracetamol and ibuprofen for failure of ductal closure after the first course (risk ratio (RR) 1.02, 95% confidence interval (CI) 0.88 to 1.18; 18 studies, 1535 infants; moderate-certainty evidence). There was likely little to no difference between paracetamol and ibuprofen for all-cause mortality during hospital stay (RR 1.09, 95% CI 0.80 to 1.48; 8 studies, 734 infants; moderate-certainty evidence), and for NEC (RR 1.30, 95% CI 0.87 to 1.94; 10 studies, 1015 infants; moderate-certainty evidence). Paracetamol versus indomethacin There was little to no difference between paracetamol and indomethacin for failure of ductal closure after the first course (RR 1.02, 95% CI 0.78 to 1.33; 4 studies, 380 infants; low-certainty evidence). There was little to no difference between paracetamol and indomethacin for all-cause mortality during hospital stay (RR 0.86, 95% CI 0.39 to 1.92; 2 studies, 114 infants; low-certainty evidence). The rate of NEC may be lower in the paracetamol group (3.7%) versus the indomethacin group(9.2%) (RR 0.42, 95% CI 0.19 to 0.96; 4 studies, 384 infants; low-certainty evidence).  Prophylactic paracetamol versus placebo/no intervention Prophylactic paracetamol (17%) compared to placebo/no intervention (61%) may reduce failure of ductal closure after one course (RR 0.27, 95% CI 0.18 to 0.42; 3 studies, 240 infants; low-certainty evidence). There was little to no difference between prophylactic paracetamol and placebo/no intervention for all-cause mortality during hospital stay (RR 0.59, 95% CI 0.24 to 1.44; 3 studies, 240 infants; low-certainty evidence). No studies reported on NEC.  Early paracetamol treatment versus placebo/no intervention Early paracetamol treatment (28%) compared to placebo/no intervention (79%) may reduce failure of ductal closure after one course when used before 14 days' postnatal age (RR 0.35, 95% CI 0.23 to 0.53; 2 studies, 127 infants; low-certainty evidence). No studies reported on all-cause mortality during hospital stay or NEC.  Late paracetamol treatment versus placebo/no intervention  There was little to no difference between late paracetamol and placebo for failure of ductal closure after one course of treatment when used at or after 14 days' postnatal age (RR 0.85, 95% CI 0.72 to 1.01; 1 study, 55 infants; low-certainty evidence) or NEC (RR 1.04, 95% CI 0.07 to 15.76; 1 study, 55 infants; low-certainty evidence). No data were reported for all-cause mortality during hospital stay.  Paracetamol combined with ibuprofen versus ibuprofen combined with placebo or no intervention There was little to no difference between paracetamol plus ibuprofen compared to ibuprofen plus placebo or no intervention for failure of ductal closure after the first course (RR 0.77, 95% CI 0.43 to 1.36; 2 studies, 111 infants; low-certainty evidence). There was little to no difference between paracetamol plus ibuprofen compared to ibuprofen plus placebo or no intervention for NEC (RR 0.33, 95% CI 0.01 to 7.45; 1 study, 24 infants; low-certainty evidence). No data were reported for all-cause mortality during hospital stay.  AUTHORS' CONCLUSIONS: Moderate-certainty evidence suggests that there is probably little or no difference in effectiveness between paracetamol and ibuprofen; low-certainty evidence suggests that there is probably little or no difference in effectiveness between paracetamol and indomethacin; low-certainty evidence suggests that prophylactic paracetamol may be more effective than placebo/no intervention; low-certainty evidence suggests that early paracetamol treatment may be more effective than placebo/no intervention; low-certainty evidence suggests that there is probably little or no difference between late paracetamol treatment and placebo, and probably little or no difference in effectiveness between the combination of paracetamol plus ibuprofen versus ibuprofen alone for the closure of PDA after the first course of treatment. The majority of neonates included in these studies were of moderate preterm gestation. Thus, establishing the efficacy and safety of paracetamol for PDA treatment in extremely low birth weight (ELBW: birth weight < 1000 grams) and extremely low gestational age neonates (ELGANs < 28 weeks' gestation) requires further studies.",
+            "source_url": "https://europepmc.org/article/MED/36519620",
+            "open_access": false,
+            "license": null,
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Interventions for paracetamol (acetaminophen) overdose.",
+            "authors": [
+              "Chiew AL",
+              "Gluud C",
+              "Brok J",
+              "Buckley NA."
+            ],
+            "year": "2018",
+            "journal": "",
+            "doi": "10.1002/14651858.cd003328.pub3",
+            "pmid": "29473717",
+            "pmcid": "PMC6491303",
+            "abstract": "<h4>Background</h4>Paracetamol (acetaminophen) is the most widely used non-prescription analgesic in the world. Paracetamol is commonly taken in overdose either deliberately or unintentionally. In high-income countries, paracetamol toxicity is a common cause of acute liver injury. There are various interventions to treat paracetamol poisoning, depending on the clinical status of the person. These interventions include inhibiting the absorption of paracetamol from the gastrointestinal tract (decontamination), removal of paracetamol from the vascular system, and antidotes to prevent the formation of, or to detoxify, metabolites.<h4>Objectives</h4>To assess the benefits and harms of interventions for paracetamol overdosage irrespective of the cause of the overdose.<h4>Search methods</h4>We searched The Cochrane Hepato-Biliary Group Controlled Trials Register (January 2017), CENTRAL (2016, Issue 11), MEDLINE (1946 to January 2017), Embase (1974 to January 2017), and Science Citation Index Expanded (1900 to January 2017). We also searched the World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov database (US National Institute of Health) for any ongoing or completed trials (January 2017). We examined the reference lists of relevant papers identified by the search and other published reviews.<h4>Selection criteria</h4>Randomised clinical trials assessing benefits and harms of interventions in people who have ingested a paracetamol overdose. The interventions could have been gastric lavage, ipecacuanha, or activated charcoal, or various extracorporeal treatments, or antidotes. The interventions could have been compared with placebo, no intervention, or to each other in differing regimens.<h4>Data collection and analysis</h4>Two review authors independently extracted data from the included trials. We used fixed-effect and random-effects Peto odds ratios (OR) with 95% confidence intervals (CI) for analysis of the review outcomes. We used the Cochrane 'Risk of bias' tool to assess the risks of bias (i.e. systematic errors leading to overestimation of benefits and underestimation of harms). We used Trial Sequential Analysis to control risks of random errors (i.e. play of chance) and GRADE to assess the quality of the evidence and constructed 'Summary of findings' tables using GRADE software.<h4>Main results</h4>We identified 11 randomised clinical trials (of which one acetylcysteine trial was abandoned due to low numbers recruited), assessing several different interventions in 700 participants. The variety of interventions studied included decontamination, extracorporeal measures, and antidotes to detoxify paracetamol's toxic metabolite; which included methionine, cysteamine, dimercaprol, or acetylcysteine. There were no randomised clinical trials of agents that inhibit cytochrome P-450 to decrease the activation of the toxic metabolite N-acetyl-p-benzoquinone imine.Of the 11 trials, only two had two common outcomes, and hence, we could only meta-analyse two comparisons. Each of the remaining comparisons included outcome data from one trial only and hence their results are presented as described in the trials. All trial analyses lack power to access efficacy. Furthermore, all the trials were at high risk of bias. Accordingly, the quality of evidence was low or very low for all comparisons. Interventions that prevent absorption, such as gastric lavage, ipecacuanha, or activated charcoal were compared with placebo or no intervention and with each other in one four-armed randomised clinical trial involving 60 participants with an uncertain randomisation procedure and hence very low quality. The trial presented results on lowering plasma paracetamol levels. Activated charcoal seemed to reduce the absorption of paracetamol, but the clinical benefits were unclear. Activated charcoal seemed to have the best risk:benefit ratio among gastric lavage, ipecacuanha, or supportive treatment if given within four hours of ingestion. There seemed to be no difference between gastric lavage and ipecacuanha, but gastric lavage and ipecacuanha seemed more effective than no treatment (very low quality of evidence). Extracorporeal interventions included charcoal haemoperfusion compared with conventional treatment (supportive care including gastric lavage, intravenous fluids, and fresh frozen plasma) in one trial with 16 participants. The mean cumulative amount of paracetamol removed was 1.4 g. One participant from the haemoperfusion group who had ingested 135 g of paracetamol, died. There were no deaths in the conventional treatment group. Accordingly, we found no benefit of charcoal haemoperfusion (very low quality of evidence). Acetylcysteine appeared superior to placebo and had fewer adverse effects when compared with dimercaprol or cysteamine. Acetylcysteine superiority to methionine was unproven. One small trial (low quality evidence) found that acetylcysteine may reduce mortality in people with fulminant hepatic failure (Peto OR 0.29, 95% CI 0.09 to 0.94). The most recent randomised clinical trials studied different acetylcysteine regimens, with the primary outcome being adverse events. It was unclear which acetylcysteine treatment protocol offered the best efficacy, as most trials were underpowered to look at this outcome. One trial showed that a modified 12-hour acetylcysteine regimen with a two-hour acetylcysteine 100 mg/kg bodyweight loading dose was associated with significantly fewer adverse reactions compared with the traditional three-bag 20.25-hour regimen (low quality of evidence). All Trial Sequential Analyses showed lack of sufficient power. Children were not included in the majority of trials. Hence, the evidence pertains only to adults.<h4>Authors' conclusions</h4>These results highlight the paucity of randomised clinical trials comparing different interventions for paracetamol overdose and their routes of administration and the low or very low level quality of the evidence that is available. Evidence from a single trial found activated charcoal seemed the best choice to reduce absorption of paracetamol. Acetylcysteine should be given to people at risk of toxicity including people presenting with liver failure. Further randomised clinical trials with low risk of bias and adequate number of participants are required to determine which regimen results in the fewest adverse effects with the best efficacy. Current management of paracetamol poisoning worldwide involves the administration of intravenous or oral acetylcysteine which is based mainly on observational studies. Results from these observational studies indicate that treatment with acetylcysteine seems to result in a decrease in morbidity and mortality, However, further evidence from randomised clinical trials comparing different treatments are needed.",
+            "source_url": "https://europepmc.org/article/MED/29473717",
+            "open_access": false,
+            "license": null,
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Paracetamol (acetaminophen) for patent ductus arteriosus in preterm or low birth weight infants.",
+            "authors": [
+              "Ohlsson A",
+              "Shah PS."
+            ],
+            "year": "2020",
+            "journal": "",
+            "doi": "10.1002/14651858.cd010061.pub4",
+            "pmid": "31985831",
+            "pmcid": "PMC6984659",
+            "abstract": "<h4>Background</h4>In preterm newborns, the ductus arteriosus frequently fails to close and the infants require medical or surgical closure of the patent ductus arteriosus (PDA). A PDA can be treated surgically; or medically with one of two prostaglandin inhibitors, indomethacin or ibuprofen. Case reports suggest that paracetamol may be an alternative for the closure of a PDA. An association between prenatal or postnatal exposure to paracetamol and later development of autism or autism spectrum disorder has been reported.<h4>Objectives</h4>To determine the effectiveness and safety of intravenous or oral paracetamol compared with placebo or no intervention, intravenous indomethacin, intravenous or oral ibuprofen, or with other cyclo-oxygenase inhibitors for treatment of an echocardiographically diagnosed PDA in preterm or low birth weight infants.<h4>Search methods</h4>We used the standard search strategy of Cochrane Neonatal to search the Cochrane Central Register of Controlled Trials (CENTRAL 2017, Issue 10), MEDLINE via PubMed (1966 to 6 November 2017), Embase (1980 to 6 November 2017), and CINAHL (1982 to 6 November 2017). We searched clinical trial databases, conference proceedings, and the reference lists of retrieved articles for randomised controlled trials (RCT) and quasi-randomised trials.<h4>Selection criteria</h4>We included RCTs in which paracetamol was compared to no intervention, placebo or other agents used for closure of PDA irrespective of dose, duration and mode of administration in preterm (≤ 34 weeks' postmenstrual age) infants. We both reviewed the search results and made a final selection of potentially eligible articles by discussion. We included studies of both prophylactic and therapeutic use of paracetamol.<h4>Data collection and analysis</h4>We performed data collection and analyses in accordance with the methods of the Cochrane Neonatal Review Group. We used the GRADE approach to assess the quality of evidence for the following outcomes when data were available: failure of ductal closure after the first course of treatment; neurodevelopmental impairment; all-cause mortality during initial hospital stay (death); gastrointestinal bleed or stools positive for occult blood; and serum levels of creatinine after treatment (µmol/L).<h4>Main results</h4>We included eight studies that reported on 916 infants. One of these studies compared paracetamol to both ibuprofen and indomethacin. Five studies compared treatment of PDA with paracetamol versus ibuprofen and enrolled 559 infants. There was no significant difference between paracetamol and ibuprofen for failure of ductal closure after the first course of drug administration (typical risk ratio (RR) 0.95, 95% confidence interval (CI) 0.75 to 1.21; typical risk difference (RD) -0.02, 95% CI -0.09 to 0.09); I² = 0% for RR and RD; moderate quality of evidence. Four studies (n = 537) reported on gastrointestinal bleed which was lower in the paracetamol group versus the ibuprofen group (typical RR 0.28, 95% CI 0.12 to 0.69; typical RD -0.06, 95% CI -0.09 to -0.02); I² = 0% for RR and RD; number needed to treat for an additional beneficial outcome (NNTB) 17 (95% CI 11 to 50); moderate quality of evidence. The serum levels of creatinine were lower in the paracetamol group compared with the ibuprofen group in four studies (moderate quality of evidence), as were serum bilirubin levels following treatment in two studies (n = 290). Platelet counts and daily urine output were higher in the paracetamol group compared with the ibuprofen group. One study reported on long-term follow-up to 18 to 24 months of age following treatment with paracetamol versus ibuprofen. There were no significant differences in the neurological outcomes at 18 to 24 months (n = 61); (low quality of evidence). Two studies compared prophylactic administration of paracetamol for a PDA with placebo or no intervention in 80 infants. Paracetamol resulted in a lower rate of failure of ductal closure after 4 to 5 days of treatment compared to placebo or no intervention which was of borderline significance for typical RR 0.49 (95% CI 0.24 to 1.00; P = 0.05); but significant for typical RD -0.21 (95% CI -0.41 to -0.02); I² = 0 % for RR and RD; NNTB 5 (95% CI 2 to 50); (low quality of evidence). Two studies (n = 277) compared paracetamol with indomethacin. There was no significant difference in the failure to close a PDA (typical RR 0.96, 95% CI 0.55 to 1.65; I² = 11%; typical RD -0.01, 95% CI -0.09 to 0.08; I² = 17%) (low quality of evidence). Serum creatinine levels were significantly lower in the paracetamol group compared with the indomethacin group and platelet counts and daily urine output were significantly higher in the paracetamol group.<h4>Authors' conclusions</h4>Moderate-quality evidence according to GRADE suggests that paracetamol is as effective as ibuprofen; low-quality evidence suggests paracetamol to be more effective than placebo or no intervention; and low-quality evidence suggests paracetamol as effective as indomethacin in closing a PDA. There was no difference in neurodevelopmental outcome in children exposed to paracetamol compared to ibuprofen; however the quality of evidence is low and comes from only one study. In view of concerns raised regarding neurodevelopmental outcomes following prenatal and postnatal exposure to paracetamol, long-term follow-up to at least 18 to 24 months' postnatal age must be incorporated in any studies of paracetamol in the newborn population. At least 19 ongoing trials have been registered. Such trials are required before any recommendations for the possible routine use of paracetamol in the newborn population can be made.",
+            "source_url": "https://europepmc.org/article/MED/31985831",
+            "open_access": false,
+            "license": null,
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Paracetamol (acetaminophen) for chronic non-cancer pain in children and adolescents.",
+            "authors": [
+              "Cooper TE",
+              "Fisher E",
+              "Anderson B",
+              "Wilkinson NM",
+              "Williams DG",
+              "Eccleston C."
+            ],
+            "year": "2017",
+            "journal": "",
+            "doi": "10.1002/14651858.cd012539.pub2",
+            "pmid": "28770975",
+            "pmcid": "PMC6484395",
+            "abstract": "<h4>Background</h4>Pain is a common feature of childhood and adolescence around the world, and for many young people, that pain is chronic. The World Health Organization guidelines for pharmacological treatments for children's persisting pain acknowledge that pain in children is a major public health concern of high significance in most parts of the world. While in the past, pain was largely dismissed and was frequently left untreated, views on children's pain have changed over time, and relief of pain is now seen as important.We designed a suite of seven reviews on chronic non-cancer pain and cancer pain (looking at antidepressants, antiepileptic drugs, non-steroidal anti-inflammatory drugs, opioids, and paracetamol as priority areas) in order to review the evidence for children's pain utilising pharmacological interventions in children and adolescents.As the leading cause of morbidity in children and adolescents in the world today, chronic disease (and its associated pain) is a major health concern. Chronic pain (lasting three months or longer) can arise in the paediatric population in a variety of pathophysiological classifications: nociceptive, neuropathic, idiopathic, visceral, nerve damage pain, chronic musculoskeletal pain, and chronic abdominal pain, and other unknown reasons.Paracetamol (acetaminophen) is one of the most widely used analgesics in both adults and children. The recommended dosage in the UK, Europe, Australia, and the USA for children and adolescents is generally 10 to 15 mg/kg every four to six hours, with specific age ranges from 60 mg (6 to 12 months old) up to 500 to 1000 mg (over 12 years old). Paracetamol is the only recommended analgesic for children under 3 months of age. Paracetamol has been proven to be safe in appropriate and controlled dosages, however potential adverse effects of paracetamol if overdosed or overused in children include liver and kidney failure.<h4>Objectives</h4>To assess the analgesic efficacy and adverse events of paracetamol (acetaminophen) used to treat chronic non-cancer pain in children and adolescents aged between birth and 17 years, in any setting.<h4>Search methods</h4>We searched the Cochrane Central Register of Controlled Trials (CENTRAL) via the Cochrane Register of Studies Online, MEDLINE via Ovid, and Embase via Ovid from inception to 6 September 2016. We also searched the reference lists of retrieved studies and reviews, and searched online clinical trial registries.<h4>Selection criteria</h4>Randomised controlled trials, with or without blinding, of any dose and any route, treating chronic non-cancer pain in children and adolescents, comparing paracetamol with placebo or an active comparator.<h4>Data collection and analysis</h4>Two review authors independently assessed studies for eligibility. We planned to use dichotomous data to calculate risk ratio and numbers needed to treat, using standard methods where data were available. We assessed GRADE (Grading of Recommendations Assessment, Development and Evaluation) and planned to create a 'Summary of findings' table.<h4>Main results</h4>No studies were eligible for inclusion in this review. We rated the quality of the evidence as very low. We downgraded the quality of evidence by three levels due to the lack of data reported for any outcome.<h4>Authors' conclusions</h4>There was no evidence from randomised controlled trials to support or refute the use of paracetamol (acetaminophen) to treat chronic non-cancer pain in children and adolescents. We are unable to comment about efficacy or harm from the use of paracetamol to treat chronic non-cancer pain in children and adolescents.We know from adult randomised controlled trials that paracetamol, can be effective, in certain doses, and in certain pain conditions (not always chronic).This means that no conclusions could be made about efficacy or harm in the use of paracetamol (acetaminophen) to treat chronic non-cancer pain in children and adolescents.",
+            "source_url": "https://europepmc.org/article/MED/28770975",
+            "open_access": false,
+            "license": null,
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Literature Review on Adsorption Efficiency of Paracetamol on Different Adsorbent Materials.",
+            "authors": [
+              "Makulec J",
+              "Chrzanowska A",
+              "Siudem P",
+              "Paradowska K."
+            ],
+            "year": "2026",
+            "journal": "",
+            "doi": "10.3390/ijms27020623",
+            "pmid": "41596276",
+            "pmcid": "PMC12840922",
+            "abstract": "Paracetamol (acetaminophen) is one of the most widely used analgesics and antipyretics. Due to its widespread use, it is also one of the chief contaminants in surface water and wastewater, raising a significant environmental concern. Traditional wastewater treatment systems are ineffective at removing pharmaceutical residues, which makes it necessary to search for alternative methods. One of the promising techniques is adsorption which is valued for its simplicity, cost-effectiveness and high efficiency. This review provides an in-depth analysis of the adsorption efficiency of paracetamol on various adsorbent materials. The physical and chemical mechanisms of adsorption are discussed together with the factors affecting the efficiency, such as pH, temperature and ionic strength. Of the materials tested, activated carbon shows the greatest efficiency, but nanomaterials, biocomposites, clays and zeolites also give promising results. The potential of emerging materials, including modified silica, polymer-grafted nanocomposites and biosorbents derived from waste biomass is also explored. Special attention is paid to regeneration capabilities and environmental sustainability. The study emphasizes the importance of adsorption as a technique for enhancing the treatment of pharmaceutical wastewater and mitigating ecological risks.",
+            "source_url": "https://europepmc.org/article/MED/41596276",
+            "open_access": true,
+            "license": "cc by",
+            "full_text_downloaded": false
+          }
+        ],
+        "provider_errors": {}
+      }
+    ],
+    "warnings": [
+      "Search results are candidate literature records; retrieval alone does not establish support or contradiction.",
+      "Only indexed abstracts/metadata are returned. No full text was downloaded; verify individual reuse terms before any later retrieval."
+    ]
+  },
+  "judgment": {
+    "status": "APPROVED",
+    "claims": [
+      {
+        "claim_id": "a2-1",
+        "decision": "APPROVED",
+        "rationale": "The review of the literature on paracetamol overdose found that interventions such as gastric lavage, ipecacuanha, or activated charcoal, or various extracorporeal treatments, or antidotes were effective in treating paracetamol poisoning.",
+        "evidence_ids": [
+          "b90a264d91c794bcd376",
+          "b90a264d91c794bcd376"
+        ],
+        "warnings": []
+      },
+      {
+        "claim_id": "a2-2",
+        "decision": "APPROVED",
+        "rationale": "The review of the literature on paracetamol overdose found that paracetamol is the most widely used non-prescription analgesic in the world and is commonly taken in overdose either deliberately or unintentionally.",
+        "evidence_ids": [
+          "b90a264d91c794bcd376",
+          "b90a264d91c794bcd376"
+        ],
+        "warnings": []
+      }
+    ],
+    "answer": "Paracetamol plasma level on admission (mean (SE)) (mg/L): 305 (46).\nAmount of ingested paracetamol (g): 56 vs 34.\nGazzard 1974a/uni00A0\nInterventions for paracetamol (acetaminophen) overdose (Review)\nCopyright © 2018 The Cochrane Collabora\n\nreduced probability of having a paracetamol concentration above\n150 mg/L at the four-hour nomogram line (Duﬀull 2013 ). One\nobservational series of 200 participants ingesting greater than 40 g\nof paracetamol found paracetamol concentrations",
+    "reasons": [
+      "Agent 4 decisions are rule-checked draft assessments, not proof of scientific accuracy."
+    ],
+    "model": "llama3.2:3b",
+    "raw_response": {
+      "model": "llama3.2:3b",
+      "created_at": "2026-11-01T15:37:01.5210937Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"claims\": [{\"claim_id\": \"a2-1\", \"decision\": \"APPROVED\", \"rationale\": \"The review of the literature on paracetamol overdose found that interventions such as gastric lavage, ipecacuanha, or activated charcoal, or various extracorporeal treatments, or antidotes were effective in treating paracetamol poisoning.\", \"evidence_ids\": [\"b90a264d91c794bcd376\", \"b90a264d91c794bcd376\"]}, {\"claim_id\": \"a2-2\", \"decision\": \"APPROVED\", \"rationale\": \"The review of the literature on paracetamol overdose found that paracetamol is the most widely used non-prescription analgesic in the world and is commonly taken in overdose either deliberately or unintentionally.\", \"evidence_ids\": [\"b90a264d91c794bcd376\", \"b90a264d91c794bcd376\"]}],\"answer\": \"The interventions for paracetamol overdose include gastric lavage, ipecacuanha, or activated charcoal, or various extracorporeal treatments, or antidotes. Paracetamol is the most widely used non-prescription analgesic in the world and is commonly taken in overdose either deliberately or unintentionally.\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 18215223800,
+      "load_duration": 9204489300,
+      "prompt_eval_count": 2050,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 893347000,
+      "eval_count": 309,
+      "eval_duration": 7875904000
+    }
+  },
+  "stage_errors": {},
+  "audit_path": "C:\\Users\\Surendra Babu\\Downloads\\DrugCo\\data\\processed\\runs\\ca8fa7e736324a7091d789f0917d36b9.json",
+  "stage_timings_ms": {
+    "agent1": 1076,
+    "agent2": 39848,
+    "agent3": 17371,
+    "agent4": 20388,
+    "total": 78683
+  },
+  "created_at": "2026-11-01T15:37:01.525115+00:00"
+}

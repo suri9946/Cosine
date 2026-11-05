@@ -1,0 +1,110 @@
+{
+  "source_path": "data/research/paracetamol/pdf/labels/20210403_bf001b70-6164-1ec9-e053-2a95a90a1274.pdf",
+  "page_numbers": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "native_text_status": "no extractable text on pages 2-11",
+  "renderer": "pypdfium2 5.14.0; rendered at 2x",
+  "ocr_engine": "Tesseract OCR (local installation; page segmentation mode 6)",
+  "visual_review": {
+    "sampled_pages": [
+      2,
+      3,
+      11
+    ],
+    "finding": "All ten pages produced identical rendered image SHA-256; sampled pages were visually identical product-label artwork.",
+    "human_corrected_transcription": false
+  },
+  "indexing_decision": "OCR output is diagnostic only and excluded from retrieval until proofread.",
+  "pages": [
+    {
+      "page": 2,
+      "render_sha256": "fe3c10a3287778121c2faeeba406fa048b74cfea293ff5469aacf86cd81025f8",
+      "duplicate_of_page": null,
+      "ocr_status": "ocr_unverified_visual_review_required",
+      "ocr_character_count": 1648,
+      "ocr_text": "jouieyaoeie /\\ a\r\nAC-Fast, ~\r\nParacetamol “SS\r\nDRUG DOSAGE AND INSTRUCTIONS FOR ADMINISTRATION: INACTIVE INGREDIENTES: Monohydrated Lactose, micro JN\r\nAdults and children 12 years and over: 1 to 2 tablets, 3to 4 times | crystalline cellulose, Sodium starch glycolate, Polyvidone,\r\na day. Do not exceed 8 tablets a day. Children 6 to 8 years of ‘Magnesium stearate, Purified Water.\r\nage: 1/2 tablet every 6 hours. Children 9 to 12 years of age: 1 Keep out of reach of children. In case of overdose, get 1)\r\ntablet every 6 hours. Do not exceed 4 tablets per day. medical help or contact a Potson Control Center right\r\naway,\r\nWARNINGS AND PRECAUTIONS: he,\r\nPEDIATRIC USE: Children under 6 years of age: do not use. Keep out of reach of children. In case of overdose, get it\r\nPREGNANCY AND BREASTFEEDING: If pregnant ask a healthcare medical help or contact a Poison Control Center right\r\nprofessional before use. Do not use during breastfeeding. away.\r\nCONTRAINDICATIONS: Oo not use for mare than 5 days bl\r\nHypersensitivity to the formula component, liver or kidney disease, PURPOUSE/ USES\r\nactive peptic ulcer, blood disturbances. Used to treat\r\n[ADVERSE REACTIONS: Vomiting, nausea, stomach pain. “headache a\r\nINTERACTION WITH OTHER MEDICINAL PRODUCTS: Paracetamol | muscle pain\r\n‘enhances the effect of anti-coagulants. + toothache and ear pain. |\r\nACCIDENTAL INGESTION AND OVERDOSE: Anyone taking more than | + and Relieve fever '\r\n7.5 ¢ ina single shot should be treated within the first 10 hours .\r\nwith a specific antidote, even if unaware of hematic ACTIVE INGREDIENTES: Paracetamol.\r\nconcentrations. If symptoms persist, consult your doctor."
+    },
+    {
+      "page": 3,
+      "render_sha256": "fe3c10a3287778121c2faeeba406fa048b74cfea293ff5469aacf86cd81025f8",
+      "duplicate_of_page": 2,
+      "ocr_status": "duplicate_render_of_page_2",
+      "ocr_character_count": 0,
+      "ocr_text": ""
+    },
+    {
+      "page": 4,
+      "render_sha256": "fe3c10a3287778121c2faeeba406fa048b74cfea293ff5469aacf86cd81025f8",
+      "duplicate_of_page": 2,
+      "ocr_status": "duplicate_render_of_page_2",
+      "ocr_character_count": 0,
+      "ocr_text": ""
+    },
+    {
+      "page": 5,
+      "render_sha256": "fe3c10a3287778121c2faeeba406fa048b74cfea293ff5469aacf86cd81025f8",
+      "duplicate_of_page": 2,
+      "ocr_status": "duplicate_render_of_page_2",
+      "ocr_character_count": 0,
+      "ocr_text": ""
+    },
+    {
+      "page": 6,
+      "render_sha256": "fe3c10a3287778121c2faeeba406fa048b74cfea293ff5469aacf86cd81025f8",
+      "duplicate_of_page": 2,
+      "ocr_status": "duplicate_render_of_page_2",
+      "ocr_character_count": 0,
+      "ocr_text": ""
+    },
+    {
+      "page": 7,
+      "render_sha256": "fe3c10a3287778121c2faeeba406fa048b74cfea293ff5469aacf86cd81025f8",
+      "duplicate_of_page": 2,
+      "ocr_status": "duplicate_render_of_page_2",
+      "ocr_character_count": 0,
+      "ocr_text": ""
+    },
+    {
+      "page": 8,
+      "render_sha256": "fe3c10a3287778121c2faeeba406fa048b74cfea293ff5469aacf86cd81025f8",
+      "duplicate_of_page": 2,
+      "ocr_status": "duplicate_render_of_page_2",
+      "ocr_character_count": 0,
+      "ocr_text": ""
+    },
+    {
+      "page": 9,
+      "render_sha256": "fe3c10a3287778121c2faeeba406fa048b74cfea293ff5469aacf86cd81025f8",
+      "duplicate_of_page": 2,
+      "ocr_status": "duplicate_render_of_page_2",
+      "ocr_character_count": 0,
+      "ocr_text": ""
+    },
+    {
+      "page": 10,
+      "render_sha256": "fe3c10a3287778121c2faeeba406fa048b74cfea293ff5469aacf86cd81025f8",
+      "duplicate_of_page": 2,
+      "ocr_status": "duplicate_render_of_page_2",
+      "ocr_character_count": 0,
+      "ocr_text": ""
+    },
+    {
+      "page": 11,
+      "render_sha256": "fe3c10a3287778121c2faeeba406fa048b74cfea293ff5469aacf86cd81025f8",
+      "duplicate_of_page": 2,
+      "ocr_status": "duplicate_render_of_page_2",
+      "ocr_character_count": 0,
+      "ocr_text": ""
+    }
+  ]
+}

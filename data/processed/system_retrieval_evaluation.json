@@ -1,0 +1,323 @@
+{
+  "dataset_id": "best-life-paracetamol-system-v1",
+  "evaluated_at": "2026-11-01T11:16:33.314351+00:00",
+  "scope": "Agent 1 retrieval and provenance only; does not assess scientific accuracy or claim correctness.",
+  "metrics": {
+    "case_count": 18,
+    "answerable_term_coverage": 1.0,
+    "expected_source_recall_at_5": 1.0,
+    "expected_source_page_recall_at_5": 1.0,
+    "traceability_rate_returned_cases": 1.0,
+    "absent_question_insufficient_rate": 1.0,
+    "absent_question_count": 3
+  },
+  "scientific_accuracy_assessed": false,
+  "cases": [
+    {
+      "case_id": "MECH-01",
+      "topic": "mechanism_of_action",
+      "answer_present": true,
+      "expected_source_rank": 1,
+      "expected_source_page_rank": null,
+      "expected_terms": [
+        "mechanism",
+        "cyclooxygenase"
+      ],
+      "matched_terms": [
+        "mechanism",
+        "cyclooxygenase"
+      ],
+      "assessment_status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+      "traceability_complete": true,
+      "candidate_count": 5
+    },
+    {
+      "case_id": "PHARM-01",
+      "topic": "pharmacology",
+      "answer_present": true,
+      "expected_source_rank": 4,
+      "expected_source_page_rank": null,
+      "expected_terms": [
+        "analgesic",
+        "antipyretic"
+      ],
+      "matched_terms": [
+        "analgesic",
+        "antipyretic"
+      ],
+      "assessment_status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+      "traceability_complete": true,
+      "candidate_count": 5
+    },
+    {
+      "case_id": "PK-01",
+      "topic": "pharmacokinetics",
+      "answer_present": true,
+      "expected_source_rank": 5,
+      "expected_source_page_rank": null,
+      "expected_terms": [
+        "absorption",
+        "half-life"
+      ],
+      "matched_terms": [
+        "absorption"
+      ],
+      "assessment_status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+      "traceability_complete": true,
+      "candidate_count": 5
+    },
+    {
+      "case_id": "MET-01",
+      "topic": "metabolism_napqi",
+      "answer_present": true,
+      "expected_source_rank": 1,
+      "expected_source_page_rank": null,
+      "expected_terms": [
+        "napqi",
+        "metabolism"
+      ],
+      "matched_terms": [
+        "napqi",
+        "metabolism"
+      ],
+      "assessment_status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+      "traceability_complete": true,
+      "candidate_count": 5
+    },
+    {
+      "case_id": "TOX-01",
+      "topic": "toxicology_safety",
+      "answer_present": true,
+      "expected_source_rank": 1,
+      "expected_source_page_rank": null,
+      "expected_terms": [
+        "liver",
+        "overdose"
+      ],
+      "matched_terms": [
+        "liver",
+        "overdose"
+      ],
+      "assessment_status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+      "traceability_complete": true,
+      "candidate_count": 5
+    },
+    {
+      "case_id": "CHEM-01",
+      "topic": "chemical_properties",
+      "answer_present": true,
+      "expected_source_rank": 1,
+      "expected_source_page_rank": null,
+      "expected_terms": [
+        "C8H9NO2",
+        "151.16"
+      ],
+      "matched_terms": [
+        "C8H9NO2",
+        "151.16"
+      ],
+      "assessment_status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+      "traceability_complete": true,
+      "candidate_count": 5
+    },
+    {
+      "case_id": "STRUCT-01",
+      "topic": "molecular_structure",
+      "answer_present": true,
+      "expected_source_rank": 2,
+      "expected_source_page_rank": null,
+      "expected_terms": [
+        "CC(=O)Nc1ccc(O)cc1",
+        "3D"
+      ],
+      "matched_terms": [
+        "CC(=O)Nc1ccc(O)cc1",
+        "3D"
+      ],
+      "assessment_status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+      "traceability_complete": true,
+      "candidate_count": 5
+    },
+    {
+      "case_id": "SOURCE-01",
+      "topic": "source_page_traceability",
+      "answer_present": true,
+      "expected_source_rank": 4,
+      "expected_source_page_rank": 4,
+      "expected_terms": [
+        "acetaminophen",
+        "liver warning"
+      ],
+      "matched_terms": [
+        "acetaminophen",
+        "liver warning"
+      ],
+      "assessment_status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+      "traceability_complete": true,
+      "candidate_count": 5
+    },
+    {
+      "case_id": "ABSENT-01",
+      "topic": "insufficient_evidence",
+      "answer_present": false,
+      "expected_source_rank": null,
+      "expected_source_page_rank": null,
+      "expected_terms": [
+        "TRPV1"
+      ],
+      "matched_terms": [],
+      "assessment_status": "INSUFFICIENT_EVIDENCE",
+      "traceability_complete": true,
+      "candidate_count": 5
+    },
+    {
+      "case_id": "ABSENT-02",
+      "topic": "insufficient_evidence",
+      "answer_present": false,
+      "expected_source_rank": null,
+      "expected_source_page_rank": null,
+      "expected_terms": [
+        "malaria"
+      ],
+      "matched_terms": [],
+      "assessment_status": "INSUFFICIENT_EVIDENCE",
+      "traceability_complete": true,
+      "candidate_count": 5
+    },
+    {
+      "case_id": "PK-02",
+      "topic": "pharmacokinetics_metabolism",
+      "answer_present": true,
+      "expected_source_rank": 2,
+      "expected_source_page_rank": null,
+      "expected_terms": [
+        "CYP",
+        "NAPQI"
+      ],
+      "matched_terms": [
+        "CYP",
+        "NAPQI"
+      ],
+      "assessment_status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+      "traceability_complete": true,
+      "candidate_count": 5
+    },
+    {
+      "case_id": "TOX-02",
+      "topic": "toxicology_safety",
+      "answer_present": true,
+      "expected_source_rank": 1,
+      "expected_source_page_rank": null,
+      "expected_terms": [
+        "glutathione",
+        "toxicity"
+      ],
+      "matched_terms": [
+        "glutathione",
+        "toxicity"
+      ],
+      "assessment_status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+      "traceability_complete": true,
+      "candidate_count": 5
+    },
+    {
+      "case_id": "CHEM-02",
+      "topic": "chemical_properties",
+      "answer_present": true,
+      "expected_source_rank": 5,
+      "expected_source_page_rank": null,
+      "expected_terms": [
+        "C8H9NO2"
+      ],
+      "matched_terms": [
+        "C8H9NO2"
+      ],
+      "assessment_status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+      "traceability_complete": true,
+      "candidate_count": 5
+    },
+    {
+      "case_id": "FORM-01",
+      "topic": "formulation",
+      "answer_present": true,
+      "expected_source_rank": null,
+      "expected_source_page_rank": null,
+      "expected_terms": [
+        "tablet"
+      ],
+      "matched_terms": [
+        "tablet"
+      ],
+      "assessment_status": "INSUFFICIENT_EVIDENCE",
+      "traceability_complete": true,
+      "candidate_count": 5
+    },
+    {
+      "case_id": "CONFLICT-01",
+      "topic": "mechanism_uncertainty",
+      "answer_present": true,
+      "expected_source_rank": 1,
+      "expected_source_page_rank": null,
+      "expected_terms": [
+        "mechanism",
+        "unclear"
+      ],
+      "matched_terms": [
+        "mechanism",
+        "unclear"
+      ],
+      "assessment_status": "INSUFFICIENT_EVIDENCE",
+      "traceability_complete": true,
+      "candidate_count": 5
+    },
+    {
+      "case_id": "MISINFO-AMPA-01",
+      "topic": "adversarial_pathway",
+      "answer_present": false,
+      "expected_source_rank": null,
+      "expected_source_page_rank": null,
+      "expected_terms": [
+        "AMPA",
+        "NAPQI"
+      ],
+      "matched_terms": [
+        "NAPQI"
+      ],
+      "assessment_status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+      "traceability_complete": true,
+      "candidate_count": 5
+    },
+    {
+      "case_id": "ABSENT-03",
+      "topic": "insufficient_evidence",
+      "answer_present": false,
+      "expected_source_rank": null,
+      "expected_source_page_rank": null,
+      "expected_terms": [
+        "India",
+        "prevalence"
+      ],
+      "matched_terms": [],
+      "assessment_status": "INSUFFICIENT_EVIDENCE",
+      "traceability_complete": true,
+      "candidate_count": 5
+    },
+    {
+      "case_id": "MISINFO-APABA-01",
+      "topic": "adversarial_pathway",
+      "answer_present": false,
+      "expected_source_rank": null,
+      "expected_source_page_rank": null,
+      "expected_terms": [
+        "APABA",
+        "NAPQI"
+      ],
+      "matched_terms": [
+        "NAPQI"
+      ],
+      "assessment_status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+      "traceability_complete": true,
+      "candidate_count": 5
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "status": "validated",
+  "rdkit_version": "2026.09.1",
+  "python_version": "3.12.10",
+  "sdf_file_count": 4,
+  "sdf_records": [
+    {
+      "local_path": "data/research/paracetamol/chemical_data/Conformer3D_COMPOUND_CID_1983.sdf",
+      "source_id": "PARA-CHEM-003",
+      "source_url": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "sha256": "f3db6716af496e14bdb9b8105488ed1f0513f2495fd634e9e24160e34dbabb6b",
+      "record_index": 1,
+      "parse_status": "parsed",
+      "sanitized": true,
+      "atom_count": 20,
+      "bond_count": 20,
+      "formula": "C8H9NO2",
+      "canonical_smiles": "CC(=O)Nc1ccc(O)cc1",
+      "has_3d_conformer": true,
+      "rdkit_version": "2026.09.1"
+    },
+    {
+      "local_path": "data/research/paracetamol/chemical_data/PubChem_CID_1983_20261101_2D.sdf",
+      "source_id": "PUBCHEM-2D-2026",
+      "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/1983",
+      "license_reuse": "PubChem public compound record; attribution recommended; check depositor-specific terms",
+      "sha256": "2c6e839cd1d27ba845e02be2326670e34c641148a5f4f4788d73e3e27264d99b",
+      "record_index": 1,
+      "parse_status": "parsed",
+      "sanitized": true,
+      "atom_count": 20,
+      "bond_count": 20,
+      "formula": "C8H9NO2",
+      "canonical_smiles": "CC(=O)Nc1ccc(O)cc1",
+      "has_3d_conformer": false,
+      "rdkit_version": "2026.09.1"
+    },
+    {
+      "local_path": "data/research/paracetamol/chemical_data/PubChem_CID_1983_20261101_3D.sdf",
+      "source_id": "PUBCHEM-3D-2026",
+      "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/1983",
+      "license_reuse": "PubChem public compound record; attribution recommended; check depositor-specific terms",
+      "sha256": "1f708ab3ec7bfc52a798fc5c75f3b3158e7dca821d2c9bfe2e0a1a7e5690627a",
+      "record_index": 1,
+      "parse_status": "parsed",
+      "sanitized": true,
+      "atom_count": 20,
+      "bond_count": 20,
+      "formula": "C8H9NO2",
+      "canonical_smiles": "CC(=O)Nc1ccc(O)cc1",
+      "has_3d_conformer": true,
+      "rdkit_version": "2026.09.1"
+    },
+    {
+      "local_path": "data/research/paracetamol/chemical_data/Structure2D_COMPOUND_CID_1983.sdf",
+      "source_id": "PARA-CHEM-002",
+      "source_url": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "sha256": "6a4d92ce29bfd71a312f97aa14ac8bd30727d6524acba75da2abc8dde7e5f3e5",
+      "record_index": 1,
+      "parse_status": "parsed",
+      "sanitized": true,
+      "atom_count": 20,
+      "bond_count": 20,
+      "formula": "C8H9NO2",
+      "canonical_smiles": "CC(=O)Nc1ccc(O)cc1",
+      "has_3d_conformer": false,
+      "rdkit_version": "2026.09.1"
+    }
+  ],
+  "json_status": "valid_json",
+  "json_record": {
+    "local_path": "data/research/paracetamol/chemical_data/Structure2D_COMPOUND_CID_1983.json",
+    "source_id": "PARA-CHEM-001",
+    "license_reuse": "Unknown; terms not captured for existing file",
+    "top_level_type": "dict"
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "request_id": "d12ca0391d144450b9982fa4f0ff4d5a",
+  "status": "NEEDS_REVISION",
+  "answer": "",
+  "retrieval_assessment": {
+    "status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+    "reason": "Potentially relevant passages were found. Review the original source and verify the claim before using it.",
+    "drug": "paracetamol",
+    "topic": "chemical_properties",
+    "direct_candidates": 5,
+    "drug_specific_context": 0
+  },
+  "evidence": [
+    {
+      "source": "PubChem_CID_1983_20261101_2D.sdf",
+      "page": null,
+      "source_id": "PUBCHEM-2D-2026",
+      "source_path": "data/research/paracetamol/chemical_data/PubChem_CID_1983_20261101_2D.sdf",
+      "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/1983",
+      "source_title": "",
+      "authors": "",
+      "doi": "",
+      "pmid": "",
+      "pmcid": "",
+      "license_reuse": "PubChem public compound record; attribution recommended; check depositor-specific terms",
+      "version_date": "",
+      "section": "RDKit-derived molecular record",
+      "extractor": "RDKit 2026.09.1",
+      "quality_status": "rdkit_sanitized",
+      "evidence_id": "64349bcca3cc62489f52",
+      "semantic_score": 0.7348192930221558,
+      "keyword_score": 25.61444793659835,
+      "hybrid_score": 0.03252247488101534,
+      "adjusted_score": 0.03302247488101534,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "The requested drug and topic-related terms appear in the same passage. Manual verification is required.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "2d",
+        "atoms",
+        "bonds",
+        "canonical smiles",
+        "chemical structure",
+        "molecular formula",
+        "smiles"
+      ],
+      "text": "Paracetamol (acetaminophen) chemical structure record: 2D structure; molecular formula C8H9NO2; 20 atoms; 20 bonds; canonical SMILES CC(=O)Nc1ccc(O)cc1. Structure parsed and sanitized by RDKit 2026.09.1."
+    },
+    {
+      "source": "Structure2D_COMPOUND_CID_1983.sdf",
+      "page": null,
+      "source_id": "PARA-CHEM-002",
+      "source_path": "data/research/paracetamol/chemical_data/Structure2D_COMPOUND_CID_1983.sdf",
+      "source_url": "",
+      "source_title": "",
+      "authors": "",
+      "doi": "",
+      "pmid": "",
+      "pmcid": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": "",
+      "section": "RDKit-derived molecular record",
+      "extractor": "RDKit 2026.09.1",
+      "quality_status": "rdkit_sanitized",
+      "evidence_id": "b1244ff2f83f96069b1c",
+      "semantic_score": 0.7348192930221558,
+      "keyword_score": 25.61444793659835,
+      "hybrid_score": 0.032266458495966696,
+      "adjusted_score": 0.0327664584959667,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "The requested drug and topic-related terms appear in the same passage. Manual verification is required.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "2d",
+        "atoms",
+        "bonds",
+        "canonical smiles",
+        "chemical structure",
+        "molecular formula",
+        "smiles"
+      ],
+      "text": "Paracetamol (acetaminophen) chemical structure record: 2D structure; molecular formula C8H9NO2; 20 atoms; 20 bonds; canonical SMILES CC(=O)Nc1ccc(O)cc1. Structure parsed and sanitized by RDKit 2026.09.1."
+    },
+    {
+      "source": "PubChem_CID_1983_20261101_3D.sdf",
+      "page": null,
+      "source_id": "PUBCHEM-3D-2026",
+      "source_path": "data/research/paracetamol/chemical_data/PubChem_CID_1983_20261101_3D.sdf",
+      "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/1983",
+      "source_title": "",
+      "authors": "",
+      "doi": "",
+      "pmid": "",
+      "pmcid": "",
+      "license_reuse": "PubChem public compound record; attribution recommended; check depositor-specific terms",
+      "version_date": "",
+      "section": "RDKit-derived molecular record",
+      "extractor": "RDKit 2026.09.1",
+      "quality_status": "rdkit_sanitized",
+      "evidence_id": "620f9ad561e7b384721e",
+      "semantic_score": 0.7289877533912659,
+      "keyword_score": 25.61444793659835,
+      "hybrid_score": 0.03200204813108039,
+      "adjusted_score": 0.03250204813108039,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "The requested drug and topic-related terms appear in the same passage. Manual verification is required.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "3d",
+        "atoms",
+        "bonds",
+        "canonical smiles",
+        "chemical structure",
+        "molecular formula",
+        "smiles"
+      ],
+      "text": "Paracetamol (acetaminophen) chemical structure record: 3D conformer; molecular formula C8H9NO2; 20 atoms; 20 bonds; canonical SMILES CC(=O)Nc1ccc(O)cc1. Structure parsed and sanitized by RDKit 2026.09.1."
+    },
+    {
+      "source": "Conformer3D_COMPOUND_CID_1983.sdf",
+      "page": null,
+      "source_id": "PARA-CHEM-003",
+      "source_path": "data/research/paracetamol/chemical_data/Conformer3D_COMPOUND_CID_1983.sdf",
+      "source_url": "",
+      "source_title": "",
+      "authors": "",
+      "doi": "",
+      "pmid": "",
+      "pmcid": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": "",
+      "section": "RDKit-derived molecular record",
+      "extractor": "RDKit 2026.09.1",
+      "quality_status": "rdkit_sanitized",
+      "evidence_id": "766d8af8553f175e69f6",
+      "semantic_score": 0.7289877533912659,
+      "keyword_score": 25.61444793659835,
+      "hybrid_score": 0.03125,
+      "adjusted_score": 0.03175,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "The requested drug and topic-related terms appear in the same passage. Manual verification is required.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "3d",
+        "atoms",
+        "bonds",
+        "canonical smiles",
+        "chemical structure",
+        "molecular formula",
+        "smiles"
+      ],
+      "text": "Paracetamol (acetaminophen) chemical structure record: 3D conformer; molecular formula C8H9NO2; 20 atoms; 20 bonds; canonical SMILES CC(=O)Nc1ccc(O)cc1. Structure parsed and sanitized by RDKit 2026.09.1."
+    },
+    {
+      "source": "Structure2D_COMPOUND_CID_1983.json",
+      "page": null,
+      "source_id": "PARA-CHEM-001",
+      "source_path": "data/research/paracetamol/chemical_data/Structure2D_COMPOUND_CID_1983.json",
+      "source_url": "",
+      "source_title": "",
+      "authors": "",
+      "doi": "",
+      "pmid": "",
+      "pmcid": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": "",
+      "section": "PubChem compound properties",
+      "extractor": "PubChem PUG JSON parser",
+      "quality_status": "valid_json",
+      "evidence_id": "1ff1b6013cc2fa56d671",
+      "semantic_score": 0.6964795589447021,
+      "keyword_score": 11.290578749059987,
+      "hybrid_score": 0.03076923076923077,
+      "adjusted_score": 0.03126923076923077,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "The requested drug and topic-related terms appear in the same passage. Manual verification is required.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "inchi",
+        "inchikey",
+        "molecular formula",
+        "molecular weight"
+      ],
+      "text": "Paracetamol (acetaminophen) PubChem CID 1983 properties: IUPAC Name Allowed: N-(4-hydroxyphenyl)acetamide; IUPAC Name CAS-like Style: N-(4-hydroxyphenyl)acetamide; IUPAC Name Markup: <I>N</I>-(4-hydroxyphenyl)acetamide; IUPAC Name Preferred: N-(4-hydroxyphenyl)acetamide; IUPAC Name Systematic: N-(4-hydroxyphenyl)ethanamide; IUPAC Name Traditional: N-(4-hydroxyphenyl)acetamide; InChI Standard: InChI=1S/C8H9NO2/c1-6(10)9-7-2-4-8(11)5-3-7/h2-5,11H,1H3,(H,9,10); InChIKey Standard: RZVAJINKPMORJF-UHFFFAOYSA-N; Molecular Formula: C8H9NO2; Molecular Weight: 151.16."
+    }
+  ],
+  "interpretation": {
+    "status": "COMPLETED",
+    "model": "hf.co/ceafgnigguh123/ChemLLM-7B-Chat-GGUF:Q4_K_M",
+    "answer": "The molecular formula listed in the local chemical record for paracetamol is C8H9NO2.",
+    "claims": [
+      {
+        "claim_id": "a2-1",
+        "explanation": "",
+        "claim_type": "finding",
+        "requires_verification": false,
+        "text": "The molecular formula listed in the local chemical record for paracetamol is C8H9NO2.",
+        "uncertainty": ": 0.0",
+        "evidence_ids": [
+          "64349bcca3cc62489f52"
+        ]
+      }
+    ],
+    "warnings": [
+      "Agent 2 output is a draft interpretation, not scientific validation."
+    ],
+    "raw_response": {
+      "model": "hf.co/ceafgnigguh123/ChemLLM-7B-Chat-GGUF:Q4_K_M",
+      "created_at": "2026-11-01T10:42:48.669206Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"claims\": [{\"claim_type\": \"finding\", \"evidence_refs\": [\"E1\"], \"requires_verification\": false, \"text\": \"The molecular formula listed in the local chemical record for paracetamol is C8H9NO2.\",\"uncertainty\": \": 0.0\"}]}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 15769583300,
+      "load_duration": 10568371200,
+      "prompt_eval_count": 1087,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 1054241000,
+      "eval_count": 73,
+      "eval_duration": 4112594000
+    },
+    "raw_content": "{\"claims\": [{\"claim_type\": \"finding\", \"evidence_refs\": [\"E1\"], \"requires_verification\": false, \"text\": \"The molecular formula listed in the local chemical record for paracetamol is C8H9NO2.\",\"uncertainty\": \": 0.0\"}]}"
+  },
+  "verification": {
+    "status": "COMPLETED",
+    "claims": [
+      {
+        "claim_id": "a2-1",
+        "status": "RECORDS_FOUND",
+        "query": "(paracetamol OR acetaminophen) AND \"the\" AND \"molecular\" AND \"formula\" AND \"listed\" AND \"local\"",
+        "records": [
+          {
+            "provider": "Europe PMC",
+            "title": "Interventions for paracetamol (acetaminophen) overdose.",
+            "authors": [
+              "Chiew AL",
+              "Gluud C",
+              "Brok J",
+              "Buckley NA."
+            ],
+            "year": "2018",
+            "journal": "",
+            "doi": "10.1002/14651858.cd003328.pub3",
+            "pmid": "29473717",
+            "pmcid": "PMC6491303",
+            "abstract": "<h4>Background</h4>Paracetamol (acetaminophen) is the most widely used non-prescription analgesic in the world. Paracetamol is commonly taken in overdose either deliberately or unintentionally. In high-income countries, paracetamol toxicity is a common cause of acute liver injury. There are various interventions to treat paracetamol poisoning, depending on the clinical status of the person. These interventions include inhibiting the absorption of paracetamol from the gastrointestinal tract (decontamination), removal of paracetamol from the vascular system, and antidotes to prevent the formation of, or to detoxify, metabolites.<h4>Objectives</h4>To assess the benefits and harms of interventions for paracetamol overdosage irrespective of the cause of the overdose.<h4>Search methods</h4>We searched The Cochrane Hepato-Biliary Group Controlled Trials Register (January 2017), CENTRAL (2016, Issue 11), MEDLINE (1946 to January 2017), Embase (1974 to January 2017), and Science Citation Index Expanded (1900 to January 2017). We also searched the World Health Organization International Clinical Trials Registry Platform and ClinicalTrials.gov database (US National Institute of Health) for any ongoing or completed trials (January 2017). We examined the reference lists of relevant papers identified by the search and other published reviews.<h4>Selection criteria</h4>Randomised clinical trials assessing benefits and harms of interventions in people who have ingested a paracetamol overdose. The interventions could have been gastric lavage, ipecacuanha, or activated charcoal, or various extracorporeal treatments, or antidotes. The interventions could have been compared with placebo, no intervention, or to each other in differing regimens.<h4>Data collection and analysis</h4>Two review authors independently extracted data from the included trials. We used fixed-effect and random-effects Peto odds ratios (OR) with 95% confidence intervals (CI) for analysis of the review outcomes. We used the Cochrane 'Risk of bias' tool to assess the risks of bias (i.e. systematic errors leading to overestimation of benefits and underestimation of harms). We used Trial Sequential Analysis to control risks of random errors (i.e. play of chance) and GRADE to assess the quality of the evidence and constructed 'Summary of findings' tables using GRADE software.<h4>Main results</h4>We identified 11 randomised clinical trials (of which one acetylcysteine trial was abandoned due to low numbers recruited), assessing several different interventions in 700 participants. The variety of interventions studied included decontamination, extracorporeal measures, and antidotes to detoxify paracetamol's toxic metabolite; which included methionine, cysteamine, dimercaprol, or acetylcysteine. There were no randomised clinical trials of agents that inhibit cytochrome P-450 to decrease the activation of the toxic metabolite N-acetyl-p-benzoquinone imine.Of the 11 trials, only two had two common outcomes, and hence, we could only meta-analyse two comparisons. Each of the remaining comparisons included outcome data from one trial only and hence their results are presented as described in the trials. All trial analyses lack power to access efficacy. Furthermore, all the trials were at high risk of bias. Accordingly, the quality of evidence was low or very low for all comparisons. Interventions that prevent absorption, such as gastric lavage, ipecacuanha, or activated charcoal were compared with placebo or no intervention and with each other in one four-armed randomised clinical trial involving 60 participants with an uncertain randomisation procedure and hence very low quality. The trial presented results on lowering plasma paracetamol levels. Activated charcoal seemed to reduce the absorption of paracetamol, but the clinical benefits were unclear. Activated charcoal seemed to have the best risk:benefit ratio among gastric lavage, ipecacuanha, or supportive treatment if given within four hours of ingestion. There seemed to be no difference between gastric lavage and ipecacuanha, but gastric lavage and ipecacuanha seemed more effective than no treatment (very low quality of evidence). Extracorporeal interventions included charcoal haemoperfusion compared with conventional treatment (supportive care including gastric lavage, intravenous fluids, and fresh frozen plasma) in one trial with 16 participants. The mean cumulative amount of paracetamol removed was 1.4 g. One participant from the haemoperfusion group who had ingested 135 g of paracetamol, died. There were no deaths in the conventional treatment group. Accordingly, we found no benefit of charcoal haemoperfusion (very low quality of evidence). Acetylcysteine appeared superior to placebo and had fewer adverse effects when compared with dimercaprol or cysteamine. Acetylcysteine superiority to methionine was unproven. One small trial (low quality evidence) found that acetylcysteine may reduce mortality in people with fulminant hepatic failure (Peto OR 0.29, 95% CI 0.09 to 0.94). The most recent randomised clinical trials studied different acetylcysteine regimens, with the primary outcome being adverse events. It was unclear which acetylcysteine treatment protocol offered the best efficacy, as most trials were underpowered to look at this outcome. One trial showed that a modified 12-hour acetylcysteine regimen with a two-hour acetylcysteine 100 mg/kg bodyweight loading dose was associated with significantly fewer adverse reactions compared with the traditional three-bag 20.25-hour regimen (low quality of evidence). All Trial Sequential Analyses showed lack of sufficient power. Children were not included in the majority of trials. Hence, the evidence pertains only to adults.<h4>Authors' conclusions</h4>These results highlight the paucity of randomised clinical trials comparing different interventions for paracetamol overdose and their routes of administration and the low or very low level quality of the evidence that is available. Evidence from a single trial found activated charcoal seemed the best choice to reduce absorption of paracetamol. Acetylcysteine should be given to people at risk of toxicity including people presenting with liver failure. Further randomised clinical trials with low risk of bias and adequate number of participants are required to determine which regimen results in the fewest adverse effects with the best efficacy. Current management of paracetamol poisoning worldwide involves the administration of intravenous or oral acetylcysteine which is based mainly on observational studies. Results from these observational studies indicate that treatment with acetylcysteine seems to result in a decrease in morbidity and mortality, However, further evidence from randomised clinical trials comparing different treatments are needed.",
+            "source_url": "https://europepmc.org/article/MED/29473717",
+            "open_access": false,
+            "license": null,
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Hepatoprotective Activity of the Fruits of &lt;i&gt;Eleutherococcus senticosus&lt;/i&gt; in Acetaminophen-Induced Liver Injury in Mice and Their Chemical Composition.",
+            "authors": [
+              "Graczyk F",
+              "Krolik K",
+              "Gawenda-Kempczyńska D",
+              "Wójciak M",
+              "Sowa I",
+              "Sulejczak D."
+            ],
+            "year": "2025",
+            "journal": "",
+            "doi": "10.3390/nu17213456",
+            "pmid": "41228527",
+            "pmcid": "PMC12610257",
+            "abstract": "<b>Background/Objectives:</b><i>Eleutherococcus senticosus</i> (Siberian ginseng) is an adaptogenic plant widely recognized for its antioxidant and immunomodulatory properties; however its hepatoprotective potential properties are unexplored. This study aimed to evaluate whether the fruit extract of <i>E. senticosus</i> contains chemical constituents with hepatoprotective effects in a paracetamol-induced liver injury model in mice. <b>Methods:</b> Female BALB/c mice were randomized into five groups: control, paracetamol (300 mg/kg, IP), <i>E. senticosus</i> extract (750 or 1500 mg/kg, PO) + paracetamol, and silymarin (50 mg/kg) + paracetamol. Extracts were administered for seven days before paracetamol challenge. Biochemical markers (ALT, AST, urea, creatinine, protein, albumin) and hematological parameters were assessed, and organs were subjected to histopathological examination. Phytochemical characterization of the extract was performed using UHPLC-DAD-MS and ICP-OES. <b>Results:</b> The 750 mg/kg dose of <i>E. senticosus</i> extract maintained ALT, AST, urea, and creatinine levels close to control values, while the higher dose (1500 mg/kg) was less effective and showed an increase in serum urea. Both extract doses and silymarin attenuated creatinine elevation induced by paracetamol. No histopathological changes were detected in the kidneys or brains of treated animals. Phytochemical analysis revealed high contents of phenolic acids (chlorogenic and dicaffeoylquinic acids), flavonoids, amino acids, and essential minerals. <b>Conclusions:</b><i>E. senticosus</i> fruit extract demonstrated a hepatoprotective effect at an optimal dose (750 mg/kg), indicating a potential dose-dependent effect. The absence of histopathological alterations in key organs supports the fruit extract's safety.",
+            "source_url": "https://europepmc.org/article/MED/41228527",
+            "open_access": true,
+            "license": "cc by",
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Predictive Modeling of Paracetamol Polymorphs: Linking Basis Set and Hamiltonian Effects to an Optimized Quasi-Harmonic Lattice Dynamics Workflow.",
+            "authors": [
+              "Zhou H",
+              "Mallia G",
+              "Harrison NM."
+            ],
+            "year": "2026",
+            "journal": "",
+            "doi": "10.1021/acs.jctc.6c00750",
+            "pmid": "42917480",
+            "pmcid": "PMC13602900",
+            "abstract": "Thermodynamic properties of molecular crystals are the cornerstone of a broad range of applications, spanning pharmaceutics, organic semiconductors, and many more. The reliable modeling of these properties is usually hindered by collective influences of delicate dispersion interactions and insufficient prior knowledge. Providing reasonable accuracy and minimal reliance on experimental data, lattice dynamics (LD) based on the quasi-harmonic approximation (QHA) and density functional theory (DFT) has been widely and successfully adopted for crystal structure prediction (CSP). However, for polymorphic molecular crystals, it remains challenging to accurately establish the relative stability among multiple polymorphs that are distinguished by subtle energy differences. Despite recent intense efforts to achieve calculations that can reproduce observations in well-characterized systems, a comprehensive study elucidating how predictions are governed by errors within the theoretical framework and details of implementation is lacking. This undermines confidence in the transferability and efficiency of QHA LD workflows proposed in the literature. The need for reliable and predictive calculations necessitates systematic investigation and disentangling of the influences from key parameters such as the choice of basis set and Hamiltonian, so the cost and precision of DFT-based QHA LD calculations can be rationally balanced in practical workflows. In this study, paracetamol polymorphs are adopted as the prototype system, as they are well-characterized and display representative chemical interactions, where covalent bonds, hydrogen bonds, and London dispersions are present with sufficient complexity. The intermixed sources of error underlying free-energy predictions are resolved by comparing the structural, vibrational, and thermochemical properties of paracetamol polymorphs with high-quality references. A hierarchy of atomic and plane-wave basis sets are adopted to highlight the significance of basis set completeness, and results with and without the inclusion of Fock exchange identify the particular importance of Hamiltonian for thermochemical properties. Furthermore, an optimal QHA LD workflow is proposed and tested utilizing these insights, which combines results from plane-wave basis set with semilocal functional and local, well-converged def2-TZVP basis set with hybrid functional to efficiently converge the numerical precision for QHA LD. While demonstrated in detail for paracetamol, conclusions of this study are also expected to be of relevance to a wide range of molecular crystals. These findings rigorously set the stage for affordable and reliable QHA LD workflow for molecular crystals, where fortuitous error cancellations are clearly distinguished from converged levels of theory, thereby clarifying the numerical precision attainable before explicit anharmonic and configurational effects are considered for complex organic systems.",
+            "source_url": "https://europepmc.org/article/MED/42917480",
+            "open_access": true,
+            "license": "cc by",
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Packed-bed bioreactor-based evaluation of Paracoccus sp. APAP_BH8 potential for acetaminophen biodegradation.",
+            "authors": [
+              "Pandey B",
+              "Dubey SK."
+            ],
+            "year": "2026",
+            "journal": "",
+            "doi": "10.1002/jeq2.70232",
+            "pmid": "42548277",
+            "pmcid": "PMC13434678",
+            "abstract": "Pharmaceuticals serve as indispensable allies in human and veterinary medication. Acetaminophen (APAP) is extensively consumed as an analgesic and antipyretic medication. The indiscriminate usage of APAP has led to widespread consequences, transforming it into a formidable contaminant of emerging concern, posing severe and underestimated threats. Therefore, to eliminate APAP from the environment, the development of sustainable and efficient methods is compelling. In the present study, Paracoccus sp. APAP_BH8 was utilized for the biodegradation of APAP in a laboratory-scale bioreactor packed with wood charcoal. The response surface methodology was employed for the optimization of distinct degradation parameters, revealing pH of 7.0, inoculum size of 0.3, co-substrate concentration of 15 mg L<sup>-1</sup>, and APAP concentration of 350 mg L<sup>-1</sup> as most favorable. The bioreactor was intended for the removal of APAP at higher concentrations from wastewater. The bioreactor exhibited 90.58% degradation in batch mode studies, and the kinetic parameters K<sub>s</sub>, V<sub>max</sub>, and V<sub>max</sub>/K<sub>s</sub> were 322.58 mg L<sup>-1</sup>, 53.52 mg L<sup>-1</sup> day<sup>-1</sup>, and 0.1659 day<sup>-1</sup>, respectively. For the degradation in continuous mode, the bioreactor was operated at different flow rates and APAP concentrations. The removal efficiency observed in the range of 48.08%-89.35%, and the maximum elimination capacity was 721.19 mg L<sup>-1</sup> h<sup>-1</sup> at an inlet concentration of 450 mg L<sup>-1</sup>. Overall, the findings highlighted that Paracoccus sp. APAP_BH8 is a reliable, promising, and sustainable candidate for bioremediation of APAP and similar contaminants from pharmaceutical wastewater within wood charcoal packed-bed bioreactor.",
+            "source_url": "https://europepmc.org/article/MED/42548277",
+            "open_access": false,
+            "license": null,
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Nano-iron-modified pomegranate peel powder for rapid and recyclable removal of acetaminophen.",
+            "authors": [
+              "Asmel NK",
+              "Sulaiman FA",
+              "Alwared AI",
+              "Mohammed NA",
+              "Lakkaboyana SK",
+              "Muhammad A",
+              "Kalla RMN",
+              "Ansari A."
+            ],
+            "year": "2026",
+            "journal": "",
+            "doi": "10.1038/s41598-026-48146-6",
+            "pmid": "42014774",
+            "pmcid": "PMC13342574",
+            "abstract": "Pharmaceuticals such as acetaminophen are increasingly detected in the aquatic environment and represent a persistent risk to ecosystems and human health. This study reports the fabrication of nano-iron-loaded pomegranate peel powder (NIL-PP)and its application as a low-cost, magnetically separable adsorbent for the removal of acetaminophen (ACT) from aqueous solutions. Successful loading of nanoscale iron species onto the bio-char matrix was confirmed by SEM-EDS, XRD (average crystallite size is 14 nm), FTIR, BET, TGA, and VSM (18.5 emu/g), indicating a heterogeneous, porous, and magnetically responsive adsorbent. Batch adsorption results indicated that the kinetic data are best described by the pseudo-second-order model, while the equilibrium data fit well with the Freundlich isotherm, suggesting that the adsorption process is predominantly governed by chemisorption occurring as multilayer coverage on energetically heterogeneous surface sites. The optimal removal was observed at an adsorbent dosage of 1 g/L, near neutral pH, an initial ACT concentration of 15 mg/L. The removal rate of ACT exceeded 95.29% within 180 min. Thermodynamic analysis indicates the adsorption is exothermic (ΔH° ≈ -47.13 kJ/mol) and proceeds with overall spontaneous behaviour under test conditions. The NIL-PP material retained a substantial fraction of its capacity (64.33%), even after four consecutive cycles and can be readily separated from water by magnetic collection. This result from this work emphasize the potential of NIL-PP as a suitable adsorbent to be used on a large scale for the environmental remediation of pharmaceutical pollutants in an environmentally sustainable and economically viable manner.",
+            "source_url": "https://europepmc.org/article/MED/42014774",
+            "open_access": true,
+            "license": "cc by",
+            "full_text_downloaded": false
+          }
+        ],
+        "provider_errors": {}
+      }
+    ],
+    "warnings": [
+      "Search results are candidate literature records; retrieval alone does not establish support or contradiction.",
+      "Only indexed abstracts/metadata are returned. No full text was downloaded; verify individual reuse terms before any later retrieval."
+    ]
+  },
+  "judgment": {
+    "status": "NEEDS_REVISION",
+    "claims": [
+      {
+        "claim_id": "a2-1",
+        "decision": "APPROVED",
+        "rationale": "The molecular formula listed in the local chemical record for paracetamol is C8H9NO2, which is supported by multiple sources (e.g., PUBCHEM-2D-2026, PARA-CHEM-002, PUBCHEM-3D-2026, PARA-CHEM-003).",
+        "evidence_ids": [
+          "64349bcca3cc62489f52",
+          "b1244ff2f83f96069b1c",
+          "620f9ad561e7b384721e",
+          "766d8af8553f175e69f6"
+        ],
+        "warnings": []
+      }
+    ],
+    "answer": "",
+    "reasons": [
+      "Judge cited an unknown local evidence ID."
+    ],
+    "model": "llama3.2:3b",
+    "raw_response": {
+      "model": "llama3.2:3b",
+      "created_at": "2026-11-01T10:43:06.3189575Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"claims\": [\n    {\n      \"claim_id\": \"a2-1\",\n      \"decision\": \"APPROVED\",\n      \"rationale\": \"The molecular formula listed in the local chemical record for paracetamol is C8H9NO2, which is supported by multiple sources (e.g., PUBCHEM-2D-2026, PARA-CHEM-002, PUBCHEM-3D-2026, PARA-CHEM-003).\",\n      \"evidence_ids\": [\"64349bcca3cc62489f52\", \"b1244ff2f83f96069b1c\", \"620f9ad561e7b384721e\", \"766d8af8553f175e69f6\"]\n    }\n  ],\n  \"answer\": \"C8H9NO2\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 10685410900,
+      "load_duration": 6494919600,
+      "prompt_eval_count": 3858,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 1078362000,
+      "eval_count": 180,
+      "eval_duration": 3055583000
+    }
+  },
+  "stage_errors": {},
+  "audit_path": "C:\\Users\\Surendra Babu\\Downloads\\DrugCo\\data\\processed\\runs\\d12ca0391d144450b9982fa4f0ff4d5a.json",
+  "created_at": "2026-11-01T10:43:06.321523+00:00"
+}

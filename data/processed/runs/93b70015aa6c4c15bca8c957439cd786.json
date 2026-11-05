@@ -1,0 +1,51 @@
+{
+  "request_id": "93b70015aa6c4c15bca8c957439cd786",
+  "question": "How does paracetamol work?",
+  "status": "APPROVED",
+  "answer": "Paracetamol inhibits COX.",
+  "retrieval_assessment": {
+    "status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+    "topic": "mechanism"
+  },
+  "evidence": [
+    {
+      "evidence_id": "ev1",
+      "source": "test.pdf"
+    }
+  ],
+  "interpretation": {
+    "method_calls": {},
+    "status": "COMPLETED",
+    "claims": [
+      {
+        "method_calls": {},
+        "claim_id": "c1",
+        "text": "Paracetamol inhibits COX",
+        "evidence_ids": [
+          "ev1"
+        ]
+      }
+    ]
+  },
+  "verification": {
+    "status": "COMPLETED",
+    "claims": []
+  },
+  "judgment": {
+    "method_calls": {},
+    "status": "APPROVED",
+    "answer": "Paracetamol inhibits COX.",
+    "claims": [],
+    "reasons": []
+  },
+  "stage_errors": {},
+  "audit_path": "C:\\Users\\Surendra Babu\\Downloads\\DrugCo\\data\\processed\\runs\\93b70015aa6c4c15bca8c957439cd786.json",
+  "stage_timings_ms": {
+    "agent1": 0,
+    "agent2": 0,
+    "agent3": 0,
+    "agent4": 0,
+    "total": 0
+  },
+  "created_at": "2026-11-05T18:40:04.936780+00:00"
+}

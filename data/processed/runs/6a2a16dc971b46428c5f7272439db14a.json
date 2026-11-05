@@ -1,0 +1,629 @@
+{
+  "request_id": "6a2a16dc971b46428c5f7272439db14a",
+  "question": "What evidence in the local paracetamol corpus describes its mechanism of action, and what uncertainties are noted?",
+  "status": "ABSTAIN",
+  "answer": "",
+  "retrieval_assessment": {
+    "status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+    "reason": "Potentially relevant passages were found. Review the original source and verify the claim before using it.",
+    "drug": "action",
+    "topic": "mechanism",
+    "direct_candidates": 4,
+    "drug_specific_context": 1
+  },
+  "evidence": [
+    {
+      "source": "abstract_only.txt",
+      "page": null,
+      "source_id": "PARA-TXT-001",
+      "source_path": "data/research/paracetamol/text_file/abstract_only.txt",
+      "source_url": "",
+      "source_title": "abstract_only",
+      "authors": "",
+      "doi": "10.1097/00045391-200501000-00008",
+      "pmid": "15662292",
+      "pmcid": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": "",
+      "section": "plain text document",
+      "extractor": "utf-8 text",
+      "quality_status": "text_extracted",
+      "evidence_id": "02f0352b263db1380045",
+      "semantic_score": 0.6918716430664062,
+      "keyword_score": 12.472153058890077,
+      "hybrid_score": 0.03278688524590164,
+      "adjusted_score": 0.03328688524590164,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "Requested drug and mechanism-related wording occur in the same sentence.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "action",
+        "mechanism"
+      ],
+      "text": "1. Am J Ther. 2005 Jan-Feb;12(1):46-55. doi: 10.1097/00045391-200501000-00008.\n\nMechanism of action of paracetamol.\n\nGraham GG(1), Scott KF.\n\nAuthor information:\n(1)Department of Physiology and Pharmacology, University of New South Wales, St. \nVincent's Hospital, Darlinghurst, NSW 2010, Australia. ggraham@stvincents.com.au"
+    },
+    {
+      "source": "abstract_only.txt",
+      "page": null,
+      "source_id": "PARA-TXT-001",
+      "source_path": "data/research/paracetamol/text_file/abstract_only.txt",
+      "source_url": "",
+      "source_title": "abstract_only",
+      "authors": "",
+      "doi": "10.1097/00045391-200501000-00008",
+      "pmid": "15662292",
+      "pmcid": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": "",
+      "section": "plain text document",
+      "extractor": "utf-8 text",
+      "quality_status": "text_extracted",
+      "evidence_id": "72fd203e953ef4982f22",
+      "semantic_score": 0.5316157341003418,
+      "keyword_score": 9.074730132066023,
+      "hybrid_score": 0.028125,
+      "adjusted_score": 0.028625,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "Requested drug and mechanism-related wording occur in the same sentence.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "action",
+        "activation",
+        "cox",
+        "enzymes",
+        "inhibition",
+        "synthesis"
+      ],
+      "text": "There is considerable evidence that the analgesic effect of paracetamol is \ncentral and is due to activation of descending serotonergic pathways, but its \nprimary site of action may still be inhibition of PG synthesis. The action of \nparacetamol at a molecular level is unclear but could be related to the \nproduction of reactive metabolites by the peroxidase function of COX-2, which \ncould deplete glutathione, a cofactor of enzymes such as PGE synthase."
+    },
+    {
+      "source": "Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+      "page": 1,
+      "source_id": "PARA-PDF-001",
+      "source_path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+      "source_url": "",
+      "source_title": "Acetaminophen Toxicity - StatPearls - NCBI Bookshelf",
+      "authors": "",
+      "doi": "",
+      "pmid": "",
+      "pmcid": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": "",
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted",
+      "evidence_id": "7b1e6355c05ec06ef6c3",
+      "semantic_score": 0.4951910078525543,
+      "keyword_score": 11.457274901953674,
+      "hybrid_score": 0.02453239360260233,
+      "adjusted_score": 0.02503239360260233,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "Requested drug and mechanism-related wording occur in the same sentence.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "action",
+        "cyclooxygenase",
+        "inhibit",
+        "inhibition",
+        "mechanism"
+      ],
+      "text": "unknowingly, due to its presence in various combination products, particularly those containing\nopioids and diphenhydramine.[1][2][3] Acetaminophen, also known as N-acetyl-para-\naminophenol or paracetamol, functions as an antipyretic and analgesic with a mechanism distinct\nfrom typical nonsteroidal anti-inflammatory medications. Although its mode of action,\nspecifically the selective inhibition of cyclooxygenase in the brain, is not fully elucidated,\nacetaminophen effectively alleviates fever and pain. Acetaminophen may also inhibit\nAuthor Information and Affiliations"
+    },
+    {
+      "source": "CD003328.pdf",
+      "page": 39,
+      "source_id": "PARA-PDF-010",
+      "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "source_url": "",
+      "source_title": "CD003328",
+      "authors": "",
+      "doi": "",
+      "pmid": "",
+      "pmcid": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": "",
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted",
+      "evidence_id": "f19830c7d77344441f0d",
+      "semantic_score": 0.3680489659309387,
+      "keyword_score": 9.864441465472819,
+      "hybrid_score": 0.018894163909269648,
+      "adjusted_score": 0.019394163909269648,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "Requested drug and mechanism-related wording occur in the same sentence.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "action",
+        "mechanism"
+      ],
+      "text": "Cochrane\nLibrary\nTrusted evidence.\nInformed decisions.\nBetter health.\n/uni00A0\n/uni00A0\nCochrane Database of Systematic Reviews\nfrom handbook.cochrane.org. [Available from www.cochrane-\nhandbook.org.]\nJakobsen 2014\nJakobsen/uni00A0J, Wetterslev/uni00A0J, Winkel/uni00A0P, Lange/uni00A0T, Gluud/uni00A0C. Thresholds\nfor statistical and clinical significance in systematic reviews with\nmeta-analytic methods. BMC Medical Research Methodology\n2014;14:120.\nJones 1998\nJones/uni00A0AL. Mechanism of action and value of N acetylcysteine\nin the treatment of early and late acetaminophen poisoning:\na critical review. Journal of Toxicology. Clinical Toxicology\n1998;36:277-85.\nKao 2003\nKao/uni00A0LW, Kirk/uni00A0MA, Furbee/uni00A0RB, Mehta/uni00A0NH, Skinner/uni00A0JR,"
+    },
+    {
+      "source": "CD003328.pdf",
+      "page": 59,
+      "source_id": "PARA-PDF-010",
+      "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "source_url": "",
+      "source_title": "CD003328",
+      "authors": "",
+      "doi": "",
+      "pmid": "",
+      "pmcid": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": "",
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted",
+      "evidence_id": "5c506d1a1f7c985c3a1f",
+      "semantic_score": 0.5287182331085205,
+      "keyword_score": 5.411929257686231,
+      "hybrid_score": 0.026397515527950312,
+      "adjusted_score": 0.026897515527950312,
+      "evidence_type": "DRUG_SPECIFIC_CONTEXT",
+      "classification_reason": "The requested drug is mentioned, but the passage does not directly connect it to a mechanism.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "action"
+      ],
+      "text": "pendently by 2 of the investigators, with consideration of the clinical events\nand assessments surrounding the event, whether medication was adminis-\ntered to treat the event, and whether any other action was implemented.\"\nComment: unclear whether bias might have been introduced in this process of\nadjudicating on events.\nKerr 2005/uni00A0/uni00A0(Continued)\nInterventions for paracetamol (acetaminophen) overdose (Review)\nCopyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.\n57"
+    }
+  ],
+  "interpretation": {
+    "status": "COMPLETED",
+    "model": "hf.co/ceafgnigguh123/ChemLLM-7B-Chat-GGUF:Q4_K_M",
+    "answer": "There is considerable evidence that the analgesic effect of paracetamol is central and is due to activation of descending serotonergic pathways, but its primary site of action may still be inhibition of PG synthesis. The action of paracetam\nThere is considerable evidence that the analgesic effect of paracetamol is central and is due to activation of descending serotonergic pathways, but its primary site of action may still be inhibition of PG synthesis. The action of paracetam",
+    "claims": [
+      {
+        "claim_id": "a2-1",
+        "explanation": "",
+        "claim_type": "finding",
+        "requires_verification": false,
+        "text": "There is considerable evidence that the analgesic effect of paracetamol is central and is due to activation of descending serotonergic pathways, but its primary site of action may still be inhibition of PG synthesis. The action of paracetam",
+        "uncertainty": "The action of paracetamol at a molecular level is unclear but could be related to the production of reactive metabolites by the peroxidase f",
+        "evidence_ids": [
+          "02f0352b263db1380045",
+          "72fd203e953ef4982f22",
+          "7b1e6355c05ec06ef6c3",
+          "f19830c7d77344441f0d",
+          "5c506d1a1f7c985c3a1f"
+        ]
+      },
+      {
+        "claim_id": "a2-2",
+        "explanation": "",
+        "claim_type": "finding",
+        "requires_verification": false,
+        "text": "There is considerable evidence that the analgesic effect of paracetamol is central and is due to activation of descending serotonergic pathways, but its primary site of action may still be inhibition of PG synthesis. The action of paracetam",
+        "uncertainty": "The action of paracetamol at a molecular level is unclear but could be related to the production of reactive metabolites by the peroxidase f",
+        "evidence_ids": [
+          "02f0352b263db1380045",
+          "72fd203e953ef4982f22",
+          "7b1e6355c05ec06ef6c3",
+          "f19830c7d77344441f0d",
+          "5c506d1a1f7c985c3a1f"
+        ]
+      }
+    ],
+    "warnings": [
+      "Agent 2 output is a draft interpretation, not scientific validation."
+    ],
+    "raw_response": {
+      "model": "hf.co/ceafgnigguh123/ChemLLM-7B-Chat-GGUF:Q4_K_M",
+      "created_at": "2026-11-01T15:15:29.7957229Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"claims\": [{\"claim_type\": \"finding\", \"evidence_refs\": [\"E1\", \"E2\", \"E3\", \"E4\", \"E5\"], \"requires_verification\": false, \"text\": \"There is considerable evidence that the analgesic effect of paracetamol is central and is due to activation of descending serotonergic pathways, but its primary site of action may still be inhibition of PG synthesis. The action of paracetam\",\"uncertainty\": \"The action of paracetamol at a molecular level is unclear but could be related to the production of reactive metabolites by the peroxidase f\"}, {\"claim_type\": \"finding\", \"evidence_refs\": [\"E1\", \"E2\", \"E3\", \"E4\", \"E5\"], \"requires_verification\": false, \"text\": \"There is considerable evidence that the analgesic effect of paracetamol is central and is due to activation of descending serotonergic pathways, but its primary site of action may still be inhibition of PG synthesis. The action of paracetam\",\"uncertainty\": \"The action of paracetamol at a molecular level is unclear but could be related to the production of reactive metabolites by the peroxidase f\"}]}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 30654661700,
+      "load_duration": 10694162000,
+      "prompt_eval_count": 1316,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 1576982000,
+      "eval_count": 287,
+      "eval_duration": 18316417000
+    },
+    "raw_content": "{\"claims\": [{\"claim_type\": \"finding\", \"evidence_refs\": [\"E1\", \"E2\", \"E3\", \"E4\", \"E5\"], \"requires_verification\": false, \"text\": \"There is considerable evidence that the analgesic effect of paracetamol is central and is due to activation of descending serotonergic pathways, but its primary site of action may still be inhibition of PG synthesis. The action of paracetam\",\"uncertainty\": \"The action of paracetamol at a molecular level is unclear but could be related to the production of reactive metabolites by the peroxidase f\"}, {\"claim_type\": \"finding\", \"evidence_refs\": [\"E1\", \"E2\", \"E3\", \"E4\", \"E5\"], \"requires_verification\": false, \"text\": \"There is considerable evidence that the analgesic effect of paracetamol is central and is due to activation of descending serotonergic pathways, but its primary site of action may still be inhibition of PG synthesis. The action of paracetam\",\"uncertainty\": \"The action of paracetamol at a molecular level is unclear but could be related to the production of reactive metabolites by the peroxidase f\"}]}"
+  },
+  "verification": {
+    "status": "COMPLETED",
+    "claims": [
+      {
+        "claim_id": "a2-1",
+        "status": "RECORDS_FOUND",
+        "query": "(paracetamol OR acetaminophen) AND \"considerable\" AND \"evidence\" AND \"analgesic\" AND \"effect\" AND \"central\"",
+        "records": [
+          {
+            "provider": "Europe PMC",
+            "title": "Paracetamol (acetaminophen) or non-steroidal anti-inflammatory drugs, alone or combined, for pain relief in acute otitis media in children.",
+            "authors": [
+              "de Sévaux JLH",
+              "Damoiseaux RA",
+              "van de Pol AC",
+              "Lutje V",
+              "Hay AD",
+              "Little P",
+              "Schilder AG",
+              "Venekamp RP."
+            ],
+            "year": "2023",
+            "journal": "",
+            "doi": "10.1002/14651858.cd011534.pub3",
+            "pmid": "37594020",
+            "pmcid": "PMC10436353",
+            "abstract": "<h4>Background</h4>Acute otitis media (AOM) is one of the most common childhood infectious diseases. Pain is the key symptom of AOM and central to children's and parents' experience of the illness. Because antibiotics provide only marginal benefits, analgesic treatment including paracetamol (acetaminophen) and non-steroidal anti-inflammatory drugs (NSAIDs) is regarded as the cornerstone of AOM management. This is an update of a review first published in 2016.<h4>Objectives</h4>Our primary objective was to assess the effectiveness of paracetamol (acetaminophen) or NSAIDs, alone or combined, compared with placebo or no treatment in relieving pain in children with AOM. Our secondary objective was to assess the effectiveness of NSAIDs as compared with paracetamol in children with AOM.<h4>Search methods</h4>We searched the Cochrane Central Register of Controlled Trials (CENTRAL), Issue 5, April 2023; MEDLINE (Ovid, from 1946 to May 2023), Embase (from 1947 to May 2023), CINAHL (from 1981 to May 2023), LILACS (from 1982 to May 2023), and Web of Science Core Collection (from 1955 to May 2023). We searched the WHO ICTRP and ClinicalTrials.gov for completed and ongoing trials (23 May 2023).<h4>Selection criteria</h4>We included randomised controlled trials comparing the effectiveness of paracetamol or NSAIDs, alone or combined, for pain relief in non-hospitalised children aged six months to 16 years with AOM. We also included trials of paracetamol or NSAIDs, alone or combined, for children with fever or upper respiratory tract infections if we were able to extract subgroup data on pain relief in children with AOM either directly or after obtaining additional data from study authors. We extracted and summarised data for the following comparisons: paracetamol versus placebo, NSAIDs versus placebo, NSAIDs versus paracetamol, and NSAIDs plus paracetamol versus paracetamol alone.<h4>Data collection and analysis</h4>We used standard methodological procedures expected by Cochrane. We rated the overall certainty of evidence for each outcome of interest using the GRADE approach.<h4>Main results</h4>We included four trials (411 children) which were assessed at low to high risk of bias. Paracetamol versus placebo Data from one trial (148 children) informed this comparison. Paracetamol may be more effective than placebo in relieving pain at 48 hours (proportion of children with pain 10% versus 25%, risk ratio (RR) 0.38, 95% confidence interval (CI) 0.17 to 0.85; number needed to treat for an additional beneficial outcome (NNTB) 7; low-certainty evidence). The evidence is very uncertain about the effects of paracetamol on fever at 48 hours (RR 1.03, 95% CI 0.07 to 16.12; very low-certainty evidence) and adverse events (RR 1.03, 95% CI 0.21 to 4.93; very low-certainty evidence). No data were available for our other outcomes of interest. NSAIDs versus placebo Data from one trial (146 children) informed this comparison. Ibuprofen may be more effective than placebo in relieving pain at 48 hours (proportion of children with pain 7% versus 25%, RR 0.28, 95% CI 0.11 to 0.70; NNTB 6; low-certainty evidence). The evidence is very uncertain about the effect of ibuprofen on fever at 48 hours (RR 1.06, 95% CI 0.07 to 16.57; very low-certainty evidence) and adverse events (RR 1.76, 95% CI 0.44 to 7.10; very low-certainty evidence). No data were available for our other outcomes of interest. NSAIDs versus paracetamol Data from four trials (411 children) informed this comparison. The evidence is very uncertain about the effect of ibuprofen versus paracetamol in relieving ear pain at 24 hours (RR 0.83, 95% CI 0.59 to 1.18; 2 RCTs, 39 children; very low-certainty evidence); 48 to 72 hours (RR 0.91, 95% CI 0.54 to 1.54; 3 RCTs, 183 children; low-certainty evidence); and four to seven days (RR 0.74, 95% CI 0.17 to 3.23; 2 RCTs, 38 children; very low-certainty evidence). The evidence is very uncertain about the effect of ibuprofen versus paracetamol on mean pain score at 24 hours (0.29 lower, 95% CI 0.79 lower to 0.20 higher; 3 RCTs, 111 children; very low-certainty evidence); 48 to 72 hours (0.25 lower, 95% CI 0.66 lower to 0.16 higher; 3 RCTs, 108 children; very low-certainty evidence); and four to seven days (0.30 higher, 95% CI 1.78 lower to 2.38 higher; 2 RCTs, 31 children; very low-certainty evidence). The evidence is very uncertain about the effect of ibuprofen versus paracetamol in resolving fever at 24 hours (RR 0.69, 95% CI 0.24 to 2.00; 2 RCTs, 39 children; very low-certainty evidence); 48 to 72 hours (RR 1.18, 95% CI 0.31 to 4.44; 3 RCTs, 182 children; low-certainty evidence); and four to seven days (RR 2.75, 95% CI 0.12 to 60.70; 2 RCTs, 39 children; very low-certainty evidence). The evidence is very uncertain about the effect of ibuprofen versus paracetamol on adverse events (RR 1.71, 95% CI 0.43 to 6.90; 3 RCTs, 281 children; very low-certainty evidence); reconsultations (RR 1.13, 95% CI 0.92 to 1.40; 1 RCT, 53 children; very low-certainty evidence); and delayed antibiotic prescriptions (RR 1.32, 95% CI 0.74 to 2.35; 1 RCT, 53 children; very low-certainty evidence). No data were available on time to resolution of pain. NSAIDs plus paracetamol versus paracetamol alone Data on the effectiveness of ibuprofen plus paracetamol versus paracetamol alone came from two trials that provided crude subgroup data for 71 children with AOM. The small sample provided imprecise effect estimates, therefore we were unable to draw any firm conclusions (very low-certainty evidence).<h4>Authors' conclusions</h4>Despite explicit guideline recommendations on the use of analgesics in children with AOM, the current evidence on the effectiveness of paracetamol or NSAIDs, alone or combined, in children with AOM is limited. Paracetamol and ibuprofen as monotherapies may be more effective than placebo in relieving short-term ear pain in children with AOM. The evidence is very uncertain for the effect of ibuprofen versus paracetamol on relieving short-term ear pain in children with AOM, as well as for the effectiveness of ibuprofen plus paracetamol versus paracetamol alone, thereby preventing any firm conclusions. Further research is needed to provide insights into the role of ibuprofen as adjunct to paracetamol, and other analgesics such as anaesthetic eardrops, for children with AOM.",
+            "source_url": "https://europepmc.org/article/MED/37594020",
+            "open_access": false,
+            "license": null,
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Paracetamol: A History of Assumptions, Errors, and Evidence Reversals in Pain Management.",
+            "authors": [
+              "Nicolas J",
+              "Leoni MLG",
+              "Van Tran Y",
+              "Van Phong P",
+              "Farì G",
+              "Puttini PS",
+              "Kaye AD",
+              "Varrassi G."
+            ],
+            "year": "2026",
+            "journal": "",
+            "doi": "10.1007/s11916-026-01553-w",
+            "pmid": "42730892",
+            "pmcid": "PMC13570823",
+            "abstract": "<h4>Purpose of review</h4>Paracetamol (acetaminophen) is among the most widely used medications in the history of humanity for treatment of pain conditions. For more than half a century, it has occupied a unique position as the archetypal first-line analgesic and antipyretic, recommended across age groups, clinical settings, and healthcare systems. Its remarkable success has been based on three fundamental assumptions: it is effective for common painful conditions, substantially safer than alternative analgesics, and suitable for broad population use with minimal restrictions. Over the last two decades, however, these assumptions have been increasingly challenged by accumulating evidence from randomized trials, systematic reviews, pharmaco-epidemiological studies, and regulatory analyses.<h4>Recent findings</h4>The history of paracetamol represents an instructive example of evidence reversal in modern medicine and pain management. Originally introduced as a safer successor to phenacetin, paracetamol benefited from a favorable safety reputation that often exceeded the available scientific evidence. Subsequent investigations have revealed a more complex reality. Hepatotoxicity has emerged as a leading cause of acute liver failure worldwide, efficacy in chronic musculoskeletal disorders has proved substantially lower than previously assumed, and concerns regarding long-term safety and use during pregnancy have generated ongoing scientific debate. Simultaneously, clinical practice and prescribing habits remained largely unchanged despite evolving evidence and repeated modifications of international guidelines. By examining major assumptions, scientific misconceptions, regulatory decisions, and evidence reversals, this review explores how one of medicine's most familiar drugs in pain medicine became a paradigm of the challenges inherent in translating evolving scientific evidence into clinical practice. Beyond paracetamol itself, this story provides broader lessons regarding therapeutic inertia, medical dogma, risk perception, and the dynamic nature of evidence-based medicine.",
+            "source_url": "https://europepmc.org/article/MED/42730892",
+            "open_access": true,
+            "license": "cc by",
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Paracetamol (acetaminophen) use in infants and children was never shown to be safe for neurodevelopment: a systematic review with citation tracking.",
+            "authors": [
+              "Cendejas-Hernandez J",
+              "Sarafian JT",
+              "Lawton VG",
+              "Palkar A",
+              "Anderson LG",
+              "Larivière V",
+              "Parker W."
+            ],
+            "year": "2022",
+            "journal": "",
+            "doi": "10.1007/s00431-022-04407-w",
+            "pmid": "35175416",
+            "pmcid": "PMC9056471",
+            "abstract": "Although widely believed by pediatricians and parents to be safe for use in infants and children when used as directed, increasing evidence indicates that early life exposure to paracetamol (acetaminophen) may cause long-term neurodevelopmental problems. Furthermore, recent studies in animal models demonstrate that cognitive development is exquisitely sensitive to paracetamol exposure during early development. In this study, evidence for the claim that paracetamol is safe was evaluated using a systematic literature search. Publications on PubMed between 1974 and 2017 that contained the keywords \"infant\" and either \"paracetamol\" or \"acetaminophen\" were considered. Of those initial 3096 papers, 218 were identified that made claims that paracetamol was safe for use with infants or children. From these 218, a total of 103 papers were identified as sources of authority for the safety claim.   Conclusion: A total of 52 papers contained actual experiments designed to test safety, and had a median follow-up time of 48 h. None monitored neurodevelopment. Furthermore, no trial considered total exposure to drug since birth, eliminating the possibility that the effects of drug exposure on long-term neurodevelopment could be accurately assessed. On the other hand, abundant and sufficient evidence was found to conclude that paracetamol does not induce acute liver damage in babies or children when used as directed. What is Known: • Paracetamol (acetaminophen) is widely thought by pediatricians and parents to be safe when used as directed in the pediatric population, and is the most widely used drug in that population, with more than 90% of children exposed to the drug in some reports. • Paracetamol is known to cause liver damage in adults under conditions of oxidative stress or when used in excess, but increasing evidence from studies in humans and in laboratory animals indicates that the target organ for paracetamol toxicity during early development is the brain, not the liver. What is New: • This study finds hundreds of published reports in the medical literature asserting that paracetamol is safe when used as directed, providing a foundation for the widespread belief that the drug is safe. • This study shows that paracetamol was proven to be safe by approximately 50 short-term studies demonstrating the drug's safety for the pediatric liver, but the drug was never shown to be safe for neurodevelopment. Paracetamol is widely believed to be safe for infants and children when used as directed, despite mounting evidence in humans and in laboratory animals indicating that the drug is not safe for neurodevelopment. An exhaustive search of published work cited for safe use of paracetamol in the pediatric population revealed 52 experimental studies pointing toward safety, but the median follow-up time was only 48 h, and neurodevelopment was never assessed.",
+            "source_url": "https://europepmc.org/article/MED/35175416",
+            "open_access": true,
+            "license": "cc by",
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Efficacy and Safety of Opioid Analgesia in Acute Abdominal Presentations: A Systematic Review",
+            "authors": [
+              "Payne C",
+              "Neupane G."
+            ],
+            "year": "",
+            "journal": "",
+            "doi": "",
+            "pmid": "",
+            "pmcid": "PMC13641215",
+            "abstract": "",
+            "source_url": "https://europepmc.org/article/PMC/PMC13641215",
+            "open_access": true,
+            "license": "cc by",
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Comparison of ultrasound-guided quadratus lumborum block and other regional blocks for postoperative pain in cesarean section: a systematic review and meta-analysis of randomized clinical trials.",
+            "authors": [
+              "Zhuang Z",
+              "Jia R",
+              "Jiang F."
+            ],
+            "year": "2026",
+            "journal": "",
+            "doi": "10.3389/fmed.2026.1861119",
+            "pmid": "42494449",
+            "pmcid": "PMC13392928",
+            "abstract": "<h4>Background</h4>Acute post-cesarean section (C/S) pain causes adverse maternal outcomes, and multimodal opioid-sparing analgesia is central to Enhanced Recovery after Surgery (ERAS) protocols. Quadratus lumborum block (QLB) is a promising regional technique, but evidence comparing it with other regional blocks remains fragmented.<h4>Methods</h4>We conducted a systematic review and meta-analysis of RCTs (PubMed, EMBASE, Web of Science; inception to September 2025). Eligible studies included adults undergoing C/S with QLB. Primary outcome was 24-h cumulative morphine consumption; secondary outcomes included pain scores, recovery metrics, and adverse events. RoB 2 and GRADE assessed study quality and evidence certainty.<h4>Results</h4>Twenty-three RCTs (1,935 patients) were included. QLB reduced 24-h (MD = -3.19; 95% CI, -5.09, -1.30; <i>p</i> = 0.0009) and 48-h (MD = -16.51; 95%CI, -27.64, -5.39; <i>p</i> = 0.004) morphine consumption, and 24-h dynamic pain scores (MD = -0.52; 95% CI, -0.87, -0.17; <i>p</i> = 0.003). No significant differences were observed in resting pain, recovery metrics, satisfaction, or opioid-related adverse events. GRADE certainty for the primary outcome was moderate.<h4>Conclusion</h4>QLB was associated with modest reductions in postoperative opioid consumption and 24-h dynamic pain after C/S; however, the clinical significance is limited (pain reduction below the minimally clinically important difference), and the certainty of evidence is moderate-to-low due to very high heterogeneity (I<sup>2</sup> > 90%). QLB may be considered as one component of multimodal analgesia in selected patients, particularly those without intrathecal morphine co-administration. No additional benefits on resting pain, recovery metrics, satisfaction, or adverse events were identified.<h4>Systematic review registration</h4>https://doi.org/10.37766/inplasy2026.6.0029, identifier: INPLASY202660029.",
+            "source_url": "https://europepmc.org/article/MED/42494449",
+            "open_access": true,
+            "license": "cc by",
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "PubMed",
+            "title": "Mechanism of action of paracetamol.",
+            "authors": [
+              "Graham GG",
+              "Scott KF"
+            ],
+            "year": "2005",
+            "journal": "American journal of therapeutics",
+            "doi": "",
+            "pmid": "15662292",
+            "pmcid": "",
+            "abstract": "",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/15662292/",
+            "open_access": null,
+            "license": null,
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "PubMed",
+            "title": "[Antinociceptive mechanism of action of paracetamol].",
+            "authors": [
+              "Bonnefont J",
+              "Courade JP",
+              "Alloui A",
+              "Eschalier A"
+            ],
+            "year": "2003",
+            "journal": "Drugs",
+            "doi": "",
+            "pmid": "14758785",
+            "pmcid": "",
+            "abstract": "",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/14758785/",
+            "open_access": null,
+            "license": null,
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "PubMed",
+            "title": "Efficacy of Nonopioid Analgesics (Acetaminophen and NSAIDs) Used Alone or in Combination with Opioids for Cancer Pain: Latest Updates on the Evidence Supporting the Guidelines.",
+            "authors": [
+              "Ozawa Y",
+              "Sato J",
+              "Kajiura S",
+              "Kubo E",
+              "Noda S",
+              "Ogihara S",
+              "Mawatari H"
+            ],
+            "year": "2026",
+            "journal": "Journal of palliative medicine",
+            "doi": "",
+            "pmid": "42844214",
+            "pmcid": "",
+            "abstract": "",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/42844214/",
+            "open_access": null,
+            "license": null,
+            "full_text_downloaded": false
+          }
+        ],
+        "provider_errors": {}
+      },
+      {
+        "claim_id": "a2-2",
+        "status": "RECORDS_FOUND",
+        "query": "(paracetamol OR acetaminophen) AND \"considerable\" AND \"evidence\" AND \"analgesic\" AND \"effect\" AND \"central\"",
+        "records": [
+          {
+            "provider": "Europe PMC",
+            "title": "Paracetamol (acetaminophen) or non-steroidal anti-inflammatory drugs, alone or combined, for pain relief in acute otitis media in children.",
+            "authors": [
+              "de Sévaux JLH",
+              "Damoiseaux RA",
+              "van de Pol AC",
+              "Lutje V",
+              "Hay AD",
+              "Little P",
+              "Schilder AG",
+              "Venekamp RP."
+            ],
+            "year": "2023",
+            "journal": "",
+            "doi": "10.1002/14651858.cd011534.pub3",
+            "pmid": "37594020",
+            "pmcid": "PMC10436353",
+            "abstract": "<h4>Background</h4>Acute otitis media (AOM) is one of the most common childhood infectious diseases. Pain is the key symptom of AOM and central to children's and parents' experience of the illness. Because antibiotics provide only marginal benefits, analgesic treatment including paracetamol (acetaminophen) and non-steroidal anti-inflammatory drugs (NSAIDs) is regarded as the cornerstone of AOM management. This is an update of a review first published in 2016.<h4>Objectives</h4>Our primary objective was to assess the effectiveness of paracetamol (acetaminophen) or NSAIDs, alone or combined, compared with placebo or no treatment in relieving pain in children with AOM. Our secondary objective was to assess the effectiveness of NSAIDs as compared with paracetamol in children with AOM.<h4>Search methods</h4>We searched the Cochrane Central Register of Controlled Trials (CENTRAL), Issue 5, April 2023; MEDLINE (Ovid, from 1946 to May 2023), Embase (from 1947 to May 2023), CINAHL (from 1981 to May 2023), LILACS (from 1982 to May 2023), and Web of Science Core Collection (from 1955 to May 2023). We searched the WHO ICTRP and ClinicalTrials.gov for completed and ongoing trials (23 May 2023).<h4>Selection criteria</h4>We included randomised controlled trials comparing the effectiveness of paracetamol or NSAIDs, alone or combined, for pain relief in non-hospitalised children aged six months to 16 years with AOM. We also included trials of paracetamol or NSAIDs, alone or combined, for children with fever or upper respiratory tract infections if we were able to extract subgroup data on pain relief in children with AOM either directly or after obtaining additional data from study authors. We extracted and summarised data for the following comparisons: paracetamol versus placebo, NSAIDs versus placebo, NSAIDs versus paracetamol, and NSAIDs plus paracetamol versus paracetamol alone.<h4>Data collection and analysis</h4>We used standard methodological procedures expected by Cochrane. We rated the overall certainty of evidence for each outcome of interest using the GRADE approach.<h4>Main results</h4>We included four trials (411 children) which were assessed at low to high risk of bias. Paracetamol versus placebo Data from one trial (148 children) informed this comparison. Paracetamol may be more effective than placebo in relieving pain at 48 hours (proportion of children with pain 10% versus 25%, risk ratio (RR) 0.38, 95% confidence interval (CI) 0.17 to 0.85; number needed to treat for an additional beneficial outcome (NNTB) 7; low-certainty evidence). The evidence is very uncertain about the effects of paracetamol on fever at 48 hours (RR 1.03, 95% CI 0.07 to 16.12; very low-certainty evidence) and adverse events (RR 1.03, 95% CI 0.21 to 4.93; very low-certainty evidence). No data were available for our other outcomes of interest. NSAIDs versus placebo Data from one trial (146 children) informed this comparison. Ibuprofen may be more effective than placebo in relieving pain at 48 hours (proportion of children with pain 7% versus 25%, RR 0.28, 95% CI 0.11 to 0.70; NNTB 6; low-certainty evidence). The evidence is very uncertain about the effect of ibuprofen on fever at 48 hours (RR 1.06, 95% CI 0.07 to 16.57; very low-certainty evidence) and adverse events (RR 1.76, 95% CI 0.44 to 7.10; very low-certainty evidence). No data were available for our other outcomes of interest. NSAIDs versus paracetamol Data from four trials (411 children) informed this comparison. The evidence is very uncertain about the effect of ibuprofen versus paracetamol in relieving ear pain at 24 hours (RR 0.83, 95% CI 0.59 to 1.18; 2 RCTs, 39 children; very low-certainty evidence); 48 to 72 hours (RR 0.91, 95% CI 0.54 to 1.54; 3 RCTs, 183 children; low-certainty evidence); and four to seven days (RR 0.74, 95% CI 0.17 to 3.23; 2 RCTs, 38 children; very low-certainty evidence). The evidence is very uncertain about the effect of ibuprofen versus paracetamol on mean pain score at 24 hours (0.29 lower, 95% CI 0.79 lower to 0.20 higher; 3 RCTs, 111 children; very low-certainty evidence); 48 to 72 hours (0.25 lower, 95% CI 0.66 lower to 0.16 higher; 3 RCTs, 108 children; very low-certainty evidence); and four to seven days (0.30 higher, 95% CI 1.78 lower to 2.38 higher; 2 RCTs, 31 children; very low-certainty evidence). The evidence is very uncertain about the effect of ibuprofen versus paracetamol in resolving fever at 24 hours (RR 0.69, 95% CI 0.24 to 2.00; 2 RCTs, 39 children; very low-certainty evidence); 48 to 72 hours (RR 1.18, 95% CI 0.31 to 4.44; 3 RCTs, 182 children; low-certainty evidence); and four to seven days (RR 2.75, 95% CI 0.12 to 60.70; 2 RCTs, 39 children; very low-certainty evidence). The evidence is very uncertain about the effect of ibuprofen versus paracetamol on adverse events (RR 1.71, 95% CI 0.43 to 6.90; 3 RCTs, 281 children; very low-certainty evidence); reconsultations (RR 1.13, 95% CI 0.92 to 1.40; 1 RCT, 53 children; very low-certainty evidence); and delayed antibiotic prescriptions (RR 1.32, 95% CI 0.74 to 2.35; 1 RCT, 53 children; very low-certainty evidence). No data were available on time to resolution of pain. NSAIDs plus paracetamol versus paracetamol alone Data on the effectiveness of ibuprofen plus paracetamol versus paracetamol alone came from two trials that provided crude subgroup data for 71 children with AOM. The small sample provided imprecise effect estimates, therefore we were unable to draw any firm conclusions (very low-certainty evidence).<h4>Authors' conclusions</h4>Despite explicit guideline recommendations on the use of analgesics in children with AOM, the current evidence on the effectiveness of paracetamol or NSAIDs, alone or combined, in children with AOM is limited. Paracetamol and ibuprofen as monotherapies may be more effective than placebo in relieving short-term ear pain in children with AOM. The evidence is very uncertain for the effect of ibuprofen versus paracetamol on relieving short-term ear pain in children with AOM, as well as for the effectiveness of ibuprofen plus paracetamol versus paracetamol alone, thereby preventing any firm conclusions. Further research is needed to provide insights into the role of ibuprofen as adjunct to paracetamol, and other analgesics such as anaesthetic eardrops, for children with AOM.",
+            "source_url": "https://europepmc.org/article/MED/37594020",
+            "open_access": false,
+            "license": null,
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Paracetamol: A History of Assumptions, Errors, and Evidence Reversals in Pain Management.",
+            "authors": [
+              "Nicolas J",
+              "Leoni MLG",
+              "Van Tran Y",
+              "Van Phong P",
+              "Farì G",
+              "Puttini PS",
+              "Kaye AD",
+              "Varrassi G."
+            ],
+            "year": "2026",
+            "journal": "",
+            "doi": "10.1007/s11916-026-01553-w",
+            "pmid": "42730892",
+            "pmcid": "PMC13570823",
+            "abstract": "<h4>Purpose of review</h4>Paracetamol (acetaminophen) is among the most widely used medications in the history of humanity for treatment of pain conditions. For more than half a century, it has occupied a unique position as the archetypal first-line analgesic and antipyretic, recommended across age groups, clinical settings, and healthcare systems. Its remarkable success has been based on three fundamental assumptions: it is effective for common painful conditions, substantially safer than alternative analgesics, and suitable for broad population use with minimal restrictions. Over the last two decades, however, these assumptions have been increasingly challenged by accumulating evidence from randomized trials, systematic reviews, pharmaco-epidemiological studies, and regulatory analyses.<h4>Recent findings</h4>The history of paracetamol represents an instructive example of evidence reversal in modern medicine and pain management. Originally introduced as a safer successor to phenacetin, paracetamol benefited from a favorable safety reputation that often exceeded the available scientific evidence. Subsequent investigations have revealed a more complex reality. Hepatotoxicity has emerged as a leading cause of acute liver failure worldwide, efficacy in chronic musculoskeletal disorders has proved substantially lower than previously assumed, and concerns regarding long-term safety and use during pregnancy have generated ongoing scientific debate. Simultaneously, clinical practice and prescribing habits remained largely unchanged despite evolving evidence and repeated modifications of international guidelines. By examining major assumptions, scientific misconceptions, regulatory decisions, and evidence reversals, this review explores how one of medicine's most familiar drugs in pain medicine became a paradigm of the challenges inherent in translating evolving scientific evidence into clinical practice. Beyond paracetamol itself, this story provides broader lessons regarding therapeutic inertia, medical dogma, risk perception, and the dynamic nature of evidence-based medicine.",
+            "source_url": "https://europepmc.org/article/MED/42730892",
+            "open_access": true,
+            "license": "cc by",
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Paracetamol (acetaminophen) use in infants and children was never shown to be safe for neurodevelopment: a systematic review with citation tracking.",
+            "authors": [
+              "Cendejas-Hernandez J",
+              "Sarafian JT",
+              "Lawton VG",
+              "Palkar A",
+              "Anderson LG",
+              "Larivière V",
+              "Parker W."
+            ],
+            "year": "2022",
+            "journal": "",
+            "doi": "10.1007/s00431-022-04407-w",
+            "pmid": "35175416",
+            "pmcid": "PMC9056471",
+            "abstract": "Although widely believed by pediatricians and parents to be safe for use in infants and children when used as directed, increasing evidence indicates that early life exposure to paracetamol (acetaminophen) may cause long-term neurodevelopmental problems. Furthermore, recent studies in animal models demonstrate that cognitive development is exquisitely sensitive to paracetamol exposure during early development. In this study, evidence for the claim that paracetamol is safe was evaluated using a systematic literature search. Publications on PubMed between 1974 and 2017 that contained the keywords \"infant\" and either \"paracetamol\" or \"acetaminophen\" were considered. Of those initial 3096 papers, 218 were identified that made claims that paracetamol was safe for use with infants or children. From these 218, a total of 103 papers were identified as sources of authority for the safety claim.   Conclusion: A total of 52 papers contained actual experiments designed to test safety, and had a median follow-up time of 48 h. None monitored neurodevelopment. Furthermore, no trial considered total exposure to drug since birth, eliminating the possibility that the effects of drug exposure on long-term neurodevelopment could be accurately assessed. On the other hand, abundant and sufficient evidence was found to conclude that paracetamol does not induce acute liver damage in babies or children when used as directed. What is Known: • Paracetamol (acetaminophen) is widely thought by pediatricians and parents to be safe when used as directed in the pediatric population, and is the most widely used drug in that population, with more than 90% of children exposed to the drug in some reports. • Paracetamol is known to cause liver damage in adults under conditions of oxidative stress or when used in excess, but increasing evidence from studies in humans and in laboratory animals indicates that the target organ for paracetamol toxicity during early development is the brain, not the liver. What is New: • This study finds hundreds of published reports in the medical literature asserting that paracetamol is safe when used as directed, providing a foundation for the widespread belief that the drug is safe. • This study shows that paracetamol was proven to be safe by approximately 50 short-term studies demonstrating the drug's safety for the pediatric liver, but the drug was never shown to be safe for neurodevelopment. Paracetamol is widely believed to be safe for infants and children when used as directed, despite mounting evidence in humans and in laboratory animals indicating that the drug is not safe for neurodevelopment. An exhaustive search of published work cited for safe use of paracetamol in the pediatric population revealed 52 experimental studies pointing toward safety, but the median follow-up time was only 48 h, and neurodevelopment was never assessed.",
+            "source_url": "https://europepmc.org/article/MED/35175416",
+            "open_access": true,
+            "license": "cc by",
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Efficacy and Safety of Opioid Analgesia in Acute Abdominal Presentations: A Systematic Review",
+            "authors": [
+              "Payne C",
+              "Neupane G."
+            ],
+            "year": "",
+            "journal": "",
+            "doi": "",
+            "pmid": "",
+            "pmcid": "PMC13641215",
+            "abstract": "",
+            "source_url": "https://europepmc.org/article/PMC/PMC13641215",
+            "open_access": true,
+            "license": "cc by",
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Comparison of ultrasound-guided quadratus lumborum block and other regional blocks for postoperative pain in cesarean section: a systematic review and meta-analysis of randomized clinical trials.",
+            "authors": [
+              "Zhuang Z",
+              "Jia R",
+              "Jiang F."
+            ],
+            "year": "2026",
+            "journal": "",
+            "doi": "10.3389/fmed.2026.1861119",
+            "pmid": "42494449",
+            "pmcid": "PMC13392928",
+            "abstract": "<h4>Background</h4>Acute post-cesarean section (C/S) pain causes adverse maternal outcomes, and multimodal opioid-sparing analgesia is central to Enhanced Recovery after Surgery (ERAS) protocols. Quadratus lumborum block (QLB) is a promising regional technique, but evidence comparing it with other regional blocks remains fragmented.<h4>Methods</h4>We conducted a systematic review and meta-analysis of RCTs (PubMed, EMBASE, Web of Science; inception to September 2025). Eligible studies included adults undergoing C/S with QLB. Primary outcome was 24-h cumulative morphine consumption; secondary outcomes included pain scores, recovery metrics, and adverse events. RoB 2 and GRADE assessed study quality and evidence certainty.<h4>Results</h4>Twenty-three RCTs (1,935 patients) were included. QLB reduced 24-h (MD = -3.19; 95% CI, -5.09, -1.30; <i>p</i> = 0.0009) and 48-h (MD = -16.51; 95%CI, -27.64, -5.39; <i>p</i> = 0.004) morphine consumption, and 24-h dynamic pain scores (MD = -0.52; 95% CI, -0.87, -0.17; <i>p</i> = 0.003). No significant differences were observed in resting pain, recovery metrics, satisfaction, or opioid-related adverse events. GRADE certainty for the primary outcome was moderate.<h4>Conclusion</h4>QLB was associated with modest reductions in postoperative opioid consumption and 24-h dynamic pain after C/S; however, the clinical significance is limited (pain reduction below the minimally clinically important difference), and the certainty of evidence is moderate-to-low due to very high heterogeneity (I<sup>2</sup> > 90%). QLB may be considered as one component of multimodal analgesia in selected patients, particularly those without intrathecal morphine co-administration. No additional benefits on resting pain, recovery metrics, satisfaction, or adverse events were identified.<h4>Systematic review registration</h4>https://doi.org/10.37766/inplasy2026.6.0029, identifier: INPLASY202660029.",
+            "source_url": "https://europepmc.org/article/MED/42494449",
+            "open_access": true,
+            "license": "cc by",
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "PubMed",
+            "title": "Mechanism of action of paracetamol.",
+            "authors": [
+              "Graham GG",
+              "Scott KF"
+            ],
+            "year": "2005",
+            "journal": "American journal of therapeutics",
+            "doi": "",
+            "pmid": "15662292",
+            "pmcid": "",
+            "abstract": "",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/15662292/",
+            "open_access": null,
+            "license": null,
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "PubMed",
+            "title": "[Antinociceptive mechanism of action of paracetamol].",
+            "authors": [
+              "Bonnefont J",
+              "Courade JP",
+              "Alloui A",
+              "Eschalier A"
+            ],
+            "year": "2003",
+            "journal": "Drugs",
+            "doi": "",
+            "pmid": "14758785",
+            "pmcid": "",
+            "abstract": "",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/14758785/",
+            "open_access": null,
+            "license": null,
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "PubMed",
+            "title": "Efficacy of Nonopioid Analgesics (Acetaminophen and NSAIDs) Used Alone or in Combination with Opioids for Cancer Pain: Latest Updates on the Evidence Supporting the Guidelines.",
+            "authors": [
+              "Ozawa Y",
+              "Sato J",
+              "Kajiura S",
+              "Kubo E",
+              "Noda S",
+              "Ogihara S",
+              "Mawatari H"
+            ],
+            "year": "2026",
+            "journal": "Journal of palliative medicine",
+            "doi": "",
+            "pmid": "42844214",
+            "pmcid": "",
+            "abstract": "",
+            "source_url": "https://pubmed.ncbi.nlm.nih.gov/42844214/",
+            "open_access": null,
+            "license": null,
+            "full_text_downloaded": false
+          }
+        ],
+        "provider_errors": {}
+      }
+    ],
+    "warnings": [
+      "Search results are candidate literature records; retrieval alone does not establish support or contradiction.",
+      "Only indexed abstracts/metadata are returned. No full text was downloaded; verify individual reuse terms before any later retrieval."
+    ]
+  },
+  "judgment": {
+    "raw_response": {
+      "model": "llama3.2:3b",
+      "created_at": "2026-11-01T15:15:57.8148273Z",
+      "message": {
+        "role": "assistant",
+        "content": "{ \"claims\": [ { \"claim_id\": \"1\", \"decision\": \"NEEDS_REVISION\", \"rationale\": \"The history of paracetamol represents an instructive example of evidence reversal in modern medicine and pain management.\", \"evidence_ids\": [ \"1\", \"2\", \"3\" ] }, { \"claim_id\": \"2\", \"decision\": \"NEEDS_REVISION\", \"rationale\": \"Increasing evidence indicates that early life exposure to paracetamol (acetaminophen) may cause long-term neurodevelopmental problems.\", \"evidence_ids\": [ \"4\", \"5\", \"6\" ] }, { \"claim_id\": \"3\", \"decision\": \"NEEDS_REVISION\", \"rationale\": \"The efficacy of paracetamol in chronic musculoskeletal disorders has proved substantially lower than previously assumed.\", \"evidence_ids\": [ \"7\", \"8\", \"9\" ] }, { \"claim_id\": \"4\", \"decision\": \"NEEDS_REVISION\", \"rationale\": \"Concerns regarding long-term safety and use during pregnancy have generated ongoing scientific debate.\", \"evidence_ids\": [ \"10\", \"11\", \"12\" ] }, { \"claim_id\": \"5\", \"decision\": \"NEEDS_REVISION\", \"rationale\": \"The history of paracetamol represents an instructive example of evidence reversal in modern medicine and pain management.\", \"evidence_ids\": [ \"13\", \"14\", \"15\" ] } ],\"answer\": \"NEEDS_REVISIION\" }"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 16151875600,
+      "load_duration": 7535953500,
+      "prompt_eval_count": 2050,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 843156000,
+      "eval_count": 366,
+      "eval_duration": 7699379000
+    }
+  },
+  "stage_errors": {
+    "agent4": "JudgeOutputInvalid"
+  },
+  "audit_path": "C:\\Users\\Surendra Babu\\Downloads\\DrugCo\\data\\processed\\runs\\6a2a16dc971b46428c5f7272439db14a.json",
+  "stage_timings_ms": {
+    "agent1": 3830,
+    "agent2": 32799,
+    "agent3": 9731,
+    "agent4": 18288,
+    "total": 64649
+  },
+  "created_at": "2026-11-01T15:15:57.818156+00:00"
+}

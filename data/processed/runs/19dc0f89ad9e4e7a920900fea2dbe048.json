@@ -1,0 +1,291 @@
+{
+  "request_id": "19dc0f89ad9e4e7a920900fea2dbe048",
+  "question": "What evidence in the local paracetamol corpus describes its mechanism of action, and what uncertainties are noted?",
+  "status": "NEEDS_MORE_EVIDENCE",
+  "answer": "",
+  "retrieval_assessment": {
+    "status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+    "reason": "Potentially relevant passages were found. Review the original source and verify the claim before using it.",
+    "drug": "action",
+    "topic": "mechanism",
+    "direct_candidates": 4,
+    "drug_specific_context": 1
+  },
+  "evidence": [
+    {
+      "source": "abstract_only.txt",
+      "page": null,
+      "source_id": "PARA-TXT-001",
+      "source_path": "data/research/paracetamol/text_file/abstract_only.txt",
+      "source_url": "",
+      "source_title": "abstract_only",
+      "authors": "",
+      "doi": "10.1097/00045391-200501000-00008",
+      "pmid": "15662292",
+      "pmcid": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": "",
+      "section": "plain text document",
+      "extractor": "utf-8 text",
+      "quality_status": "text_extracted",
+      "evidence_id": "02f0352b263db1380045",
+      "semantic_score": 0.6918716430664062,
+      "keyword_score": 12.472153058890077,
+      "hybrid_score": 0.03278688524590164,
+      "adjusted_score": 0.03328688524590164,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "Requested drug and mechanism-related wording occur in the same sentence.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "action",
+        "mechanism"
+      ],
+      "text": "1. Am J Ther. 2005 Jan-Feb;12(1):46-55. doi: 10.1097/00045391-200501000-00008.\n\nMechanism of action of paracetamol.\n\nGraham GG(1), Scott KF.\n\nAuthor information:\n(1)Department of Physiology and Pharmacology, University of New South Wales, St. \nVincent's Hospital, Darlinghurst, NSW 2010, Australia. ggraham@stvincents.com.au"
+    },
+    {
+      "source": "abstract_only.txt",
+      "page": null,
+      "source_id": "PARA-TXT-001",
+      "source_path": "data/research/paracetamol/text_file/abstract_only.txt",
+      "source_url": "",
+      "source_title": "abstract_only",
+      "authors": "",
+      "doi": "10.1097/00045391-200501000-00008",
+      "pmid": "15662292",
+      "pmcid": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": "",
+      "section": "plain text document",
+      "extractor": "utf-8 text",
+      "quality_status": "text_extracted",
+      "evidence_id": "72fd203e953ef4982f22",
+      "semantic_score": 0.5316157341003418,
+      "keyword_score": 9.074730132066023,
+      "hybrid_score": 0.028125,
+      "adjusted_score": 0.028625,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "Requested drug and mechanism-related wording occur in the same sentence.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "action",
+        "activation",
+        "cox",
+        "enzymes",
+        "inhibition",
+        "synthesis"
+      ],
+      "text": "There is considerable evidence that the analgesic effect of paracetamol is \ncentral and is due to activation of descending serotonergic pathways, but its \nprimary site of action may still be inhibition of PG synthesis. The action of \nparacetamol at a molecular level is unclear but could be related to the \nproduction of reactive metabolites by the peroxidase function of COX-2, which \ncould deplete glutathione, a cofactor of enzymes such as PGE synthase."
+    },
+    {
+      "source": "Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+      "page": 1,
+      "source_id": "PARA-PDF-001",
+      "source_path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+      "source_url": "",
+      "source_title": "Acetaminophen Toxicity - StatPearls - NCBI Bookshelf",
+      "authors": "",
+      "doi": "",
+      "pmid": "",
+      "pmcid": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": "",
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted",
+      "evidence_id": "7b1e6355c05ec06ef6c3",
+      "semantic_score": 0.4951910078525543,
+      "keyword_score": 11.457274901953674,
+      "hybrid_score": 0.02453239360260233,
+      "adjusted_score": 0.02503239360260233,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "Requested drug and mechanism-related wording occur in the same sentence.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "action",
+        "cyclooxygenase",
+        "inhibit",
+        "inhibition",
+        "mechanism"
+      ],
+      "text": "unknowingly, due to its presence in various combination products, particularly those containing\nopioids and diphenhydramine.[1][2][3] Acetaminophen, also known as N-acetyl-para-\naminophenol or paracetamol, functions as an antipyretic and analgesic with a mechanism distinct\nfrom typical nonsteroidal anti-inflammatory medications. Although its mode of action,\nspecifically the selective inhibition of cyclooxygenase in the brain, is not fully elucidated,\nacetaminophen effectively alleviates fever and pain. Acetaminophen may also inhibit\nAuthor Information and Affiliations"
+    },
+    {
+      "source": "CD003328.pdf",
+      "page": 39,
+      "source_id": "PARA-PDF-010",
+      "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "source_url": "",
+      "source_title": "CD003328",
+      "authors": "",
+      "doi": "",
+      "pmid": "",
+      "pmcid": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": "",
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted",
+      "evidence_id": "f19830c7d77344441f0d",
+      "semantic_score": 0.3680489659309387,
+      "keyword_score": 9.864441465472819,
+      "hybrid_score": 0.018894163909269648,
+      "adjusted_score": 0.019394163909269648,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "Requested drug and mechanism-related wording occur in the same sentence.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "action",
+        "mechanism"
+      ],
+      "text": "Cochrane\nLibrary\nTrusted evidence.\nInformed decisions.\nBetter health.\n/uni00A0\n/uni00A0\nCochrane Database of Systematic Reviews\nfrom handbook.cochrane.org. [Available from www.cochrane-\nhandbook.org.]\nJakobsen 2014\nJakobsen/uni00A0J, Wetterslev/uni00A0J, Winkel/uni00A0P, Lange/uni00A0T, Gluud/uni00A0C. Thresholds\nfor statistical and clinical significance in systematic reviews with\nmeta-analytic methods. BMC Medical Research Methodology\n2014;14:120.\nJones 1998\nJones/uni00A0AL. Mechanism of action and value of N acetylcysteine\nin the treatment of early and late acetaminophen poisoning:\na critical review. Journal of Toxicology. Clinical Toxicology\n1998;36:277-85.\nKao 2003\nKao/uni00A0LW, Kirk/uni00A0MA, Furbee/uni00A0RB, Mehta/uni00A0NH, Skinner/uni00A0JR,"
+    },
+    {
+      "source": "CD003328.pdf",
+      "page": 59,
+      "source_id": "PARA-PDF-010",
+      "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "source_url": "",
+      "source_title": "CD003328",
+      "authors": "",
+      "doi": "",
+      "pmid": "",
+      "pmcid": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": "",
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted",
+      "evidence_id": "5c506d1a1f7c985c3a1f",
+      "semantic_score": 0.5287182331085205,
+      "keyword_score": 5.411929257686231,
+      "hybrid_score": 0.026397515527950312,
+      "adjusted_score": 0.026897515527950312,
+      "evidence_type": "DRUG_SPECIFIC_CONTEXT",
+      "classification_reason": "The requested drug is mentioned, but the passage does not directly connect it to a mechanism.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "action"
+      ],
+      "text": "pendently by 2 of the investigators, with consideration of the clinical events\nand assessments surrounding the event, whether medication was adminis-\ntered to treat the event, and whether any other action was implemented.\"\nComment: unclear whether bias might have been introduced in this process of\nadjudicating on events.\nKerr 2005/uni00A0/uni00A0(Continued)\nInterventions for paracetamol (acetaminophen) overdose (Review)\nCopyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.\n57"
+    }
+  ],
+  "interpretation": {
+    "status": "COMPLETED",
+    "model": "hf.co/ceafgnigguh123/ChemLLM-7B-Chat-GGUF:Q4_K_M",
+    "answer": "There is considerable evidence that the analgesic effect of paracetamol is central and is due to activation of descending serotonergic pathways, but its primary site of action may still be inhibition of PG synthesis. The action of paracetam",
+    "claims": [
+      {
+        "claim_id": "a2-1",
+        "explanation": "",
+        "claim_type": "finding",
+        "requires_verification": false,
+        "text": "There is considerable evidence that the analgesic effect of paracetamol is central and is due to activation of descending serotonergic pathways, but its primary site of action may still be inhibition of PG synthesis. The action of paracetam",
+        "uncertainty": "The action of paracetamol at a molecular level is unclear but could be related to the production of reactive metabolites by the peroxidase f",
+        "evidence_ids": [
+          "02f0352b263db1380045",
+          "72fd203e953ef4982f22",
+          "7b1e6355c05ec06ef6c3",
+          "f19830c7d77344441f0d",
+          "5c506d1a1f7c985c3a1f"
+        ]
+      }
+    ],
+    "warnings": [
+      "Agent 2 output is a draft interpretation, not scientific validation.",
+      "Removed 1 exact duplicate claim(s) from the model draft."
+    ],
+    "raw_response": {
+      "model": "hf.co/ceafgnigguh123/ChemLLM-7B-Chat-GGUF:Q4_K_M",
+      "created_at": "2026-11-01T15:33:43.2556Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"claims\": [{\"claim_type\": \"finding\", \"evidence_refs\": [\"E1\", \"E2\", \"E3\", \"E4\", \"E5\"], \"requires_verification\": false, \"text\": \"There is considerable evidence that the analgesic effect of paracetamol is central and is due to activation of descending serotonergic pathways, but its primary site of action may still be inhibition of PG synthesis. The action of paracetam\",\"uncertainty\": \"The action of paracetamol at a molecular level is unclear but could be related to the production of reactive metabolites by the peroxidase f\"}, {\"claim_type\": \"finding\", \"evidence_refs\": [\"E1\", \"E2\", \"E3\", \"E4\", \"E5\"], \"requires_verification\": false, \"text\": \"There is considerable evidence that the analgesic effect of paracetamol is central and is due to activation of descending serotonergic pathways, but its primary site of action may still be inhibition of PG synthesis. The action of paracetam\",\"uncertainty\": \"The action of paracetamol at a molecular level is unclear but could be related to the production of reactive metabolites by the peroxidase f\"}]}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 38965012000,
+      "load_duration": 14965676400,
+      "prompt_eval_count": 1316,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 1875751000,
+      "eval_count": 287,
+      "eval_duration": 22074250000
+    },
+    "raw_content": "{\"claims\": [{\"claim_type\": \"finding\", \"evidence_refs\": [\"E1\", \"E2\", \"E3\", \"E4\", \"E5\"], \"requires_verification\": false, \"text\": \"There is considerable evidence that the analgesic effect of paracetamol is central and is due to activation of descending serotonergic pathways, but its primary site of action may still be inhibition of PG synthesis. The action of paracetam\",\"uncertainty\": \"The action of paracetamol at a molecular level is unclear but could be related to the production of reactive metabolites by the peroxidase f\"}, {\"claim_type\": \"finding\", \"evidence_refs\": [\"E1\", \"E2\", \"E3\", \"E4\", \"E5\"], \"requires_verification\": false, \"text\": \"There is considerable evidence that the analgesic effect of paracetamol is central and is due to activation of descending serotonergic pathways, but its primary site of action may still be inhibition of PG synthesis. The action of paracetam\",\"uncertainty\": \"The action of paracetamol at a molecular level is unclear but could be related to the production of reactive metabolites by the peroxidase f\"}]}"
+  },
+  "verification": {
+    "status": "PARTIAL",
+    "claims": [
+      {
+        "claim_id": "a2-1",
+        "status": "UNAVAILABLE",
+        "query": "(paracetamol OR acetaminophen) AND \"considerable\" AND \"evidence\" AND \"analgesic\" AND \"effect\" AND \"central\"",
+        "records": [],
+        "provider_errors": {
+          "PubMed": "ProxyError",
+          "Europe PMC": "ProxyError"
+        }
+      }
+    ],
+    "warnings": [
+      "Search results are candidate literature records; retrieval alone does not establish support or contradiction.",
+      "Only indexed abstracts/metadata are returned. No full text was downloaded; verify individual reuse terms before any later retrieval."
+    ]
+  },
+  "judgment": {
+    "status": "NEEDS_MORE_EVIDENCE",
+    "claims": [
+      {
+        "claim_id": "a2-1",
+        "decision": "NEEDS_MORE_EVIDENCE",
+        "rationale": "Insufficient evidence to support the claim. The provided evidence IDs are: 02f0352b263db1380045, 72fd203e953ef4982f22, 7b1e6355c05ec06ef6c3, f19830c7d77344441f0d, and 5c506d1a1f7c985c3a1f. However, the provided evidence does not provide a clear and direct link between the action of paracetamol and the described mechanisms of action. Further evidence is needed to support this claim.",
+        "evidence_ids": [
+          "02f0352b263db1380045",
+          "72fd203e953ef4982f22",
+          "7b1e6355c05ec06ef6c3",
+          "f19830c7d77344441f0d",
+          "5c506d1a1f7c985c3a1f"
+        ],
+        "warnings": []
+      }
+    ],
+    "answer": "",
+    "reasons": [
+      "Agent 4 decisions are rule-checked draft assessments, not proof of scientific accuracy.",
+      "Independent literature verification was partial or unavailable."
+    ],
+    "model": "llama3.2:3b",
+    "raw_response": {
+      "model": "llama3.2:3b",
+      "created_at": "2026-11-01T15:34:35.2852315Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"claims\": [\n    {\n      \"claim_id\": \"a2-1\",\n      \"decision\": \"NEEDS_MORE_EVIDENCE\",\n      \"rationale\": \"Insufficient evidence to support the claim. The provided evidence IDs are: 02f0352b263db1380045, 72fd203e953ef4982f22, 7b1e6355c05ec06ef6c3, f19830c7d77344441f0d, and 5c506d1a1f7c985c3a1f. However, the provided evidence does not provide a clear and direct link between the action of paracetamol and the described mechanisms of action. Further evidence is needed to support this claim.\",\n      \"evidence_ids\": [\"02f0352b263db1380045\", \"72fd203e953ef4982f22\", \"7b1e6355c05ec06ef6c3\", \"f19830c7d77344441f0d\", \"5c506d1a1f7c985c3a1f\"]\n    }\n  ],\n  \"answer\": \"NEEDS_MORE_EVIDENCE\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 14964311600,
+      "load_duration": 8387466900,
+      "prompt_eval_count": 1629,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 773054000,
+      "eval_count": 259,
+      "eval_duration": 5532707000
+    }
+  },
+  "stage_errors": {},
+  "audit_path": "C:\\Users\\Surendra Babu\\Downloads\\DrugCo\\data\\processed\\runs\\19dc0f89ad9e4e7a920900fea2dbe048.json",
+  "stage_timings_ms": {
+    "agent1": 4855,
+    "agent2": 41163,
+    "agent3": 4055,
+    "agent4": 48059,
+    "total": 98133
+  },
+  "created_at": "2026-11-01T15:34:35.372753+00:00"
+}

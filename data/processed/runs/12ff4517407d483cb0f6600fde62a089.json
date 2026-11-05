@@ -1,0 +1,302 @@
+{
+  "request_id": "12ff4517407d483cb0f6600fde62a089",
+  "question": "What is the molecular formula and basic structure of paracetamol?",
+  "status": "NEEDS_MORE_EVIDENCE",
+  "answer": "The molecular formula of paracetamol is C8H9NO2.",
+  "retrieval_assessment": {
+    "status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+    "reason": "Potentially relevant passages were found. Review the original source and verify the claim before using it.",
+    "drug": "paracetamol",
+    "topic": "chemical_properties",
+    "direct_candidates": 5,
+    "drug_specific_context": 0
+  },
+  "evidence": [
+    {
+      "source": "PubChem_CID_1983_20261101_2D.sdf",
+      "page": null,
+      "source_id": "PUBCHEM-2D-2026",
+      "source_path": "data/research/paracetamol/chemical_data/PubChem_CID_1983_20261101_2D.sdf",
+      "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/1983",
+      "source_title": "",
+      "authors": "",
+      "doi": "",
+      "pmid": "",
+      "pmcid": "",
+      "license_reuse": "PubChem public compound record; attribution recommended; check depositor-specific terms",
+      "version_date": "",
+      "section": "RDKit-derived molecular record",
+      "extractor": "RDKit 2026.09.1",
+      "quality_status": "rdkit_sanitized",
+      "evidence_id": "64349bcca3cc62489f52",
+      "semantic_score": 0.7794138193130493,
+      "keyword_score": 22.27241104083613,
+      "hybrid_score": 0.03252247488101534,
+      "adjusted_score": 0.03302247488101534,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "The requested drug and topic-related terms appear in the same passage. Manual verification is required.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "2d",
+        "atoms",
+        "bonds",
+        "canonical smiles",
+        "chemical structure",
+        "molecular formula",
+        "smiles",
+        "structure"
+      ],
+      "text": "Paracetamol (acetaminophen) chemical structure record: 2D structure; molecular formula C8H9NO2; 20 atoms; 20 bonds; canonical SMILES CC(=O)Nc1ccc(O)cc1. Structure parsed and sanitized by RDKit 2026.09.1."
+    },
+    {
+      "source": "Structure2D_COMPOUND_CID_1983.sdf",
+      "page": null,
+      "source_id": "PARA-CHEM-002",
+      "source_path": "data/research/paracetamol/chemical_data/Structure2D_COMPOUND_CID_1983.sdf",
+      "source_url": "",
+      "source_title": "",
+      "authors": "",
+      "doi": "",
+      "pmid": "",
+      "pmcid": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": "",
+      "section": "RDKit-derived molecular record",
+      "extractor": "RDKit 2026.09.1",
+      "quality_status": "rdkit_sanitized",
+      "evidence_id": "b1244ff2f83f96069b1c",
+      "semantic_score": 0.7794138193130493,
+      "keyword_score": 22.27241104083613,
+      "hybrid_score": 0.03252247488101534,
+      "adjusted_score": 0.03302247488101534,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "The requested drug and topic-related terms appear in the same passage. Manual verification is required.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "2d",
+        "atoms",
+        "bonds",
+        "canonical smiles",
+        "chemical structure",
+        "molecular formula",
+        "smiles",
+        "structure"
+      ],
+      "text": "Paracetamol (acetaminophen) chemical structure record: 2D structure; molecular formula C8H9NO2; 20 atoms; 20 bonds; canonical SMILES CC(=O)Nc1ccc(O)cc1. Structure parsed and sanitized by RDKit 2026.09.1."
+    },
+    {
+      "source": "PubChem_CID_1983_20261101_3D.sdf",
+      "page": null,
+      "source_id": "PUBCHEM-3D-2026",
+      "source_path": "data/research/paracetamol/chemical_data/PubChem_CID_1983_20261101_3D.sdf",
+      "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/1983",
+      "source_title": "",
+      "authors": "",
+      "doi": "",
+      "pmid": "",
+      "pmcid": "",
+      "license_reuse": "PubChem public compound record; attribution recommended; check depositor-specific terms",
+      "version_date": "",
+      "section": "RDKit-derived molecular record",
+      "extractor": "RDKit 2026.09.1",
+      "quality_status": "rdkit_sanitized",
+      "evidence_id": "620f9ad561e7b384721e",
+      "semantic_score": 0.7673048973083496,
+      "keyword_score": 21.37542261985593,
+      "hybrid_score": 0.031746031746031744,
+      "adjusted_score": 0.032246031746031745,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "The requested drug and topic-related terms appear in the same passage. Manual verification is required.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "3d",
+        "atoms",
+        "bonds",
+        "canonical smiles",
+        "chemical structure",
+        "molecular formula",
+        "smiles",
+        "structure"
+      ],
+      "text": "Paracetamol (acetaminophen) chemical structure record: 3D conformer; molecular formula C8H9NO2; 20 atoms; 20 bonds; canonical SMILES CC(=O)Nc1ccc(O)cc1. Structure parsed and sanitized by RDKit 2026.09.1."
+    },
+    {
+      "source": "Conformer3D_COMPOUND_CID_1983.sdf",
+      "page": null,
+      "source_id": "PARA-CHEM-003",
+      "source_path": "data/research/paracetamol/chemical_data/Conformer3D_COMPOUND_CID_1983.sdf",
+      "source_url": "",
+      "source_title": "",
+      "authors": "",
+      "doi": "",
+      "pmid": "",
+      "pmcid": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": "",
+      "section": "RDKit-derived molecular record",
+      "extractor": "RDKit 2026.09.1",
+      "quality_status": "rdkit_sanitized",
+      "evidence_id": "766d8af8553f175e69f6",
+      "semantic_score": 0.7673048973083496,
+      "keyword_score": 21.37542261985593,
+      "hybrid_score": 0.03125,
+      "adjusted_score": 0.03175,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "The requested drug and topic-related terms appear in the same passage. Manual verification is required.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "3d",
+        "atoms",
+        "bonds",
+        "canonical smiles",
+        "chemical structure",
+        "molecular formula",
+        "smiles",
+        "structure"
+      ],
+      "text": "Paracetamol (acetaminophen) chemical structure record: 3D conformer; molecular formula C8H9NO2; 20 atoms; 20 bonds; canonical SMILES CC(=O)Nc1ccc(O)cc1. Structure parsed and sanitized by RDKit 2026.09.1."
+    },
+    {
+      "source": "Structure2D_COMPOUND_CID_1983.json",
+      "page": null,
+      "source_id": "PARA-CHEM-001",
+      "source_path": "data/research/paracetamol/chemical_data/Structure2D_COMPOUND_CID_1983.json",
+      "source_url": "",
+      "source_title": "",
+      "authors": "",
+      "doi": "",
+      "pmid": "",
+      "pmcid": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": "",
+      "section": "PubChem compound properties",
+      "extractor": "PubChem PUG JSON parser",
+      "quality_status": "valid_json",
+      "evidence_id": "1ff1b6013cc2fa56d671",
+      "semantic_score": 0.6642128229141235,
+      "keyword_score": 11.290578749059987,
+      "hybrid_score": 0.03076923076923077,
+      "adjusted_score": 0.03126923076923077,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "The requested drug and topic-related terms appear in the same passage. Manual verification is required.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "inchi",
+        "inchikey",
+        "molecular formula",
+        "molecular weight"
+      ],
+      "text": "Paracetamol (acetaminophen) PubChem CID 1983 properties: IUPAC Name Allowed: N-(4-hydroxyphenyl)acetamide; IUPAC Name CAS-like Style: N-(4-hydroxyphenyl)acetamide; IUPAC Name Markup: <I>N</I>-(4-hydroxyphenyl)acetamide; IUPAC Name Preferred: N-(4-hydroxyphenyl)acetamide; IUPAC Name Systematic: N-(4-hydroxyphenyl)ethanamide; IUPAC Name Traditional: N-(4-hydroxyphenyl)acetamide; InChI Standard: InChI=1S/C8H9NO2/c1-6(10)9-7-2-4-8(11)5-3-7/h2-5,11H,1H3,(H,9,10); InChIKey Standard: RZVAJINKPMORJF-UHFFFAOYSA-N; Molecular Formula: C8H9NO2; Molecular Weight: 151.16."
+    }
+  ],
+  "interpretation": {
+    "status": "COMPLETED",
+    "model": "hf.co/ceafgnigguh123/ChemLLM-7B-Chat-GGUF:Q4_K_M",
+    "answer": "The molecular formula of paracetamol is C8H9NO2.",
+    "claims": [
+      {
+        "claim_id": "a2-1",
+        "explanation": "",
+        "claim_type": "finding",
+        "requires_verification": false,
+        "text": "The molecular formula of paracetamol is C8H9NO2.",
+        "uncertainty": "",
+        "evidence_ids": [
+          "64349bcca3cc62489f52"
+        ]
+      }
+    ],
+    "warnings": [
+      "Agent 2 output is a draft interpretation, not scientific validation."
+    ],
+    "raw_response": {
+      "model": "hf.co/ceafgnigguh123/ChemLLM-7B-Chat-GGUF:Q4_K_M",
+      "created_at": "2026-11-01T15:29:56.4525281Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"claims\": [{\"claim_type\": \"finding\", \"evidence_refs\": [\"E1\"], \"requires_verification\": false, \"text\": \"The molecular formula of paracetamol is C8H9NO2.\",\"uncertainty\": \"\"}]}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 18615708600,
+      "load_duration": 12768279800,
+      "prompt_eval_count": 1085,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 1412165000,
+      "eval_count": 63,
+      "eval_duration": 4384775000
+    },
+    "raw_content": "{\"claims\": [{\"claim_type\": \"finding\", \"evidence_refs\": [\"E1\"], \"requires_verification\": false, \"text\": \"The molecular formula of paracetamol is C8H9NO2.\",\"uncertainty\": \"\"}]}"
+  },
+  "verification": {
+    "status": "PARTIAL",
+    "claims": [
+      {
+        "claim_id": "a2-1",
+        "status": "UNAVAILABLE",
+        "query": "(paracetamol OR acetaminophen) AND \"molecular\" AND \"formula\" AND \"c8h9no2\"",
+        "records": [],
+        "provider_errors": {
+          "PubMed": "ProxyError",
+          "Europe PMC": "ProxyError"
+        }
+      }
+    ],
+    "warnings": [
+      "Search results are candidate literature records; retrieval alone does not establish support or contradiction.",
+      "Only indexed abstracts/metadata are returned. No full text was downloaded; verify individual reuse terms before any later retrieval."
+    ]
+  },
+  "judgment": {
+    "status": "NEEDS_MORE_EVIDENCE",
+    "claims": [
+      {
+        "claim_id": "a2-1",
+        "decision": "APPROVED",
+        "rationale": "The evidence IDs provided match the local evidence, and the source titles and URLs are consistent. The molecular formula of paracetamol is indeed C8H9NO2, as stated in the local evidence. Therefore, the claim is approved.",
+        "evidence_ids": [
+          "64349bcca3cc62489f52"
+        ],
+        "warnings": []
+      }
+    ],
+    "answer": "The molecular formula of paracetamol is C8H9NO2.",
+    "reasons": [
+      "Agent 4 decisions are rule-checked draft assessments, not proof of scientific accuracy.",
+      "Independent literature verification was partial or unavailable."
+    ],
+    "model": "llama3.2:3b",
+    "raw_response": {
+      "model": "llama3.2:3b",
+      "created_at": "2026-11-01T15:30:15.513118Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"claims\": [\n    {\n      \"claim_id\": \"a2-1\",\n      \"decision\": \"APPROVED\",\n      \"rationale\": \"The evidence IDs provided match the local evidence, and the source titles and URLs are consistent. The molecular formula of paracetamol is indeed C8H9NO2, as stated in the local evidence. Therefore, the claim is approved.\",\n      \"evidence_ids\": [\"64349bcca3cc62489f52\"]\n    }\n  ],\n  \"answer\": \"The molecular formula of paracetamol is C8H9NO2.\"\n}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 12770995100,
+      "load_duration": 9247251600,
+      "prompt_eval_count": 1210,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 683389000,
+      "eval_count": 129,
+      "eval_duration": 2806595000
+    }
+  },
+  "stage_errors": {},
+  "audit_path": "C:\\Users\\Surendra Babu\\Downloads\\DrugCo\\data\\processed\\runs\\12ff4517407d483cb0f6600fde62a089.json",
+  "stage_timings_ms": {
+    "agent1": 804,
+    "agent2": 20892,
+    "agent3": 4076,
+    "agent4": 14984,
+    "total": 40757
+  },
+  "created_at": "2026-11-01T15:30:15.515683+00:00"
+}

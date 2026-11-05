@@ -1,0 +1,16 @@
+{
+  "benchmark_id": "best-life-agent1-paracetamol-v1",
+  "scope": "retrieval and evidence traceability only; not scientific accuracy or clinical safety",
+  "cases": [
+    {"id":"MECH-01","topic":"mechanism_of_action","question":"What does the corpus say about the mechanism of action of paracetamol and cyclooxygenase?","answer_present":true,"expected_path_contains":"abstract_only.txt","expected_terms":["mechanism","cyclooxygenase"]},
+    {"id":"PHARM-01","topic":"pharmacology","question":"What analgesic and antipyretic pharmacological effects are described for acetaminophen?","answer_present":true,"expected_path_contains":"abstract_only.txt","expected_terms":["analgesic","antipyretic"]},
+    {"id":"PK-01","topic":"pharmacokinetics","question":"What absorption, distribution, and half-life information is available for paracetamol?","answer_present":true,"expected_path_contains":"Acetaminophen Toxicity","expected_terms":["absorption","half-life"]},
+    {"id":"MET-01","topic":"metabolism_napqi","question":"Which toxic metabolite NAPQI is discussed in relation to acetaminophen metabolism?","answer_present":true,"expected_path_contains":"Acetaminophen Toxicity","expected_terms":["napqi","metabolism"]},
+    {"id":"TOX-01","topic":"toxicology_safety","question":"What liver toxicity and overdose safety warnings are present for paracetamol?","answer_present":true,"expected_path_contains":"CD003328.pdf","expected_terms":["liver","overdose"]},
+    {"id":"CHEM-01","topic":"chemical_properties","question":"What molecular formula and molecular weight does the paracetamol PubChem record list?","answer_present":true,"expected_path_contains":"Structure2D_COMPOUND_CID_1983.json","expected_terms":["C8H9NO2","151.16"]},
+    {"id":"STRUCT-01","topic":"molecular_structure","question":"Retrieve the 3D molecular structure record and canonical SMILES for paracetamol.","answer_present":true,"expected_path_contains":"3D.sdf","expected_terms":["CC(=O)Nc1ccc(O)cc1","3D"]},
+    {"id":"SOURCE-01","topic":"source_page_traceability","question":"What liver warning appears in the DailyMed label for acetaminophen, and which page contains it?","answer_present":true,"expected_path_contains":"DailyMed_Medline_500mg_20260720.pdf","expected_page":1,"expected_terms":["acetaminophen","liver warning"]},
+    {"id":"ABSENT-01","topic":"insufficient_evidence","question":"Does the local corpus establish that paracetamol binds the human TRPV1 receptor?","answer_present":false,"expected_path_contains":"","expected_terms":["TRPV1"]},
+    {"id":"ABSENT-02","topic":"insufficient_evidence","question":"Does the local corpus contain a randomized trial of paracetamol for treating malaria?","answer_present":false,"expected_path_contains":"","expected_terms":["malaria"]}
+  ]
+}

@@ -1,0 +1,510 @@
+{
+  "request_id": "3ab71f91bfac47a7b78e6711dc187761",
+  "question": "How does paracetamol cause liver toxicity in overdose?",
+  "status": "APPROVED",
+  "answer": "How does paracetamol cause liver toxicity in overdose?\n\nHow does paracetamol cause liver toxicity in overdose?\n\nHow does paracetamol cause liver toxicity in overdose?\n\nHow does paracetamol cause liver toxicity in overdose?\n\nHow does paracet\nHow does fomepizole prevent acetaminophen oxidation, inhibition of Jun-N-terminal kinase, and decrease the formation of oxidative metabolites?\n\nHow does fomepizole prevent acetaminophen oxidation, inhibition of Jun-N-terminal kinase, and\nde",
+  "retrieval_assessment": {
+    "status": "RETRIEVAL_RELEVANT_REVIEW_REQUIRED",
+    "reason": "Potentially relevant passages were found. Review the original source and verify the claim before using it.",
+    "drug": "paracetamol",
+    "topic": "mechanism",
+    "direct_candidates": 5,
+    "drug_specific_context": 0
+  },
+  "evidence": [
+    {
+      "source": "CD003328.pdf",
+      "page": 4,
+      "source_id": "PARA-PDF-010",
+      "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "source_url": "",
+      "source_title": "CD003328",
+      "authors": "",
+      "doi": "",
+      "pmid": "",
+      "pmcid": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": "",
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted",
+      "evidence_id": "c79ed326ffa145870d93",
+      "semantic_score": 0.6946145296096802,
+      "keyword_score": 3.036677108352683,
+      "hybrid_score": 0.01925925925925926,
+      "adjusted_score": 0.01975925925925926,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "Requested drug and mechanism-related wording occur in the same sentence.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "binds"
+      ],
+      "text": "include activated charcoal (that binds paracetamol together in the stomach), gastric lavage (stomach washout to remove as much\nparacetamol as possible), or ipecacuanha (a syrup that is swallowed and causes vomiting (being sick)). Paracetamol once absorbed into\nthe bloodstream goes to the liver where the majority is broken down to harmless products. However, a small amount of the medicine\nInterventions for paracetamol (acetaminophen) overdose (Review)\nCopyright © 2018 The Cochrane Collaboration. Published by John Wiley & Sons, Ltd.\n2"
+    },
+    {
+      "source": "Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+      "page": 2,
+      "source_id": "PARA-PDF-001",
+      "source_path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+      "source_url": "",
+      "source_title": "Acetaminophen Toxicity - StatPearls - NCBI Bookshelf",
+      "authors": "",
+      "doi": "",
+      "pmid": "",
+      "pmcid": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": "",
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted",
+      "evidence_id": "c974e289a13e0f41d94c",
+      "semantic_score": 0.6244238615036011,
+      "keyword_score": 5.506799093894083,
+      "hybrid_score": 0.018668831168831168,
+      "adjusted_score": 0.01916883116883117,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "Requested drug and mechanism-related wording occur in the same sentence.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "prostaglandin",
+        "synthesis"
+      ],
+      "text": "prostaglandin synthesis in the central nervous system and directly affect the hypothalamus to\nproduce an antipyretic effect.[4]\nIf left untreated, acetaminophen toxicity can lead to fatal hepatic necrosis. Timely intervention is\nessential in preventing fulminant liver failure and the need for liver transplantation. Activated\ncharcoal can be considered in the first 2 hours after an acute ingestion, although there are limited\ndata supporting improved outcomes. Acetylcysteine, most often given IV, is the critical antidote\nfor acetaminophen poisoning, and is most effective if administered within the first 8 hours after\nan acute overdose. Patients with suspected chronic acetaminophen poisoning should receive"
+    },
+    {
+      "source": "Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+      "page": 10,
+      "source_id": "PARA-PDF-001",
+      "source_path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+      "source_url": "",
+      "source_title": "Acetaminophen Toxicity - StatPearls - NCBI Bookshelf",
+      "authors": "",
+      "doi": "",
+      "pmid": "",
+      "pmcid": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": "",
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted",
+      "evidence_id": "c983554e01abe420bec9",
+      "semantic_score": 0.522351861000061,
+      "keyword_score": 5.024388565319213,
+      "hybrid_score": 0.016191796752694904,
+      "adjusted_score": 0.016691796752694905,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "Requested drug and mechanism-related wording occur in the same sentence.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "inhibits"
+      ],
+      "text": "hepatitis.\nPertinent Studies and Ongoing Trials\nFomepizole is an antidote for toxic alcohol poisoning with methanol and ethylene glycol. This\nmedication inhibits alcohol dehydrogenase and CYP2E1. Studies suggest that fomepizole may\nhave a role as adjunct therapy along with N-acetylcysteine in patients determined to be at high\nrisk of developing liver failure due to acetaminophen toxicity. Fomepizole prevents\nacetaminophen oxidation, inhibits Jun-N-terminal kinase, and decreases the formation of\noxidative metabolites. Case reports of fomepizole are increasing, showing promise in critically ill\npatients.[33] Many guidelines do not currently recommend the routine use of fomepizole for\nacetaminophen toxicity, while others have begun implementing its use.[34][35][36] The role of"
+    },
+    {
+      "source": "CD003328.pdf",
+      "page": 36,
+      "source_id": "PARA-PDF-010",
+      "source_path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "source_url": "",
+      "source_title": "CD003328",
+      "authors": "",
+      "doi": "",
+      "pmid": "",
+      "pmcid": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": "",
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted",
+      "evidence_id": "8dbc6b7c4cb8184a2d96",
+      "semantic_score": 0.668529212474823,
+      "keyword_score": 2.575206885328522,
+      "hybrid_score": 0.015267175572519083,
+      "adjusted_score": 0.015767175572519082,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "Requested drug and mechanism-related wording occur in the same sentence.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "inhibition",
+        "receptor"
+      ],
+      "text": "Emergency Medicine 1985;14(6):562-7.\nMacDonald 2006 {published data only}\nMacDonald/uni00A0TM. Acetaminophen: risk-management\nurgently require. Pharmacoepidemiology and Drug Safety\n2006;15(6):406-9.\nMann 1992 {published data only}\nMann/uni00A0NS. Acetylcysteine for paracetamol-induced hepatic\nfailure. Annals of Internal Medicine 1992;116(Suppl 2):1992.\nMitchell 1984 {published data only}\nMitchell/uni00A0MC, Schenker/uni00A0S, Speeg/uni00A0KV/uni00A0Jr. Selective inhibition of\nacetaminophen oxidation and toxicity by cimetidine and other\nhistamine H2-receptor antagonists in vivo and in vitro in the rat\nand in man. Journal of Clinical Investigation 1984;73(2):383-91.\nMontoya-Cabrera 1999 {published data only}\nMontoya-Cabrera/uni00A0MA, Escalante-Galindo/uni00A0P, Nava-Juaez/uni00A0A,"
+    },
+    {
+      "source": "abstract_only.txt",
+      "page": null,
+      "source_id": "PARA-TXT-001",
+      "source_path": "data/research/paracetamol/text_file/abstract_only.txt",
+      "source_url": "",
+      "source_title": "abstract_only",
+      "authors": "",
+      "doi": "10.1097/00045391-200501000-00008",
+      "pmid": "15662292",
+      "pmcid": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": "",
+      "section": "plain text document",
+      "extractor": "utf-8 text",
+      "quality_status": "text_extracted",
+      "evidence_id": "02f0352b263db1380045",
+      "semantic_score": 0.6274529695510864,
+      "keyword_score": 0.37921118330847225,
+      "hybrid_score": 0.008453047028580069,
+      "adjusted_score": 0.00895304702858007,
+      "evidence_type": "DIRECT_EVIDENCE_CANDIDATE",
+      "classification_reason": "Requested drug and mechanism-related wording occur in the same sentence.",
+      "drug_match": true,
+      "topic_match": true,
+      "matched_terms": [
+        "action",
+        "mechanism"
+      ],
+      "text": "1. Am J Ther. 2005 Jan-Feb;12(1):46-55. doi: 10.1097/00045391-200501000-00008.\n\nMechanism of action of paracetamol.\n\nGraham GG(1), Scott KF.\n\nAuthor information:\n(1)Department of Physiology and Pharmacology, University of New South Wales, St. \nVincent's Hospital, Darlinghurst, NSW 2010, Australia. ggraham@stvincents.com.au"
+    }
+  ],
+  "interpretation": {
+    "status": "COMPLETED",
+    "model": "hf.co/ceafgnigguh123/ChemLLM-7B-Chat-GGUF:Q4_K_M",
+    "answer": "How does paracetamol cause liver toxicity in overdose?\n\nHow does paracetamol cause liver toxicity in overdose?\n\nHow does paracetamol cause liver toxicity in overdose?\n\nHow does paracetamol cause liver toxicity in overdose?\n\nHow does paracet\nHow does fomepizole prevent acetaminophen oxidation, inhibition of Jun-N-terminal kinase, and decrease the formation of oxidative metabolites?\n\nHow does fomepizole prevent acetaminophen oxidation, inhibition of Jun-N-terminal kinase, and\nde",
+    "claims": [
+      {
+        "claim_id": "a2-1",
+        "explanation": "",
+        "claim_type": "finding",
+        "requires_verification": false,
+        "text": "How does paracetamol cause liver toxicity in overdose?\n\nHow does paracetamol cause liver toxicity in overdose?\n\nHow does paracetamol cause liver toxicity in overdose?\n\nHow does paracetamol cause liver toxicity in overdose?\n\nHow does paracet",
+        "uncertainty": "mechanistic claim, requires verification, does not require evidence ref, does not require evidence ref, does not require evidence ref, does\n",
+        "evidence_ids": [
+          "c79ed326ffa145870d93",
+          "c974e289a13e0f41d94c",
+          "c983554e01abe420bec9",
+          "8dbc6b7c4cb8184a2d96",
+          "02f0352b263db1380045"
+        ]
+      },
+      {
+        "claim_id": "a2-2",
+        "explanation": "",
+        "claim_type": "finding",
+        "requires_verification": false,
+        "text": "How does fomepizole prevent acetaminophen oxidation, inhibition of Jun-N-terminal kinase, and decrease the formation of oxidative metabolites?\n\nHow does fomepizole prevent acetaminophen oxidation, inhibition of Jun-N-terminal kinase, and\nde",
+        "uncertainty": "mechanistic claim, requires verification, does not require evidence ref, does not require evidence ref, does not require evidence ref, does\n",
+        "evidence_ids": [
+          "c79ed326ffa145870d93",
+          "c974e289a13e0f41d94c",
+          "c983554e01abe420bec9",
+          "8dbc6b7c4cb8184a2d96",
+          "02f0352b263db1380045"
+        ]
+      }
+    ],
+    "warnings": [
+      "Agent 2 output is a draft interpretation, not scientific validation."
+    ],
+    "raw_response": {
+      "model": "hf.co/ceafgnigguh123/ChemLLM-7B-Chat-GGUF:Q4_K_M",
+      "created_at": "2026-11-04T13:45:42.2662519Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"claims\": [{\"claim_type\": \"finding\", \"evidence_refs\": [\"E1\", \"E2\", \"E3\", \"E4\", \"E5\"], \"requires_verification\": false, \"text\": \"How does paracetamol cause liver toxicity in overdose?\\n\\nHow does paracetamol cause liver toxicity in overdose?\\n\\nHow does paracetamol cause liver toxicity in overdose?\\n\\nHow does paracetamol cause liver toxicity in overdose?\\n\\nHow does paracet\", \"uncertainty\": \"mechanistic claim, requires verification, does not require evidence ref, does not require evidence ref, does not require evidence ref, does\\n\"}, {\"claim_type\": \"finding\", \"evidence_refs\": [\"E1\", \"E2\", \"E3\", \"E4\", \"E5\"], \"requires_verification\": false, \"text\": \"How does fomepizole prevent acetaminophen oxidation, inhibition of Jun-N-terminal kinase, and decrease the formation of oxidative metabolites?\\n\\nHow does fomepizole prevent acetaminophen oxidation, inhibition of Jun-N-terminal kinase, and\\nde\",\"uncertainty\": \"mechanistic claim, requires verification, does not require evidence ref, does not require evidence ref, does not require evidence ref, does\\n\"}]}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 35528288800,
+      "load_duration": 12036067900,
+      "prompt_eval_count": 1446,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 1685131000,
+      "eval_count": 303,
+      "eval_duration": 21751982000
+    },
+    "raw_content": "{\"claims\": [{\"claim_type\": \"finding\", \"evidence_refs\": [\"E1\", \"E2\", \"E3\", \"E4\", \"E5\"], \"requires_verification\": false, \"text\": \"How does paracetamol cause liver toxicity in overdose?\\n\\nHow does paracetamol cause liver toxicity in overdose?\\n\\nHow does paracetamol cause liver toxicity in overdose?\\n\\nHow does paracetamol cause liver toxicity in overdose?\\n\\nHow does paracet\", \"uncertainty\": \"mechanistic claim, requires verification, does not require evidence ref, does not require evidence ref, does not require evidence ref, does\\n\"}, {\"claim_type\": \"finding\", \"evidence_refs\": [\"E1\", \"E2\", \"E3\", \"E4\", \"E5\"], \"requires_verification\": false, \"text\": \"How does fomepizole prevent acetaminophen oxidation, inhibition of Jun-N-terminal kinase, and decrease the formation of oxidative metabolites?\\n\\nHow does fomepizole prevent acetaminophen oxidation, inhibition of Jun-N-terminal kinase, and\\nde\",\"uncertainty\": \"mechanistic claim, requires verification, does not require evidence ref, does not require evidence ref, does not require evidence ref, does\\n\"}]}"
+  },
+  "verification": {
+    "status": "COMPLETED",
+    "claims": [
+      {
+        "claim_id": "a2-1",
+        "status": "RECORDS_FOUND",
+        "query": "(paracetamol OR acetaminophen) AND \"cause\" AND \"liver\" AND \"toxicity\" AND \"overdose\" AND \"paracet\"",
+        "records": [
+          {
+            "provider": "Europe PMC",
+            "title": "Relevance of induction of human drug-metabolizing enzymes: pharmacological and toxicological implications.",
+            "authors": [
+              "Park BK",
+              "Kitteringham NR",
+              "Pirmohamed M",
+              "Tucker GT."
+            ],
+            "year": "1996",
+            "journal": "",
+            "doi": "10.1046/j.1365-2125.1996.03482.x",
+            "pmid": "8799511",
+            "pmcid": "PMC2042620",
+            "abstract": "1. Human drug-metabolizing systems can be induced, or activated, by a large number of exogenous agents including drugs, alcohol, components in the diet and cigarette smoke, as well as by endogenous factors. 2. Such perturbation of enzyme activity undoubtedly contributes to both intra-and inter-individual variation both with respect to the rate and route of metabolism for a particular drug. Induction may, in theory, either attenuate the pharmacological response or exacerbate the toxicity of a particular drug, or both. 3. The clinical impact of enzyme induction will depend upon the number of different enzyme isoforms affected and the magnitude of the inductive response within an individual, and also on the therapeutic indices of the affected substrates. 4. The toxicological implications will be determined either by any change in the route of metabolism, or by a disturbance of the balance between activation and detoxication processes, which may be isozyme selective.",
+            "source_url": "https://europepmc.org/article/MED/8799511",
+            "open_access": false,
+            "license": null,
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Paracetamol metabolites in the neonate following maternal overdose.",
+            "authors": [
+              "Roberts I",
+              "Robinson MJ",
+              "Mughal MZ",
+              "Ratcliffe JG",
+              "Prescott LF."
+            ],
+            "year": "1984",
+            "journal": "",
+            "doi": "10.1111/j.1365-2125.1984.tb02453.x",
+            "pmid": "6487458",
+            "pmcid": "PMC1463536",
+            "abstract": "A case of paracetamol overdose in a 36 week pregnant woman is described. The baby was delivered by Caesarian section 6 h after the overdose. The mother but not the baby was treated with N-acetylcysteine and neither suffered liver damage. The plasma paracetamol half-life was prolonged to 10 h in the neonate compared to 2.5 h in the mother and was unaffected by a two volume exchange transfusion. The pattern of urinary metabolites in the neonate was similar to that observed in the mother, but there was a marked delay in the time taken to reach peak plasma concentrations of metabolites. This is consistent with a very slow biotransformation of the drug and may explain the relative resistance of very young children to the hepatotoxicity of paracetamol. There was no evidence of limited or decreasing capacity in sulphate conjugation nor was sulphation the major metabolic pathway. In retrospect both the obstetrical intervention and the exchange transfusion were unnecessary.",
+            "source_url": "https://europepmc.org/article/MED/6487458",
+            "open_access": false,
+            "license": null,
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Scanning electron microscopic examination of acetaminophen-induced hepatotoxicity and congestion in mice.",
+            "authors": [
+              "Walker RM",
+              "Racz WJ",
+              "McElligott TF."
+            ],
+            "year": "1983",
+            "journal": "",
+            "doi": "",
+            "pmid": "6650662",
+            "pmcid": "PMC1916349",
+            "abstract": "Acetaminophen-induced hepatotoxicity and associated hepatic congestion were investigated by scanning and correlative transmission electron microscopy. Acetaminophen (750 mg/kg orally) causes changes in cell surface morphology and the relationship between hepatocytes and sinusoidal lining cells. There is endocytic vacuolation at lateral and sinusoidal margins of centrilobular hepatocytes, loss of microvilli, Disse space enlargement, dilation of bile canaliculi, and disappearance of the studlike projections from hepatocyte lateral surfaces. Erythrocytes enter the enlarged Disse space and endocytic vacuoles via enlarged pores in sinusoidal lining cells, thereby collapsing the sinusoids. Lining cells are not lost, but apparently held in position by preservation of intercellular junctions, cytoplasmic projections from hepatocytes, and anchorage by fat-storing cells within the Disse space. Congestion can abate by 24 hours, indicating that erythrocytes can return to the general circulation from the Disse space.",
+            "source_url": "https://europepmc.org/article/MED/6650662",
+            "open_access": false,
+            "license": null,
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "The third Lilly Prize Lecture. University of London, January, 1979. The nephrotoxicity and hepatotoxicity of antipyretic analgesics.",
+            "authors": [
+              "Prescott LF."
+            ],
+            "year": "1979",
+            "journal": "",
+            "doi": "10.1111/j.1365-2125.1979.tb00986.x",
+            "pmid": "383123",
+            "pmcid": "PMC1429589",
+            "abstract": "",
+            "source_url": "https://europepmc.org/article/MED/383123",
+            "open_access": false,
+            "license": null,
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Intravenous N-acetylcystine: the treatment of choice for paracetamol poisoning.",
+            "authors": [
+              "Prescott LF",
+              "Illingworth RN",
+              "Critchley JA",
+              "Stewart MJ",
+              "Adam RD",
+              "Proudfoot AT."
+            ],
+            "year": "1979",
+            "journal": "",
+            "doi": "10.1136/bmj.2.6198.1097",
+            "pmid": "519312",
+            "pmcid": "PMC1597048",
+            "abstract": "One hundred cases of severe paracetamol poisoning were treated with intravenous N-acetylcysteine (acetyl-cysteine). There was virtually complete protection against liver damage in 40 patients treated within eight hours after ingestion (mean maximum serum alanine transaminase activity 27 IU/1). Only one out of 62 patients treated within 10 hours developed severe liver damage compared with 33 out of 57 patients (58%) studied retrospectively who received supportive treatment alone. Early treatment and acetylcysteine also prevented renal impairment and death. The critical ingestion-treatment interval for complete protection against severe liver damage was eight hours. Efficacy diminished progressively thereafter, and treatment after 15 hours was completely ineffective. Intravenous acetylcysteine was more effective than cysteamine and methionine and noticeably free of adverse effects. It is the treatment of choice for paracetamol poisoning.",
+            "source_url": "https://europepmc.org/article/MED/519312",
+            "open_access": false,
+            "license": null,
+            "full_text_downloaded": false
+          }
+        ],
+        "provider_errors": {}
+      },
+      {
+        "claim_id": "a2-2",
+        "status": "RECORDS_FOUND",
+        "query": "(paracetamol OR acetaminophen) AND \"fomepizole\" AND \"prevent\" AND \"oxidation\" AND \"inhibition\" AND \"jun-n-terminal\"",
+        "records": [
+          {
+            "provider": "Europe PMC",
+            "title": "Membrane-Targeted Consequences of Acetaminophen Toxicity and Off-Target Effects of Antimicrobial Peptides on Host Cell Membranes.",
+            "authors": [
+              "Voloshchuk OM",
+              "Berest V",
+              "Skorokhod O."
+            ],
+            "year": "2026",
+            "journal": "",
+            "doi": "10.3390/ijms27146234",
+            "pmid": "42511577",
+            "pmcid": "PMC13410206",
+            "abstract": "Acetaminophen (paracetamol, APAP) is a widely used analgesic and antipyretic drug. Under normal physiological conditions, it does not directly interact with or disrupt cellular membranes. However, in cases of acetaminophen overdose or toxicity, severe cellular damage has been described, involving a broad spectrum of effects at different cellular levels. These toxic effects may involve membrane structures, including mitochondrial, plasma, and other intracellular membranes. Antimicrobial peptides (AMPs) are short, usually cationic and amphipathic peptides produced by both microorganisms and multicellular organisms, serving diverse defensive and competitive functions. In many cases, they exert their antimicrobial activity by direct interaction with bacterial or fungal membranes, leading to membrane destabilization and cell death. Owing to this membrane-targeting mechanism, AMPs may also interact with eukaryotic cell membranes, thereby exerting toxic or off-target effects under certain conditions. Here, we review the current knowledge on the membrane-related effects of acetaminophen toxicity and the mechanisms by which AMPs interact with biological membranes. In the event of combined exposure to acetaminophen and AMPs in therapeutic or experimental settings, the biological consequences remain unexplored. Such combined exposure may give rise to toxic effects and membrane-associated alterations. We further discuss potential mechanisms of interference, additive toxicity, and synergistic interactions between acetaminophen and AMPs, highlighting critical knowledge gaps and directions for future research.",
+            "source_url": "https://europepmc.org/article/MED/42511577",
+            "open_access": true,
+            "license": "cc by",
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Reactive oxygen species and peroxynitrite in acetaminophen-induced liver injury: Lipid peroxidation and ferroptosis-like cell death.",
+            "authors": [
+              "Jaeschke H",
+              "Ramachandran A."
+            ],
+            "year": "2026",
+            "journal": "",
+            "doi": "10.70401/fos.2025.0007",
+            "pmid": "41669340",
+            "pmcid": "PMC12885367",
+            "abstract": "Acetaminophen (APAP) overdose is a clinically relevant model of drug hepatotoxicity and acute liver failure. After decades of research, many aspects of the mechanism of APAP-induced liver injury are well established. These include the cytochrome P450 2E1-mediated formation of a reactive metabolite, hepatic glutathione depletion, mitochondrial protein adduct formation with oxidant stress and peroxynitrite formation, iron-catalyzed protein nitration in mitochondria, the opening of the mitochondrial permeability transition pore, and release of mitochondrial intermembrane proteins including endonuclease G, which translocate to the nucleus and cause DNA fragmentation, the final step of cell necrosis signaling. However, the mode of cell death remains controversial, as there are many overlaps with apoptosis, necroptosis, and pyroptosis. More recently, ferroptosis has come into focus as a popular cell death mode, creating a new controversial topic. The current review addresses some of the similarities and differences between ferroptosis and APAP-induced necrosis. For example, there is extensive glutathione depletion, but glutathione peroxidase 4 activity is not impaired; there is oxidant stress, but superoxide is used to form peroxynitrite; and there is evidence for an important role of ferrous iron as a catalyst for protein nitration. Moreover, lipid peroxidation is very limited, and excess Vitamin E does not protect. However, cotreatment of an APAP overdose with exogenous ferrous iron can induce extensive lipid peroxidation and switch the mode of cell death. Thus, APAP hepatotoxicity does not involve ferroptosis under normal, clinically relevant conditions, but a change in co-ingested supplements can trigger a switch to ferroptosis-like cell death.",
+            "source_url": "https://europepmc.org/article/MED/41669340",
+            "open_access": true,
+            "license": "cc by",
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Mechanistic insights into hepatic cell type-specific contributions to acetaminophen-induced acute liver injury.",
+            "authors": [
+              "Yang D",
+              "Kim B",
+              "Kim JW."
+            ],
+            "year": "2025",
+            "journal": "",
+            "doi": "10.3748/wjg.v31.i45.112720",
+            "pmid": "41378327",
+            "pmcid": "PMC12687014",
+            "abstract": "Acetaminophen [N-acetyl-p-aminophenol (APAP)] overdose is a leading cause of acute liver failure worldwide, chiefly due to its hepatotoxic effects. The pathogenesis of APAP-induced acute liver injury (ALI) involves complex interactions among various hepatic cell types, each playing a distinct role in the progression of the injury. Hepatocytes, the primary targets of APAP toxicity, undergo oxidative stress, mitochondrial dysfunction, and necrosis following the formation of the toxic metabolite N-acetyl-p-benzoquinone imine. Additionally, other hepatic cells and infiltrating immune cells responding to liver injury significantly contribute to the pathogenesis of APAP-induced ALI. This review synthesizes current mechanistic insights to offer a detailed understanding of the specific contributions of hepatic cells to APAP-induced liver injury, emphasizing potential therapeutic targets designed to reduce liver damage and enhance patient outcomes. Additionally, it identifies potential therapeutic targets within these cellular pathways that could be leveraged to alleviate liver damage and enhance clinical outcomes for patients affected by APAP overdose.",
+            "source_url": "https://europepmc.org/article/MED/41378327",
+            "open_access": true,
+            "license": "cc by-nc",
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Acute Liver Failure: Is Acetaminophen the Only Culprit?",
+            "authors": [
+              "McLaughlin SD",
+              "Amaral JZ",
+              "Thomas J",
+              "Amaral KZ",
+              "Scalzo A."
+            ],
+            "year": "2025",
+            "journal": "",
+            "doi": "10.7759/cureus.77068",
+            "pmid": "39917094",
+            "pmcid": "PMC11800727",
+            "abstract": "Epstein-Barr virus (EBV) is a common herpesvirus associated with infectious mononucleosis and rare complications such as hepatitis. EBV-associated hepatitis during acute infection may alter liver metabolism, compounding the risk of drug-induced toxicity. We report the case of a 16-year-old female with acute EBV infection who developed severe acetaminophen toxicity after reported use for migraine relief. Her condition was refractory to N-acetylcysteine but improved with the addition of fomepizole, which may have mitigated liver injury by reducing N-acetyl-p-benzoquinone imine (NAPQI) production via CYP2E1 inhibition and suppressing inflammation. This case underscores the complexity of managing pediatric acute liver failure with coexisting hepatic insults, particularly in the presence of viral infections that disrupt liver metabolism, and highlights fomepizole as a potential adjunct in pediatric N-acetylcysteine-refractory acetaminophen toxicity. Further research is warranted to explore the interactions between viral hepatitis and drug-induced liver injury.",
+            "source_url": "https://europepmc.org/article/MED/39917094",
+            "open_access": true,
+            "license": "cc by",
+            "full_text_downloaded": false
+          },
+          {
+            "provider": "Europe PMC",
+            "title": "Iguratimod, an allosteric inhibitor of macrophage migration inhibitory factor (MIF), prevents mortality and oxidative stress in a murine model of acetaminophen overdose.",
+            "authors": [
+              "Bloom J",
+              "Pantouris G",
+              "He M",
+              "Aljabari B",
+              "Mishra L",
+              "Manjula R",
+              "Parkins A",
+              "Lolis EJ",
+              "Al-Abed Y."
+            ],
+            "year": "2024",
+            "journal": "",
+            "doi": "10.1186/s10020-024-00803-0",
+            "pmid": "38539088",
+            "pmcid": "PMC10976746",
+            "abstract": "<h4>Background</h4>Macrophage migration inhibitory factor (MIF) is a pleiotropic cytokine that has been implicated in multiple inflammatory and non-inflammatory diseases, including liver injury induced by acetaminophen (APAP) overdose. Multiple small molecule inhibitors of MIF have been described, including the clinically available anti-rheumatic drug T-614 (iguratimod); however, this drug's mode of inhibition has not been fully investigated.<h4>Methods</h4>We conducted in vitro testing including kinetic analysis and protein crystallography to elucidate the interactions between MIF and T-614. We also performed in vivo experiments testing the efficacy of T-614 in a murine model of acetaminophen toxicity. We analyzed survival in lethal APAP overdose with and without T-614 and using two different dosing schedules of T-614. We also examined MIF and MIF inhibition effects on hepatic hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) as a surrogate of oxidative stress in non-lethal APAP overdose.<h4>Results</h4>Kinetic analysis was consistent with a non-competitive type of inhibition and an inhibition constant (K<sub>i</sub>) value of 16 µM. Crystallographic analysis revealed that T-614 binds outside of the tautomerase active site of the MIF trimer, with only the mesyl group of the molecule entering the active site pocket. T-614 improved survival in lethal APAP overdose when given prophylactically, but this protection was not observed when the drug was administered late (6 h after APAP). T-614 also decreased hepatic hydrogen peroxide concentrations during non-lethal APAP overdose in a MIF-dependent fashion.<h4>Conclusions</h4>T-614 is an allosteric inhibitor of MIF that prevented death and decreased hepatic hydrogen peroxide concentrations when given prophylactically in a murine model of acetaminophen overdose. Further studies are needed to elucidate the mechanistic role of MIF in APAP toxicity.",
+            "source_url": "https://europepmc.org/article/MED/38539088",
+            "open_access": true,
+            "license": "cc by",
+            "full_text_downloaded": false
+          }
+        ],
+        "provider_errors": {}
+      }
+    ],
+    "warnings": [
+      "Search results are candidate literature records; retrieval alone does not establish support or contradiction.",
+      "Only indexed abstracts/metadata are returned. No full text was downloaded; verify individual reuse terms before any later retrieval."
+    ]
+  },
+  "judgment": {
+    "status": "APPROVED",
+    "claims": [
+      {
+        "claim_id": "a2-1",
+        "decision": "APPROVED",
+        "rationale": "The use of acetaminophen in combination with AMPs may lead to increased toxicity and membrane-related effects.",
+        "evidence_ids": [
+          "c79ed326ffa145870d93",
+          "c79ed326ffa145870d93"
+        ],
+        "warnings": []
+      },
+      {
+        "claim_id": "a2-2",
+        "decision": "APPROVED",
+        "rationale": "The use of acetaminophen in combination with AMPs may lead to increased oxidative stress and membrane damage.",
+        "evidence_ids": [
+          "c79ed326ffa145870d93",
+          "c79ed326ffa145870d93"
+        ],
+        "warnings": []
+      }
+    ],
+    "answer": "How does paracetamol cause liver toxicity in overdose?\n\nHow does paracetamol cause liver toxicity in overdose?\n\nHow does paracetamol cause liver toxicity in overdose?\n\nHow does paracetamol cause liver toxicity in overdose?\n\nHow does paracet\nHow does fomepizole prevent acetaminophen oxidation, inhibition of Jun-N-terminal kinase, and decrease the formation of oxidative metabolites?\n\nHow does fomepizole prevent acetaminophen oxidation, inhibition of Jun-N-terminal kinase, and\nde",
+    "reasons": [
+      "Agent 4 decisions are rule-checked draft assessments, not proof of scientific accuracy."
+    ],
+    "model": "llama3.2:3b",
+    "raw_response": {
+      "model": "llama3.2:3b",
+      "created_at": "2026-11-04T13:46:11.240153Z",
+      "message": {
+        "role": "assistant",
+        "content": "{\"claims\": [{\"claim_id\": \"a2-1\", \"decision\": \"APPROVED\", \"rationale\": \"The use of acetaminophen in combination with AMPs may lead to increased toxicity and membrane-related effects.\", \"evidence_ids\": [\"c79ed326ffa145870d93\", \"c79ed326ffa145870d93\"]}, {\"claim_id\": \"a2-2\", \"decision\": \"APPROVED\", \"rationale\": \"The use of acetaminophen in combination with AMPs may lead to increased oxidative stress and membrane damage.\", \"evidence_ids\": [\"c79ed326ffa145870d93\", \"c79ed326ffa145870d93\"]}],\"answer\": \"The use of acetaminophen in combination with AMPs may lead to increased toxicity and membrane-related effects, as well as increased oxidative stress and membrane damage. The exact mechanisms of these effects are not fully understood and require further research. However, the available evidence suggests that the combination of acetaminophen and AMPs may lead to increased toxicity and membrane-related effects, which could have significant consequences for human health.\"}"
+      },
+      "done": true,
+      "done_reason": "stop",
+      "total_duration": 20699257700,
+      "load_duration": 12391407000,
+      "prompt_eval_count": 2050,
+      "prompt_eval_cached_count": 0,
+      "prompt_eval_duration": 884496000,
+      "eval_count": 274,
+      "eval_duration": 7323235000
+    }
+  },
+  "stage_errors": {},
+  "audit_path": "C:\\Users\\Surendra Babu\\Downloads\\DrugCo\\data\\processed\\runs\\3ab71f91bfac47a7b78e6711dc187761.json",
+  "stage_timings_ms": {
+    "agent1": 54926,
+    "agent2": 37922,
+    "agent3": 6132,
+    "agent4": 22814,
+    "total": 121848
+  },
+  "created_at": "2026-11-04T13:46:11.266871+00:00"
+}

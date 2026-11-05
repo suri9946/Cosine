@@ -1,0 +1,4228 @@
+{
+  "schema_version": 1,
+  "drug_scope": [
+    "paracetamol"
+  ],
+  "nodes": [
+    {
+      "type": "drug",
+      "drug_id": "paracetamol",
+      "label": "Paracetamol (acetaminophen)"
+    },
+    {
+      "type": "source",
+      "source_id": "PARA-PDF-002",
+      "path": "data/research/paracetamol/pdf/Acetaminophen _ FDA_doc8.pdf",
+      "title": "Acetaminophen | FDA",
+      "source_url": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": ""
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "09493112e83770a3a311",
+      "source_id": "PARA-PDF-002",
+      "path": "data/research/paracetamol/pdf/Acetaminophen _ FDA_doc8.pdf",
+      "page": 1,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "d0661dbfe10ab98c6948",
+      "source_id": "PARA-PDF-002",
+      "path": "data/research/paracetamol/pdf/Acetaminophen _ FDA_doc8.pdf",
+      "page": 2,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "source",
+      "source_id": "PARA-PDF-001",
+      "path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+      "title": "Acetaminophen Toxicity - StatPearls - NCBI Bookshelf",
+      "source_url": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": ""
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "8e85db0aee4266ac1e1e",
+      "source_id": "PARA-PDF-001",
+      "path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+      "page": 1,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "concept",
+      "concept_id": "mechanism_of_action",
+      "label": "mechanism of action"
+    },
+    {
+      "type": "concept",
+      "concept_id": "toxicology",
+      "label": "toxicology"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "0c31d38f7d063a054621",
+      "source_id": "PARA-PDF-001",
+      "path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+      "page": 2,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "concept",
+      "concept_id": "pharmacokinetics",
+      "label": "pharmacokinetics"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "4916712f826e194990a7",
+      "source_id": "PARA-PDF-001",
+      "path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+      "page": 3,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "concept",
+      "concept_id": "metabolism",
+      "label": "metabolism"
+    },
+    {
+      "type": "concept",
+      "concept_id": "napqi",
+      "label": "napqi"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "d8325be600ef80129618",
+      "source_id": "PARA-PDF-001",
+      "path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+      "page": 4,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "d0380c2018cbbbce76f1",
+      "source_id": "PARA-PDF-001",
+      "path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+      "page": 5,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "69919c7c04b7147ed449",
+      "source_id": "PARA-PDF-001",
+      "path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+      "page": 6,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "82190828add41a3fec7c",
+      "source_id": "PARA-PDF-001",
+      "path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+      "page": 7,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "1b9bdfe9b73f40c839ef",
+      "source_id": "PARA-PDF-001",
+      "path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+      "page": 8,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "207ee2ff72044fc9372f",
+      "source_id": "PARA-PDF-001",
+      "path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+      "page": 9,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "efa2f2a4eb5e7c3896d3",
+      "source_id": "PARA-PDF-001",
+      "path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+      "page": 10,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "71c589adbbf68be8da1a",
+      "source_id": "PARA-PDF-001",
+      "path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+      "page": 11,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "1427383718f23c5ac1c9",
+      "source_id": "PARA-PDF-001",
+      "path": "data/research/paracetamol/pdf/Acetaminophen Toxicity - StatPearls - NCBI Bookshelf.pdf",
+      "page": 12,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "source",
+      "source_id": "PARA-PDF-003",
+      "path": "data/research/paracetamol/pdf/Acetaminophen_ MedlinePlus Drug Information_doc10.pdf",
+      "title": "Acetaminophen: MedlinePlus Drug Information",
+      "source_url": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": ""
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "2c86ad09017493d89e68",
+      "source_id": "PARA-PDF-003",
+      "path": "data/research/paracetamol/pdf/Acetaminophen_ MedlinePlus Drug Information_doc10.pdf",
+      "page": 1,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "48fba001be07d89dad3d",
+      "source_id": "PARA-PDF-003",
+      "path": "data/research/paracetamol/pdf/Acetaminophen_ MedlinePlus Drug Information_doc10.pdf",
+      "page": 2,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "7354abac6a6b335f4e7c",
+      "source_id": "PARA-PDF-003",
+      "path": "data/research/paracetamol/pdf/Acetaminophen_ MedlinePlus Drug Information_doc10.pdf",
+      "page": 3,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "4136765ada9e36e37c7b",
+      "source_id": "PARA-PDF-003",
+      "path": "data/research/paracetamol/pdf/Acetaminophen_ MedlinePlus Drug Information_doc10.pdf",
+      "page": 4,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "e87c6f2d27bb3bd736fa",
+      "source_id": "PARA-PDF-003",
+      "path": "data/research/paracetamol/pdf/Acetaminophen_ MedlinePlus Drug Information_doc10.pdf",
+      "page": 5,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "c84f6d85a0cd21ee9854",
+      "source_id": "PARA-PDF-003",
+      "path": "data/research/paracetamol/pdf/Acetaminophen_ MedlinePlus Drug Information_doc10.pdf",
+      "page": 6,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "source",
+      "source_id": "PARA-PDF-008",
+      "path": "data/research/paracetamol/pdf/labels/20210403_bf001b70-6164-1ec9-e053-2a95a90a1274.pdf",
+      "title": "20210403_bf001b70-6164-1ec9-e053-2a95a90a1274",
+      "source_url": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": ""
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "dc512a477ea7b1dd0f20",
+      "source_id": "PARA-PDF-008",
+      "path": "data/research/paracetamol/pdf/labels/20210403_bf001b70-6164-1ec9-e053-2a95a90a1274.pdf",
+      "page": 1,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "587015eebddbfe20a82a",
+      "source_id": "PARA-PDF-008",
+      "path": "data/research/paracetamol/pdf/labels/20210403_bf001b70-6164-1ec9-e053-2a95a90a1274.pdf",
+      "page": 12,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "0a8db243929a2d6da207",
+      "source_id": "PARA-PDF-008",
+      "path": "data/research/paracetamol/pdf/labels/20210403_bf001b70-6164-1ec9-e053-2a95a90a1274.pdf",
+      "page": 13,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "5d986ef6a71db3e2fb3a",
+      "source_id": "PARA-PDF-008",
+      "path": "data/research/paracetamol/pdf/labels/20210403_bf001b70-6164-1ec9-e053-2a95a90a1274.pdf",
+      "page": 14,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "source",
+      "source_id": "DLY-71BC-2020",
+      "path": "data/research/paracetamol/pdf/labels/DailyMed_71bcfe9e_20200727.pdf",
+      "title": "Acetaminophen Tablets USP 500 mg (DailyMed label)",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=71bcfe9e-e9c8-4cf6-9e17-39fbdb8e3962",
+      "license_reuse": "No explicit reuse license found; local reference copy only; check rights before redistribution",
+      "version_date": "2020-07-27"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "9e3e84fd3beef35283af",
+      "source_id": "DLY-71BC-2020",
+      "path": "data/research/paracetamol/pdf/labels/DailyMed_71bcfe9e_20200727.pdf",
+      "page": 1,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "80595b41477ba03e13af",
+      "source_id": "DLY-71BC-2020",
+      "path": "data/research/paracetamol/pdf/labels/DailyMed_71bcfe9e_20200727.pdf",
+      "page": 2,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "46f3ca5a30792b9c9c8f",
+      "source_id": "DLY-71BC-2020",
+      "path": "data/research/paracetamol/pdf/labels/DailyMed_71bcfe9e_20200727.pdf",
+      "page": 3,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "source",
+      "source_id": "DLY-4B1D-2026",
+      "path": "data/research/paracetamol/pdf/labels/DailyMed_Medline_500mg_20260720.pdf",
+      "title": "MEDLINE acetaminophen 500 mg tablet (DailyMed label)",
+      "source_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4b1d7243-b943-4e2b-e063-6294a90a2c4e",
+      "license_reuse": "Copyright ?2026 Medline; no separate reuse license verified; do not redistribute without permission",
+      "version_date": "2026-07-20"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "84a46ed021adf7e9d97c",
+      "source_id": "DLY-4B1D-2026",
+      "path": "data/research/paracetamol/pdf/labels/DailyMed_Medline_500mg_20260720.pdf",
+      "page": 1,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "1823a57bdc4eb6122ccc",
+      "source_id": "DLY-4B1D-2026",
+      "path": "data/research/paracetamol/pdf/labels/DailyMed_Medline_500mg_20260720.pdf",
+      "page": 2,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "1cc6bce0125062c05b9f",
+      "source_id": "DLY-4B1D-2026",
+      "path": "data/research/paracetamol/pdf/labels/DailyMed_Medline_500mg_20260720.pdf",
+      "page": 3,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "2ce09be04a4431a4ea7e",
+      "source_id": "DLY-4B1D-2026",
+      "path": "data/research/paracetamol/pdf/labels/DailyMed_Medline_500mg_20260720.pdf",
+      "page": 4,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "source",
+      "source_id": "PARA-PDF-007",
+      "path": "data/research/paracetamol/pdf/Over-the-counter pain relievers_ MedlinePlus Medical Encyclopedia_doc6.pdf",
+      "title": "Over-the-counter pain relievers: MedlinePlus Medical Encyclopedia",
+      "source_url": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": ""
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "13e70d57e70903012da1",
+      "source_id": "PARA-PDF-007",
+      "path": "data/research/paracetamol/pdf/Over-the-counter pain relievers_ MedlinePlus Medical Encyclopedia_doc6.pdf",
+      "page": 1,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "2aacfc4fc6763e7c5136",
+      "source_id": "PARA-PDF-007",
+      "path": "data/research/paracetamol/pdf/Over-the-counter pain relievers_ MedlinePlus Medical Encyclopedia_doc6.pdf",
+      "page": 2,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "a1b0adefc37ffc1790ea",
+      "source_id": "PARA-PDF-007",
+      "path": "data/research/paracetamol/pdf/Over-the-counter pain relievers_ MedlinePlus Medical Encyclopedia_doc6.pdf",
+      "page": 3,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "c6bcbd47f1daf0f0ff83",
+      "source_id": "PARA-PDF-007",
+      "path": "data/research/paracetamol/pdf/Over-the-counter pain relievers_ MedlinePlus Medical Encyclopedia_doc6.pdf",
+      "page": 4,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "source",
+      "source_id": "PARA-PDF-009",
+      "path": "data/research/paracetamol/pdf/pharmacokinetics/brjclinpharm00214-0078.pdf",
+      "title": "brjclinpharm00214-0078",
+      "source_url": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": ""
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "ce4efed893f50968dbd6",
+      "source_id": "PARA-PDF-009",
+      "path": "data/research/paracetamol/pdf/pharmacokinetics/brjclinpharm00214-0078.pdf",
+      "page": 1,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "f528a1f34997938f1700",
+      "source_id": "PARA-PDF-009",
+      "path": "data/research/paracetamol/pdf/pharmacokinetics/brjclinpharm00214-0078.pdf",
+      "page": 2,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "c7733289a941dbe3b0ff",
+      "source_id": "PARA-PDF-009",
+      "path": "data/research/paracetamol/pdf/pharmacokinetics/brjclinpharm00214-0078.pdf",
+      "page": 3,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "45874f01cac245f08187",
+      "source_id": "PARA-PDF-009",
+      "path": "data/research/paracetamol/pdf/pharmacokinetics/brjclinpharm00214-0078.pdf",
+      "page": 4,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "8c3e0c52c760a327f583",
+      "source_id": "PARA-PDF-009",
+      "path": "data/research/paracetamol/pdf/pharmacokinetics/brjclinpharm00214-0078.pdf",
+      "page": 5,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "467c78a4a159662d3c96",
+      "source_id": "PARA-PDF-009",
+      "path": "data/research/paracetamol/pdf/pharmacokinetics/brjclinpharm00214-0078.pdf",
+      "page": 6,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "2b3c77feb63d3aa981a9",
+      "source_id": "PARA-PDF-009",
+      "path": "data/research/paracetamol/pdf/pharmacokinetics/brjclinpharm00214-0078.pdf",
+      "page": 7,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "637478a7268eb9e94bcb",
+      "source_id": "PARA-PDF-009",
+      "path": "data/research/paracetamol/pdf/pharmacokinetics/brjclinpharm00214-0078.pdf",
+      "page": 8,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "source",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "title": "CD003328",
+      "source_url": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": ""
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "bb18bcd8ee325bea39c0",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 1,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "1e95840e426a7224ef49",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 2,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "a3820bfddec30b8505ed",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 3,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "5bb5242dfca19651829d",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 4,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "42e502dc58b88cb21a34",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 5,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "c294f04b624ca96fb5ed",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 6,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "5f2b764bad5881a4bb84",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 7,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "58ef97a018084944ce5d",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 8,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "1d3f95c70a12425f82ca",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 9,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "33f3f8ad5d9aeedceeeb",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 10,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "c40cf1b715fbfbbc4d41",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 11,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "d5fba89b8e2e36a9dd55",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 12,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "14f3c7a66e47552d4522",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 13,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "81b29909a5a24a3bc160",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 14,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "f4dad46ff6be7525775c",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 15,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "188729f04920f6b10416",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 16,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "35a572501c2075819540",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 17,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "47d553c3ac10350b8109",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 18,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "0eb5ee207a1d90ab5548",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 19,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "8baeb49c48b6d70b18e4",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 20,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "310dfe4ca3bad6961a12",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 21,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "7fe0920d1a39c823aa02",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 22,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "658cfd1660e9996eb2bc",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 23,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "fa1ad711774c73382d77",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 24,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "64c46db33000151406f3",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 25,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "afc03285824e43b0fb43",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 26,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "30db9dc4ce2cfff01d3f",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 27,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "f3afe1dc7ca1540ba420",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 28,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "e409e28d234bae537a5a",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 29,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "dc100565e823dabbd11e",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 30,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "ace71b4f82d152011b43",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 31,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "017e5e564f80549cbf04",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 32,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "9e3b8101277bf549edc2",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 33,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "ac77a48fb7df82d9a4f2",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 34,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "88f420bfc7fbcac6995a",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 35,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "f2afdf4f81152ee28038",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 36,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "46e78523870ea3d89cd0",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 37,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "b4413dae11c253e88e28",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 38,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "9eb3790a698d85446a32",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 39,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "faa595f7c6f06b81597d",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 40,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "16c8f501ec5ded8f8e44",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 41,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "db1e552e47d7b63c7266",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 42,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "f3da36302f7a3a0efb22",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 43,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "22fdda267fd77ea1156d",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 44,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "a0682a1ccac1ba319a87",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 45,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "d8d598f96f0ac494b267",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 46,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "ac9fc27b2287364a0a95",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 47,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "339dbee314019ea70626",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 48,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "86a46f4e0d135cb85ddc",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 49,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "91d5a75609bf0fa7d3ce",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 50,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "3ce3f5cad8623a0bff18",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 51,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "3865112f318af981defb",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 52,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "9d65daaee803abfd52d9",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 53,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "b6b6b55237084faa75c3",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 54,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "98786b61bf530bf5b65d",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 55,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "4ca7eb5fbd2518a50a1d",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 56,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "86173257d8a8fa10a495",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 57,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "b0e48dca20493c418707",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 58,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "10cbca2175ca22e07e06",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 59,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "086fdf57eb86a577db4d",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 60,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "4b2ac90ffadba6d67916",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 61,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "5a1ddff04fc1acae95ed",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 62,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "9ddf22f4d21dde7e1f4d",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 63,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "bcb5910cbfc2941e55bc",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 64,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "beef9296d24d86bc8fa6",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 65,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "bb3681e81be0ff1ef0f1",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 66,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "c751219f0b773fe8ff63",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 67,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "0899e791e94480df2d89",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 68,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "e409c6c465f7d9f3e7ff",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 69,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "8cc0d8c1f529f756738e",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 70,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "5cd7f294a2b211f1d9b4",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 71,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "72caa2491939a5ab1497",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 72,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "ac87f5691931ca62e8e4",
+      "source_id": "PARA-PDF-010",
+      "path": "data/research/paracetamol/pdf/safety/CD003328.pdf",
+      "page": 73,
+      "section": "",
+      "extractor": "pypdf",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "source",
+      "source_id": "PMC5744234-XML",
+      "path": "data/research/paracetamol/text/PMC5744234_Esh_2017.xml",
+      "title": "Acetaminophen (Paracetamol): Use beyond Pain Management and Dose Variability",
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5744234/",
+      "license_reuse": "CC BY; attribution required",
+      "version_date": "2017-12-22"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "8032931823297cd75534",
+      "source_id": "PMC5744234-XML",
+      "path": "data/research/paracetamol/text/PMC5744234_Esh_2017.xml",
+      "page": null,
+      "section": "Introduction",
+      "extractor": "JATS XML / ElementTree",
+      "quality_status": "xml_parsed"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "7241e5df3413684ec13f",
+      "source_id": "PMC5744234-XML",
+      "path": "data/research/paracetamol/text/PMC5744234_Esh_2017.xml",
+      "page": null,
+      "section": "Emerging acetaminophen use within physiology research",
+      "extractor": "JATS XML / ElementTree",
+      "quality_status": "xml_parsed"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "fdae33005c125a43e50d",
+      "source_id": "PMC5744234-XML",
+      "path": "data/research/paracetamol/text/PMC5744234_Esh_2017.xml",
+      "page": null,
+      "section": "Acetaminophen dose and pharmacokinetics",
+      "extractor": "JATS XML / ElementTree",
+      "quality_status": "xml_parsed"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "e6333d731460342fb6df",
+      "source_id": "PMC5744234-XML",
+      "path": "data/research/paracetamol/text/PMC5744234_Esh_2017.xml",
+      "page": null,
+      "section": "Summary and conclusions",
+      "extractor": "JATS XML / ElementTree",
+      "quality_status": "xml_parsed"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "4730097669a454ce444e",
+      "source_id": "PMC5744234-XML",
+      "path": "data/research/paracetamol/text/PMC5744234_Esh_2017.xml",
+      "page": null,
+      "section": "Author contributions",
+      "extractor": "JATS XML / ElementTree",
+      "quality_status": "xml_parsed"
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "8e849bcd2b85990038c5",
+      "source_id": "PMC5744234-XML",
+      "path": "data/research/paracetamol/text/PMC5744234_Esh_2017.xml",
+      "page": null,
+      "section": "Conflict of interest statement",
+      "extractor": "JATS XML / ElementTree",
+      "quality_status": "xml_parsed"
+    },
+    {
+      "type": "source",
+      "source_id": "PARA-TXT-001",
+      "path": "data/research/paracetamol/text_file/abstract_only.txt",
+      "title": "abstract_only",
+      "source_url": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": ""
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "d372486f810f097fd0d5",
+      "source_id": "PARA-TXT-001",
+      "path": "data/research/paracetamol/text_file/abstract_only.txt",
+      "page": null,
+      "section": "plain text document",
+      "extractor": "utf-8 text",
+      "quality_status": "text_extracted"
+    },
+    {
+      "type": "source",
+      "source_id": "PARA-CHEM-003",
+      "path": "data/research/paracetamol/chemical_data/Conformer3D_COMPOUND_CID_1983.sdf",
+      "title": "",
+      "source_url": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": ""
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "d3cc7c950940ad8cb1b7",
+      "source_id": "PARA-CHEM-003",
+      "path": "data/research/paracetamol/chemical_data/Conformer3D_COMPOUND_CID_1983.sdf",
+      "page": null,
+      "section": "RDKit-derived molecular record",
+      "extractor": "RDKit 2026.09.1",
+      "quality_status": "rdkit_sanitized"
+    },
+    {
+      "type": "concept",
+      "concept_id": "chemical_structure",
+      "label": "chemical structure"
+    },
+    {
+      "type": "source",
+      "source_id": "PUBCHEM-2D-2026",
+      "path": "data/research/paracetamol/chemical_data/PubChem_CID_1983_20261101_2D.sdf",
+      "title": "",
+      "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/1983",
+      "license_reuse": "PubChem public compound record; attribution recommended; check depositor-specific terms",
+      "version_date": ""
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "b444ba7546d3b993153d",
+      "source_id": "PUBCHEM-2D-2026",
+      "path": "data/research/paracetamol/chemical_data/PubChem_CID_1983_20261101_2D.sdf",
+      "page": null,
+      "section": "RDKit-derived molecular record",
+      "extractor": "RDKit 2026.09.1",
+      "quality_status": "rdkit_sanitized"
+    },
+    {
+      "type": "source",
+      "source_id": "PUBCHEM-3D-2026",
+      "path": "data/research/paracetamol/chemical_data/PubChem_CID_1983_20261101_3D.sdf",
+      "title": "",
+      "source_url": "https://pubchem.ncbi.nlm.nih.gov/compound/1983",
+      "license_reuse": "PubChem public compound record; attribution recommended; check depositor-specific terms",
+      "version_date": ""
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "e44c454c3267a00b7db5",
+      "source_id": "PUBCHEM-3D-2026",
+      "path": "data/research/paracetamol/chemical_data/PubChem_CID_1983_20261101_3D.sdf",
+      "page": null,
+      "section": "RDKit-derived molecular record",
+      "extractor": "RDKit 2026.09.1",
+      "quality_status": "rdkit_sanitized"
+    },
+    {
+      "type": "source",
+      "source_id": "PARA-CHEM-002",
+      "path": "data/research/paracetamol/chemical_data/Structure2D_COMPOUND_CID_1983.sdf",
+      "title": "",
+      "source_url": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": ""
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "c28391eade327395c43d",
+      "source_id": "PARA-CHEM-002",
+      "path": "data/research/paracetamol/chemical_data/Structure2D_COMPOUND_CID_1983.sdf",
+      "page": null,
+      "section": "RDKit-derived molecular record",
+      "extractor": "RDKit 2026.09.1",
+      "quality_status": "rdkit_sanitized"
+    },
+    {
+      "type": "source",
+      "source_id": "PARA-CHEM-001",
+      "path": "data/research/paracetamol/chemical_data/Structure2D_COMPOUND_CID_1983.json",
+      "title": "",
+      "source_url": "",
+      "license_reuse": "Unknown; terms not captured for existing file",
+      "version_date": ""
+    },
+    {
+      "type": "evidence",
+      "evidence_id": "79a8251e07bbf29f1e1d",
+      "source_id": "PARA-CHEM-001",
+      "path": "data/research/paracetamol/chemical_data/Structure2D_COMPOUND_CID_1983.json",
+      "page": null,
+      "section": "PubChem compound properties",
+      "extractor": "PubChem PUG JSON parser",
+      "quality_status": "valid_json"
+    }
+  ],
+  "edges": [
+    {
+      "from": "drug:paracetamol",
+      "to": "source:PARA-PDF-002",
+      "relation": "documented_in",
+      "basis": "corpus_membership"
+    },
+    {
+      "from": "source:PARA-PDF-002",
+      "to": "evidence:09493112e83770a3a311",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 1,
+      "section": ""
+    },
+    {
+      "from": "source:PARA-PDF-002",
+      "to": "evidence:d0661dbfe10ab98c6948",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 2,
+      "section": ""
+    },
+    {
+      "from": "drug:paracetamol",
+      "to": "source:PARA-PDF-001",
+      "relation": "documented_in",
+      "basis": "corpus_membership"
+    },
+    {
+      "from": "source:PARA-PDF-001",
+      "to": "evidence:8e85db0aee4266ac1e1e",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 1,
+      "section": ""
+    },
+    {
+      "from": "evidence:8e85db0aee4266ac1e1e",
+      "to": "concept:mechanism_of_action",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "mechanism"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:8e85db0aee4266ac1e1e",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-001",
+      "to": "evidence:0c31d38f7d063a054621",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 2,
+      "section": ""
+    },
+    {
+      "from": "evidence:0c31d38f7d063a054621",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "absorption"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:0c31d38f7d063a054621",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-001",
+      "to": "evidence:4916712f826e194990a7",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 3,
+      "section": ""
+    },
+    {
+      "from": "evidence:4916712f826e194990a7",
+      "to": "concept:metabolism",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "metabolism",
+        "metabolized"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:4916712f826e194990a7",
+      "to": "concept:napqi",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "napqi"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:4916712f826e194990a7",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-001",
+      "to": "evidence:d8325be600ef80129618",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 4,
+      "section": ""
+    },
+    {
+      "from": "evidence:d8325be600ef80129618",
+      "to": "concept:metabolism",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "metabolism"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:d8325be600ef80129618",
+      "to": "concept:napqi",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "napqi"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:d8325be600ef80129618",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-001",
+      "to": "evidence:d0380c2018cbbbce76f1",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 5,
+      "section": ""
+    },
+    {
+      "from": "source:PARA-PDF-001",
+      "to": "evidence:69919c7c04b7147ed449",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 6,
+      "section": ""
+    },
+    {
+      "from": "evidence:69919c7c04b7147ed449",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-001",
+      "to": "evidence:82190828add41a3fec7c",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 7,
+      "section": ""
+    },
+    {
+      "from": "evidence:82190828add41a3fec7c",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "absorption"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:82190828add41a3fec7c",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-001",
+      "to": "evidence:1b9bdfe9b73f40c839ef",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 8,
+      "section": ""
+    },
+    {
+      "from": "evidence:1b9bdfe9b73f40c839ef",
+      "to": "concept:napqi",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "napqi"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:1b9bdfe9b73f40c839ef",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-001",
+      "to": "evidence:207ee2ff72044fc9372f",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 9,
+      "section": ""
+    },
+    {
+      "from": "source:PARA-PDF-001",
+      "to": "evidence:efa2f2a4eb5e7c3896d3",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 10,
+      "section": ""
+    },
+    {
+      "from": "evidence:efa2f2a4eb5e7c3896d3",
+      "to": "concept:metabolism",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "metabolism"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:efa2f2a4eb5e7c3896d3",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-001",
+      "to": "evidence:71c589adbbf68be8da1a",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 11,
+      "section": ""
+    },
+    {
+      "from": "evidence:71c589adbbf68be8da1a",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-001",
+      "to": "evidence:1427383718f23c5ac1c9",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 12,
+      "section": ""
+    },
+    {
+      "from": "evidence:1427383718f23c5ac1c9",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicology",
+        "toxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "drug:paracetamol",
+      "to": "source:PARA-PDF-003",
+      "relation": "documented_in",
+      "basis": "corpus_membership"
+    },
+    {
+      "from": "source:PARA-PDF-003",
+      "to": "evidence:2c86ad09017493d89e68",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 1,
+      "section": ""
+    },
+    {
+      "from": "source:PARA-PDF-003",
+      "to": "evidence:48fba001be07d89dad3d",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 2,
+      "section": ""
+    },
+    {
+      "from": "evidence:48fba001be07d89dad3d",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-003",
+      "to": "evidence:7354abac6a6b335f4e7c",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 3,
+      "section": ""
+    },
+    {
+      "from": "source:PARA-PDF-003",
+      "to": "evidence:4136765ada9e36e37c7b",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 4,
+      "section": ""
+    },
+    {
+      "from": "source:PARA-PDF-003",
+      "to": "evidence:e87c6f2d27bb3bd736fa",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 5,
+      "section": ""
+    },
+    {
+      "from": "evidence:e87c6f2d27bb3bd736fa",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-003",
+      "to": "evidence:c84f6d85a0cd21ee9854",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 6,
+      "section": ""
+    },
+    {
+      "from": "drug:paracetamol",
+      "to": "source:PARA-PDF-008",
+      "relation": "documented_in",
+      "basis": "corpus_membership"
+    },
+    {
+      "from": "source:PARA-PDF-008",
+      "to": "evidence:dc512a477ea7b1dd0f20",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 1,
+      "section": ""
+    },
+    {
+      "from": "source:PARA-PDF-008",
+      "to": "evidence:587015eebddbfe20a82a",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 12,
+      "section": ""
+    },
+    {
+      "from": "source:PARA-PDF-008",
+      "to": "evidence:0a8db243929a2d6da207",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 13,
+      "section": ""
+    },
+    {
+      "from": "source:PARA-PDF-008",
+      "to": "evidence:5d986ef6a71db3e2fb3a",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 14,
+      "section": ""
+    },
+    {
+      "from": "drug:paracetamol",
+      "to": "source:DLY-71BC-2020",
+      "relation": "documented_in",
+      "basis": "corpus_membership"
+    },
+    {
+      "from": "source:DLY-71BC-2020",
+      "to": "evidence:9e3e84fd3beef35283af",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 1,
+      "section": ""
+    },
+    {
+      "from": "source:DLY-71BC-2020",
+      "to": "evidence:80595b41477ba03e13af",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 2,
+      "section": ""
+    },
+    {
+      "from": "source:DLY-71BC-2020",
+      "to": "evidence:46f3ca5a30792b9c9c8f",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 3,
+      "section": ""
+    },
+    {
+      "from": "drug:paracetamol",
+      "to": "source:DLY-4B1D-2026",
+      "relation": "documented_in",
+      "basis": "corpus_membership"
+    },
+    {
+      "from": "source:DLY-4B1D-2026",
+      "to": "evidence:84a46ed021adf7e9d97c",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 1,
+      "section": ""
+    },
+    {
+      "from": "source:DLY-4B1D-2026",
+      "to": "evidence:1823a57bdc4eb6122ccc",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 2,
+      "section": ""
+    },
+    {
+      "from": "evidence:1823a57bdc4eb6122ccc",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:DLY-4B1D-2026",
+      "to": "evidence:1cc6bce0125062c05b9f",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 3,
+      "section": ""
+    },
+    {
+      "from": "source:DLY-4B1D-2026",
+      "to": "evidence:2ce09be04a4431a4ea7e",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 4,
+      "section": ""
+    },
+    {
+      "from": "drug:paracetamol",
+      "to": "source:PARA-PDF-007",
+      "relation": "documented_in",
+      "basis": "corpus_membership"
+    },
+    {
+      "from": "source:PARA-PDF-007",
+      "to": "evidence:13e70d57e70903012da1",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 1,
+      "section": ""
+    },
+    {
+      "from": "source:PARA-PDF-007",
+      "to": "evidence:2aacfc4fc6763e7c5136",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 2,
+      "section": ""
+    },
+    {
+      "from": "source:PARA-PDF-007",
+      "to": "evidence:a1b0adefc37ffc1790ea",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 3,
+      "section": ""
+    },
+    {
+      "from": "evidence:a1b0adefc37ffc1790ea",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "distribution"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-007",
+      "to": "evidence:c6bcbd47f1daf0f0ff83",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 4,
+      "section": ""
+    },
+    {
+      "from": "drug:paracetamol",
+      "to": "source:PARA-PDF-009",
+      "relation": "documented_in",
+      "basis": "corpus_membership"
+    },
+    {
+      "from": "source:PARA-PDF-009",
+      "to": "evidence:ce4efed893f50968dbd6",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 1,
+      "section": ""
+    },
+    {
+      "from": "evidence:ce4efed893f50968dbd6",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "absorption",
+        "distribution",
+        "clearance"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:ce4efed893f50968dbd6",
+      "to": "concept:metabolism",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "metabolism",
+        "metabolized"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:ce4efed893f50968dbd6",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-009",
+      "to": "evidence:f528a1f34997938f1700",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 2,
+      "section": ""
+    },
+    {
+      "from": "evidence:f528a1f34997938f1700",
+      "to": "concept:mechanism_of_action",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "mechanism"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:f528a1f34997938f1700",
+      "to": "concept:metabolism",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "metabolism"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:f528a1f34997938f1700",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-009",
+      "to": "evidence:c7733289a941dbe3b0ff",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 3,
+      "section": ""
+    },
+    {
+      "from": "evidence:c7733289a941dbe3b0ff",
+      "to": "concept:metabolism",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "metabolism"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-009",
+      "to": "evidence:45874f01cac245f08187",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 4,
+      "section": ""
+    },
+    {
+      "from": "evidence:45874f01cac245f08187",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-009",
+      "to": "evidence:8c3e0c52c760a327f583",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 5,
+      "section": ""
+    },
+    {
+      "from": "evidence:8c3e0c52c760a327f583",
+      "to": "concept:mechanism_of_action",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "mechanism"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:8c3e0c52c760a327f583",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "absorption",
+        "distribution",
+        "clearance"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:8c3e0c52c760a327f583",
+      "to": "concept:metabolism",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "metabolism"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-009",
+      "to": "evidence:467c78a4a159662d3c96",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 6,
+      "section": ""
+    },
+    {
+      "from": "evidence:467c78a4a159662d3c96",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "absorption",
+        "distribution",
+        "clearance"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:467c78a4a159662d3c96",
+      "to": "concept:metabolism",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "metabolism",
+        "metabolized"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-009",
+      "to": "evidence:2b3c77feb63d3aa981a9",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 7,
+      "section": ""
+    },
+    {
+      "from": "evidence:2b3c77feb63d3aa981a9",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "absorption",
+        "distribution"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:2b3c77feb63d3aa981a9",
+      "to": "concept:metabolism",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "metabolism"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:2b3c77feb63d3aa981a9",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-009",
+      "to": "evidence:637478a7268eb9e94bcb",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 8,
+      "section": ""
+    },
+    {
+      "from": "evidence:637478a7268eb9e94bcb",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "pharmacokinetics",
+        "absorption"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:637478a7268eb9e94bcb",
+      "to": "concept:metabolism",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "metabolism"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "drug:paracetamol",
+      "to": "source:PARA-PDF-010",
+      "relation": "documented_in",
+      "basis": "corpus_membership"
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:bb18bcd8ee325bea39c0",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 1,
+      "section": ""
+    },
+    {
+      "from": "evidence:bb18bcd8ee325bea39c0",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:1e95840e426a7224ef49",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 2,
+      "section": ""
+    },
+    {
+      "from": "evidence:1e95840e426a7224ef49",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:a3820bfddec30b8505ed",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 3,
+      "section": ""
+    },
+    {
+      "from": "evidence:a3820bfddec30b8505ed",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "absorption"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:a3820bfddec30b8505ed",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicology",
+        "toxicity",
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:5bb5242dfca19651829d",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 4,
+      "section": ""
+    },
+    {
+      "from": "evidence:5bb5242dfca19651829d",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "absorption"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:5bb5242dfca19651829d",
+      "to": "concept:napqi",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "n-acetyl-p-benzoquinone imine"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:5bb5242dfca19651829d",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:42e502dc58b88cb21a34",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 5,
+      "section": ""
+    },
+    {
+      "from": "evidence:42e502dc58b88cb21a34",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "absorption"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:42e502dc58b88cb21a34",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:c294f04b624ca96fb5ed",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 6,
+      "section": ""
+    },
+    {
+      "from": "evidence:c294f04b624ca96fb5ed",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:5f2b764bad5881a4bb84",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 7,
+      "section": ""
+    },
+    {
+      "from": "evidence:5f2b764bad5881a4bb84",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:58ef97a018084944ce5d",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 8,
+      "section": ""
+    },
+    {
+      "from": "evidence:58ef97a018084944ce5d",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:1d3f95c70a12425f82ca",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 9,
+      "section": ""
+    },
+    {
+      "from": "evidence:1d3f95c70a12425f82ca",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:33f3f8ad5d9aeedceeeb",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 10,
+      "section": ""
+    },
+    {
+      "from": "evidence:33f3f8ad5d9aeedceeeb",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:c40cf1b715fbfbbc4d41",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 11,
+      "section": ""
+    },
+    {
+      "from": "evidence:c40cf1b715fbfbbc4d41",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:d5fba89b8e2e36a9dd55",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 12,
+      "section": ""
+    },
+    {
+      "from": "evidence:d5fba89b8e2e36a9dd55",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:14f3c7a66e47552d4522",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 13,
+      "section": ""
+    },
+    {
+      "from": "evidence:14f3c7a66e47552d4522",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:81b29909a5a24a3bc160",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 14,
+      "section": ""
+    },
+    {
+      "from": "evidence:81b29909a5a24a3bc160",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:f4dad46ff6be7525775c",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 15,
+      "section": ""
+    },
+    {
+      "from": "evidence:f4dad46ff6be7525775c",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:188729f04920f6b10416",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 16,
+      "section": ""
+    },
+    {
+      "from": "evidence:188729f04920f6b10416",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:35a572501c2075819540",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 17,
+      "section": ""
+    },
+    {
+      "from": "evidence:35a572501c2075819540",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "absorption"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:35a572501c2075819540",
+      "to": "concept:napqi",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "napqi",
+        "n-acetyl-p-benzoquinone imine"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:35a572501c2075819540",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:47d553c3ac10350b8109",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 18,
+      "section": ""
+    },
+    {
+      "from": "evidence:47d553c3ac10350b8109",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "absorption"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:47d553c3ac10350b8109",
+      "to": "concept:metabolism",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "metabolised"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:47d553c3ac10350b8109",
+      "to": "concept:napqi",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "napqi"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:47d553c3ac10350b8109",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:0eb5ee207a1d90ab5548",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 19,
+      "section": ""
+    },
+    {
+      "from": "evidence:0eb5ee207a1d90ab5548",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "absorption"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:0eb5ee207a1d90ab5548",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:8baeb49c48b6d70b18e4",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 20,
+      "section": ""
+    },
+    {
+      "from": "evidence:8baeb49c48b6d70b18e4",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:310dfe4ca3bad6961a12",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 21,
+      "section": ""
+    },
+    {
+      "from": "evidence:310dfe4ca3bad6961a12",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:7fe0920d1a39c823aa02",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 22,
+      "section": ""
+    },
+    {
+      "from": "evidence:7fe0920d1a39c823aa02",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:658cfd1660e9996eb2bc",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 23,
+      "section": ""
+    },
+    {
+      "from": "evidence:658cfd1660e9996eb2bc",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "absorption"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:658cfd1660e9996eb2bc",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:fa1ad711774c73382d77",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 24,
+      "section": ""
+    },
+    {
+      "from": "evidence:fa1ad711774c73382d77",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:64c46db33000151406f3",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 25,
+      "section": ""
+    },
+    {
+      "from": "evidence:64c46db33000151406f3",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:afc03285824e43b0fb43",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 26,
+      "section": ""
+    },
+    {
+      "from": "evidence:afc03285824e43b0fb43",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:30db9dc4ce2cfff01d3f",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 27,
+      "section": ""
+    },
+    {
+      "from": "evidence:30db9dc4ce2cfff01d3f",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "absorption"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:30db9dc4ce2cfff01d3f",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:f3afe1dc7ca1540ba420",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 28,
+      "section": ""
+    },
+    {
+      "from": "evidence:f3afe1dc7ca1540ba420",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:e409e28d234bae537a5a",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 29,
+      "section": ""
+    },
+    {
+      "from": "evidence:e409e28d234bae537a5a",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:dc100565e823dabbd11e",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 30,
+      "section": ""
+    },
+    {
+      "from": "evidence:dc100565e823dabbd11e",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:ace71b4f82d152011b43",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 31,
+      "section": ""
+    },
+    {
+      "from": "evidence:ace71b4f82d152011b43",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "absorption"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:ace71b4f82d152011b43",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:017e5e564f80549cbf04",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 32,
+      "section": ""
+    },
+    {
+      "from": "evidence:017e5e564f80549cbf04",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:9e3b8101277bf549edc2",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 33,
+      "section": ""
+    },
+    {
+      "from": "evidence:9e3b8101277bf549edc2",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "absorption"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:9e3b8101277bf549edc2",
+      "to": "concept:napqi",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "napqi"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:9e3b8101277bf549edc2",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:ac77a48fb7df82d9a4f2",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 34,
+      "section": ""
+    },
+    {
+      "from": "evidence:ac77a48fb7df82d9a4f2",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "absorption"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:ac77a48fb7df82d9a4f2",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:88f420bfc7fbcac6995a",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 35,
+      "section": ""
+    },
+    {
+      "from": "evidence:88f420bfc7fbcac6995a",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicology",
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:f2afdf4f81152ee28038",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 36,
+      "section": ""
+    },
+    {
+      "from": "evidence:f2afdf4f81152ee28038",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "absorption"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:f2afdf4f81152ee28038",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicology",
+        "toxicity",
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:46e78523870ea3d89cd0",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 37,
+      "section": ""
+    },
+    {
+      "from": "evidence:46e78523870ea3d89cd0",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicology",
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:b4413dae11c253e88e28",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 38,
+      "section": ""
+    },
+    {
+      "from": "evidence:b4413dae11c253e88e28",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicology",
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:9eb3790a698d85446a32",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 39,
+      "section": ""
+    },
+    {
+      "from": "evidence:9eb3790a698d85446a32",
+      "to": "concept:mechanism_of_action",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "mechanism of action",
+        "mechanism"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:9eb3790a698d85446a32",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "pharmacokinetics"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:9eb3790a698d85446a32",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicology",
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:faa595f7c6f06b81597d",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 40,
+      "section": ""
+    },
+    {
+      "from": "evidence:faa595f7c6f06b81597d",
+      "to": "concept:metabolism",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "metabolism"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:faa595f7c6f06b81597d",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicology",
+        "toxicity",
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:16c8f501ec5ded8f8e44",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 41,
+      "section": ""
+    },
+    {
+      "from": "evidence:16c8f501ec5ded8f8e44",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicology",
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:db1e552e47d7b63c7266",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 42,
+      "section": ""
+    },
+    {
+      "from": "evidence:db1e552e47d7b63c7266",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:f3da36302f7a3a0efb22",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 43,
+      "section": ""
+    },
+    {
+      "from": "evidence:f3da36302f7a3a0efb22",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:22fdda267fd77ea1156d",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 44,
+      "section": ""
+    },
+    {
+      "from": "evidence:22fdda267fd77ea1156d",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:a0682a1ccac1ba319a87",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 45,
+      "section": ""
+    },
+    {
+      "from": "evidence:a0682a1ccac1ba319a87",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:d8d598f96f0ac494b267",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 46,
+      "section": ""
+    },
+    {
+      "from": "evidence:d8d598f96f0ac494b267",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:ac9fc27b2287364a0a95",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 47,
+      "section": ""
+    },
+    {
+      "from": "evidence:ac9fc27b2287364a0a95",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:339dbee314019ea70626",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 48,
+      "section": ""
+    },
+    {
+      "from": "evidence:339dbee314019ea70626",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:86a46f4e0d135cb85ddc",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 49,
+      "section": ""
+    },
+    {
+      "from": "evidence:86a46f4e0d135cb85ddc",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:91d5a75609bf0fa7d3ce",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 50,
+      "section": ""
+    },
+    {
+      "from": "evidence:91d5a75609bf0fa7d3ce",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:3ce3f5cad8623a0bff18",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 51,
+      "section": ""
+    },
+    {
+      "from": "evidence:3ce3f5cad8623a0bff18",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "clearance"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:3ce3f5cad8623a0bff18",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:3865112f318af981defb",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 52,
+      "section": ""
+    },
+    {
+      "from": "evidence:3865112f318af981defb",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:9d65daaee803abfd52d9",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 53,
+      "section": ""
+    },
+    {
+      "from": "evidence:9d65daaee803abfd52d9",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:b6b6b55237084faa75c3",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 54,
+      "section": ""
+    },
+    {
+      "from": "evidence:b6b6b55237084faa75c3",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:98786b61bf530bf5b65d",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 55,
+      "section": ""
+    },
+    {
+      "from": "evidence:98786b61bf530bf5b65d",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:4ca7eb5fbd2518a50a1d",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 56,
+      "section": ""
+    },
+    {
+      "from": "evidence:4ca7eb5fbd2518a50a1d",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:86173257d8a8fa10a495",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 57,
+      "section": ""
+    },
+    {
+      "from": "evidence:86173257d8a8fa10a495",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:b0e48dca20493c418707",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 58,
+      "section": ""
+    },
+    {
+      "from": "evidence:b0e48dca20493c418707",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:10cbca2175ca22e07e06",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 59,
+      "section": ""
+    },
+    {
+      "from": "evidence:10cbca2175ca22e07e06",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:086fdf57eb86a577db4d",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 60,
+      "section": ""
+    },
+    {
+      "from": "evidence:086fdf57eb86a577db4d",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:4b2ac90ffadba6d67916",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 61,
+      "section": ""
+    },
+    {
+      "from": "evidence:4b2ac90ffadba6d67916",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:5a1ddff04fc1acae95ed",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 62,
+      "section": ""
+    },
+    {
+      "from": "evidence:5a1ddff04fc1acae95ed",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "absorption"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:5a1ddff04fc1acae95ed",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:9ddf22f4d21dde7e1f4d",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 63,
+      "section": ""
+    },
+    {
+      "from": "evidence:9ddf22f4d21dde7e1f4d",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:bcb5910cbfc2941e55bc",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 64,
+      "section": ""
+    },
+    {
+      "from": "evidence:bcb5910cbfc2941e55bc",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:beef9296d24d86bc8fa6",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 65,
+      "section": ""
+    },
+    {
+      "from": "evidence:beef9296d24d86bc8fa6",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:bb3681e81be0ff1ef0f1",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 66,
+      "section": ""
+    },
+    {
+      "from": "evidence:bb3681e81be0ff1ef0f1",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:c751219f0b773fe8ff63",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 67,
+      "section": ""
+    },
+    {
+      "from": "evidence:c751219f0b773fe8ff63",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:0899e791e94480df2d89",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 68,
+      "section": ""
+    },
+    {
+      "from": "evidence:0899e791e94480df2d89",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:e409c6c465f7d9f3e7ff",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 69,
+      "section": ""
+    },
+    {
+      "from": "evidence:e409c6c465f7d9f3e7ff",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:8cc0d8c1f529f756738e",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 70,
+      "section": ""
+    },
+    {
+      "from": "evidence:8cc0d8c1f529f756738e",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:5cd7f294a2b211f1d9b4",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 71,
+      "section": ""
+    },
+    {
+      "from": "evidence:5cd7f294a2b211f1d9b4",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:72caa2491939a5ab1497",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 72,
+      "section": ""
+    },
+    {
+      "from": "evidence:72caa2491939a5ab1497",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PARA-PDF-010",
+      "to": "evidence:ac87f5691931ca62e8e4",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": 73,
+      "section": ""
+    },
+    {
+      "from": "evidence:ac87f5691931ca62e8e4",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "pharmacokinetics",
+        "absorption"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:ac87f5691931ca62e8e4",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "drug:paracetamol",
+      "to": "source:PMC5744234-XML",
+      "relation": "documented_in",
+      "basis": "corpus_membership"
+    },
+    {
+      "from": "source:PMC5744234-XML",
+      "to": "evidence:8032931823297cd75534",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": null,
+      "section": "Introduction"
+    },
+    {
+      "from": "evidence:8032931823297cd75534",
+      "to": "concept:mechanism_of_action",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "mechanism"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:8032931823297cd75534",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "overdose"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PMC5744234-XML",
+      "to": "evidence:7241e5df3413684ec13f",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": null,
+      "section": "Emerging acetaminophen use within physiology research"
+    },
+    {
+      "from": "evidence:7241e5df3413684ec13f",
+      "to": "concept:mechanism_of_action",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "mechanism"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:7241e5df3413684ec13f",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "pharmacokinetics",
+        "distribution"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:7241e5df3413684ec13f",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PMC5744234-XML",
+      "to": "evidence:fdae33005c125a43e50d",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": null,
+      "section": "Acetaminophen dose and pharmacokinetics"
+    },
+    {
+      "from": "evidence:fdae33005c125a43e50d",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "absorption",
+        "distribution",
+        "clearance"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:fdae33005c125a43e50d",
+      "to": "concept:metabolism",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "metabolized"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:fdae33005c125a43e50d",
+      "to": "concept:toxicology",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "toxicity",
+        "overdose",
+        "hepatotoxicity"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PMC5744234-XML",
+      "to": "evidence:e6333d731460342fb6df",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": null,
+      "section": "Summary and conclusions"
+    },
+    {
+      "from": "evidence:e6333d731460342fb6df",
+      "to": "concept:mechanism_of_action",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "mechanism"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "evidence:e6333d731460342fb6df",
+      "to": "concept:pharmacokinetics",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "distribution"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "source:PMC5744234-XML",
+      "to": "evidence:4730097669a454ce444e",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": null,
+      "section": "Author contributions"
+    },
+    {
+      "from": "source:PMC5744234-XML",
+      "to": "evidence:8e849bcd2b85990038c5",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": null,
+      "section": "Conflict of interest statement"
+    },
+    {
+      "from": "drug:paracetamol",
+      "to": "source:PARA-TXT-001",
+      "relation": "documented_in",
+      "basis": "corpus_membership"
+    },
+    {
+      "from": "source:PARA-TXT-001",
+      "to": "evidence:d372486f810f097fd0d5",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": null,
+      "section": "plain text document"
+    },
+    {
+      "from": "evidence:d372486f810f097fd0d5",
+      "to": "concept:mechanism_of_action",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "mechanism of action",
+        "mechanism"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "drug:paracetamol",
+      "to": "source:PARA-CHEM-003",
+      "relation": "documented_in",
+      "basis": "corpus_membership"
+    },
+    {
+      "from": "source:PARA-CHEM-003",
+      "to": "evidence:d3cc7c950940ad8cb1b7",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": null,
+      "section": "RDKit-derived molecular record"
+    },
+    {
+      "from": "evidence:d3cc7c950940ad8cb1b7",
+      "to": "concept:chemical_structure",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "molecular formula",
+        "smiles"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "drug:paracetamol",
+      "to": "source:PUBCHEM-2D-2026",
+      "relation": "documented_in",
+      "basis": "corpus_membership"
+    },
+    {
+      "from": "source:PUBCHEM-2D-2026",
+      "to": "evidence:b444ba7546d3b993153d",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": null,
+      "section": "RDKit-derived molecular record"
+    },
+    {
+      "from": "evidence:b444ba7546d3b993153d",
+      "to": "concept:chemical_structure",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "molecular formula",
+        "smiles"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "drug:paracetamol",
+      "to": "source:PUBCHEM-3D-2026",
+      "relation": "documented_in",
+      "basis": "corpus_membership"
+    },
+    {
+      "from": "source:PUBCHEM-3D-2026",
+      "to": "evidence:e44c454c3267a00b7db5",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": null,
+      "section": "RDKit-derived molecular record"
+    },
+    {
+      "from": "evidence:e44c454c3267a00b7db5",
+      "to": "concept:chemical_structure",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "molecular formula",
+        "smiles"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "drug:paracetamol",
+      "to": "source:PARA-CHEM-002",
+      "relation": "documented_in",
+      "basis": "corpus_membership"
+    },
+    {
+      "from": "source:PARA-CHEM-002",
+      "to": "evidence:c28391eade327395c43d",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": null,
+      "section": "RDKit-derived molecular record"
+    },
+    {
+      "from": "evidence:c28391eade327395c43d",
+      "to": "concept:chemical_structure",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "molecular formula",
+        "smiles"
+      ],
+      "scientific_assertion": false
+    },
+    {
+      "from": "drug:paracetamol",
+      "to": "source:PARA-CHEM-001",
+      "relation": "documented_in",
+      "basis": "corpus_membership"
+    },
+    {
+      "from": "source:PARA-CHEM-001",
+      "to": "evidence:79a8251e07bbf29f1e1d",
+      "relation": "contains_evidence",
+      "basis": "extraction",
+      "page": null,
+      "section": "PubChem compound properties"
+    },
+    {
+      "from": "evidence:79a8251e07bbf29f1e1d",
+      "to": "concept:chemical_structure",
+      "relation": "mentions_concept",
+      "basis": "lexical_match",
+      "matched_terms": [
+        "molecular formula",
+        "inchi",
+        "molecular weight"
+      ],
+      "scientific_assertion": false
+    }
+  ]
+}

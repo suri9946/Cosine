@@ -1,0 +1,24 @@
+# Local secrets and runtime environment
+.env
+.env.*
+!.env.example
+.venv/
+.venv*/
+venv/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Scratch and local logs
+tmp/
+*.log
+*.tmp
+
+# Local editor/OS metadata
+.vscode/
+.DS_Store
+Thumbs.db

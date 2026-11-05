@@ -1,0 +1,21 @@
+{
+  "request_id": "2719e50fba84472db7df1b53ad525075",
+  "question": "What is the mechanism of baclofen?",
+  "status": "ABSTAIN",
+  "answer": "",
+  "retrieval_assessment": {
+    "status": "RETRIEVAL_INSUFFICIENT_EVIDENCE",
+    "topic": "unknown"
+  },
+  "evidence": [],
+  "interpretation": null,
+  "verification": null,
+  "judgment": null,
+  "stage_errors": {},
+  "audit_path": "C:\\Users\\Surendra Babu\\Downloads\\DrugCo\\data\\processed\\runs\\2719e50fba84472db7df1b53ad525075.json",
+  "stage_timings_ms": {
+    "agent1": 0,
+    "total": 0
+  },
+  "created_at": "2026-11-02T20:40:00.548501+00:00"
+}
